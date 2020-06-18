@@ -1,0 +1,30 @@
+# Site settings
+title: Param Rathour
+subtitle: 
+email: paramrathour3435@gmail.com
+description: Undergraduate at IIT Bombay
+#baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site
+author: Param Rathour
+street_address: IIT Bombay
+city: Mumbai
+state: Maharashtra
+zip_code: 400076
+country: India
+phone: +91 (22) 2576 2616
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/paramrathour3435/
+github_url: https://github.com/paramrathour
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://www.instagram.com/param3435/
+linkedin_url: https://www.linkedin.com/in/param3435
+pinterest_url:
+slack_url:
+stack_overflow_url: https://stackoverflow.com/users/13746066/param-rathour
+#twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
