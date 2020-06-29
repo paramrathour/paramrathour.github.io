@@ -12,7 +12,7 @@ Topics that I find interesting:
         <h3 style="text-align:center">Academics</h3>
 
         <ul>
-            <li>Mathematics ε\></li>
+            <li>Mathematics ε></li>
 
             <li>Nonlinear Dynamics</li>
 
@@ -54,7 +54,7 @@ Topics that I find interesting:
             <div class="(medium)">
                 <h4 style="text-align:center">Anime</h4>
                 <ul><li>Fullmetal Alchemist Brotherhood</li>
-                <li>Hunter x Hunter</li>
+                <li>Hunter × Hunter</li>
                 <li>Steins;Gate</li>
                 <li>Fate/Zero</li></ul>
             </div>
