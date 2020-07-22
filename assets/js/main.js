@@ -4,6 +4,41 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Dark Mode Toggle*/
+function darkmode(){
+	$("html").addClass("inversed");
+	$("img").addClass("inversed");
+	$("iframe").addClass("inversed");
+    window.localStorage.setItem("mode", "dark");
+    }
+function lightmode(){
+	$("html").removeClass("inversed");
+	$("img").removeClass("inversed");
+	$("iframe").removeClass("inversed");
+    window.localStorage.setItem("mode", "light");
+    }
+        
+if(window.localStorage.getItem("mode")=="dark"){
+    darkmode();
+     $('#mode').each(function () { this.checked = !this.checked; });
+}
+	
+else
+	lightmode();
+
+ $('#mode').change(function(){   
+
+    if ($(this).prop('checked'))
+    {
+        darkmode();
+    }
+    else
+    {
+        lightmode();
+    }
+
+});
+ 
 (function($) {
 
 	skel.breakpoints({

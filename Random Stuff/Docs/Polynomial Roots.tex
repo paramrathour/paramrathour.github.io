@@ -1,0 +1,71 @@
+\documentclass[a0paper,12pt]{article}
+\usepackage{amsmath, amssymb, amsfonts, amsthm, mathtools}
+\newtheorem{theorem}{Theorem}[section]
+
+\usepackage{graphicx}
+\usepackage{comment}
+\usepackage{geometry}
+\geometry{
+total={841mm,1189mm},
+left=20mm,
+top=20mm,}
+\usepackage{breqn}
+
+\begin{document}
+Here are formulas of roots of polynomial functions:
+\begin{enumerate}
+	\item Solution of $ax+b$ is:
+	\begin{equation}
+		r=-\frac{b}{a}
+	\end{equation}
+	\item Solution of $ax^2+bx+c$ is:
+	\begin{equation}
+		r_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\equiv\frac{-2c}{b\pm\sqrt{b^2-4ac}}
+	\end{equation}
+	\item Solution of $ax^3+bx^2+cx+d$ is:
+	\begin{equation}
+		\begin{aligned}
+			r_1&=-\frac{1}{3a}\left[b+
+			\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			+\frac{b^2-3ac}{\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			}\right]\\
+			r_2&=-\frac{1}{3a}\left[b+
+			\left(\frac{-1+\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			+\frac{b^2-3ac}{\left(\dfrac{-1+\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			}\right]\\
+			r_3&=-\frac{1}{3a}\left[b+
+			\left(\frac{-1-\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			+\frac{b^2-3ac}{\left(\dfrac{-1-\sqrt{-3}}{2}\right)\sqrt[3]{\frac{2b^3-9abc+27a^2d\pm\sqrt{\left(2b^3-9abc+27a^2d\right)^2-4\left(b^2-3ac\right)^3}}{2}}
+			}\right]\\
+		\end{aligned}
+	\end{equation}
+	\begin{comment}
+	\begin{equation}
+		\sqrt[3]{\left(\frac{-b^3}{27a^3}+\frac{bc}{6a^2}-\frac{d}{2a}\right)+\sqrt{\left(\frac{-b^3}{27a^3}+\frac{bc}{6a^2}-\frac{d}{2a}\right)^2+\left(\frac{c}{3a}-\frac{b^2}{9a^2}\right)^3}}+
+		\sqrt[3]{\left(\frac{-b^3}{27a^3}+\frac{bc}{6a^2}-\frac{d}{2a}\right)-\sqrt{\left(\frac{-b^3}{27a^3}+\frac{bc}{6a^2}-\frac{d}{2a}\right)^2+\left(\frac{c}{3a}-\frac{b^2}{9a^2}\right)^3}}-
+		\frac{b}{3a}
+	\end{equation}
+	\end{comment}
+	\item Solution of $x^4+ax^3+bx^2+cx+d$ is:
+	\begin{dmath}
+		r_1=-\frac{a}{4}
+		-\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}
+		-\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}-\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}-\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}}}
+	\end{dmath}
+	\begin{dmath}
+		r_2=-\frac{a}{4}
+		-\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}
+		+\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}-\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}-\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}}}
+	\end{dmath}
+	\begin{dmath}
+		r_3=-\frac{a}{4}
+		-\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}
+		-\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}-\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}+\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}}}
+	\end{dmath}
+	\begin{dmath}
+		r_4=-\frac{a}{4}
+		-\frac{1}{2}\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}
+		+\frac{1}{2}\sqrt{\frac{a^2}{2}-\frac{4b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}-\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}+\frac{-a^3+4ab-8c}{4\sqrt{\frac{a^2}{4}-\frac{2b}{3}+\frac{2^{\frac{1}{3}}\left(b^2-3ac+12d\right)}{3\left(2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}\right)^{\frac{1}{3}}}+\left(\frac{2b^3-9abc+27c^2+27a^2d-72bd+\sqrt{-4\left(b^2-3ac+12d\right)^3+\left(2b^3-9abc+27c^2+27a^2d-72bd\right)^2}}{54}\right)^{\frac{1}{3}}}}}
+	\end{dmath}
+\end{enumerate}
+\end{document}

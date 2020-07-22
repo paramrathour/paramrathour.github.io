@@ -1,0 +1,28 @@
+---
+title: Langton's Ant
+layout: page
+---
+**Langton's ant** is a two-dimensional universal **Turing machine** with a very simple set of rules but complex emergent behavior. It was invented by Chris Langton in 1986 and runs on a square lattice of black and white cells.
+<h2 align="center">Rules</h2>
+Squares on a plane are colored variously either black or white. We arbitrarily identify one square as the "ant". The ant can travel in any of the four cardinal directions at each step it takes. The "ant" moves according to the rules below:
+
+- At a white square, turn 90° clockwise, flip the color of the square, move forward one unit
+- At a black square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
+- Langton's ant can also be described as a cellular automaton, where the grid is colored black or white and the "ant" square has one of eight different colors assigned to encode the combination of black/white state and the current direction of motion of the ant.
+<h2 align="center">Examples of patterns</h2>
+Many different types of patterns occur in the Game of Life, which are classified according to their behaviour. Common pattern types include: **still lifes**, which do not change from one generation to the next; **oscillators**, which return to their initial state after a finite number of generations; and **spaceships**, which translate themselves across the grid.
+<h2 align="center">Still Lifes</h2>
+
+<table style="text-align:center;">
+  <tr>
+    <td>Animation of first 200 steps of Langton's ant</td>
+  </tr>
+  <tr>
+    <td><img src="GIFs/Langton's Ant.gif"></td>
+    </tr>
+</table>
+
+### References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Langton%27s_ant)
+- Code of above patterns are available in this [repository](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant). You can try simulating by changing values
