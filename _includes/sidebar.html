@@ -1,13 +1,16 @@
 <!-- Sidebar -->
   <div id="sidebar">
     <div class="inner">
+      <!--Mode Toggle-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <label for="mode" class="switch"><input type="checkbox" id="mode"><div class="slider round"></div></label>
 
-      <!-- Search -->
+      <!-- Search >
         <section id="search" class="alt">
           <form method="post" action="#">
             <input type="text" name="query" id="query" placeholder="Search" />
           </form>
-        </section>
+        </section-->
 
       <!-- Menu -->
         <nav id="menu">
@@ -16,20 +19,17 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>         
-            <li>
-              <span class="opener">About Me</span>
-              <ul>
-              <li><a href="{{ '/Interests' | absolute_url }}">Interests</a></li>
-              </ul>
-            </li>
+            <li><a href="{{ '/About Me'}}">About Me</a></li>         
             <li>
               <span class="opener">Academics</span>
               <ul>
-              <li><a href="{{ '/Courses' | absolute_url }}">Courses</a></li>
-              <li><a href="{{ '/Projects' | absolute_url }}">Projects</a></li>
+              <li><a href="{{ '/Courses'}}">Courses</a></li>
+              <li><a href="{{ '/Projects'}}">Projects</a></li>
+              <li><a href="{{ '/Time Table' }}">Time Table</a></li>
               </ul>
             </li>
-              <li><a href="{{ '/Blog' | absolute_url }}">Blog</a></li>                                
+              <li><a href="{{ '/Blog'}}">Blog</a></li>
+              <li><a href="{{ '/Random Stuff'}}">Random Stuff</a></li>
           </ul>
         </nav>
 
@@ -38,20 +38,49 @@
           <header class="major">
             <h2>Get in touch</h2>
           </header>
-          <p>If you have something to tell and wish to do so anonymously, you may drop a message <a href="https://forms.gle/Dt6i4iTxfmYdmd1YA">here</a>.</p>
+          <!--p>If you have something to tell and wish to do so anonymously, you may drop a message <a href="https://forms.gle/Dt6i4iTxfmYdmd1YA">here</a>.</p-->
           <ul class="contact">
             <li class="fa-envelope-o"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li class="fa-envelope"><a href="mailto:{{ site.instiemail }}">{{ site.instiemail }}</a></li>
             <li class="fa-phone">{{ site.phone }}</li>
             <li class="fa-home">{{ site.street_address }}<br />
             {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
             {{ site.country }}</li>
           </ul>
         </section>
+        <section>
+          <header class="major">
+            <h2>Anonymous Contact</h2>
+          </header>
+        <!-- Anonymous Form -->
+        <form method="post" action="https://formspree.io/xwkraljv" target="_blank">
+            <div class="row uniform">
+                <div class="12u$">
+                    <input type="text" name="Pseudonym" id="Pseudonym" value="" placeholder="Pseudonym" required/>
+                </div>
+                <!-- Break -->
+                <div class="12u$">
+                    <textarea name="Message" id="Message" placeholder="Enter your message" rows="4" required></textarea>
+                </div>
+                <!-- Break -->
+                <div class="12u$(small)">
+                    <input type="checkbox" id="Human" name="Human" />
+                    <label for="Human">I am a human</label>
+                </div>
+                <!-- Break -->
+                <div class="12u$">
+                    <ul class="actions">
+                        <li><input type="submit" value="Send Message" class="special" /></li>
+                        <li><input type="reset" value="Reset" /></li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+        </section>
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a> Hosted by <a href="https://pages.github.com/">Github Pages</a>.</p>
         </footer>
-
     </div>
   </div>

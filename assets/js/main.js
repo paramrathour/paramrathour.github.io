@@ -4,6 +4,67 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Dark Mode Toggle*/
+function darkmode(){
+	$("html").addClass("inversed");
+	$("img").addClass("inversed");
+	$("iframe").addClass("inversed");
+    window.localStorage.setItem("mode", "dark");
+    }
+function lightmode(){
+	$("html").removeClass("inversed");
+	$("img").removeClass("inversed");
+	$("iframe").removeClass("inversed");
+    window.localStorage.setItem("mode", "light");
+    }
+        
+if(window.localStorage.getItem("mode")=="dark"){
+    darkmode();
+     $('#mode').each(function () { this.checked = !this.checked; });
+}
+	
+else
+	lightmode();
+
+ $('#mode').change(function(){   
+
+    if ($(this).prop('checked'))
+    {
+        darkmode();
+    }
+    else
+    {
+        lightmode();
+    }
+
+});
+
+// ===== Scroll to Top ==== 
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+
+/* Opening links other than host in new tab */
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+
+$("#small_math").css("font-size","90%");
+$("#very_small_math").css("font-size","60%");
+
 (function($) {
 
 	skel.breakpoints({
@@ -92,7 +153,10 @@
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						$sidebar.removeClass('inactive');
+						if (window.location.href == 'http://localhost:4000/' || window.location.href == 'https://paramrathour.github.io/') 
+							$sidebar.addClass('inactive');
+						else
+							$sidebar.removeClass('inactive');
 					});
 
 			// Hack: Workaround for Chrome/Android scrollbar position bug.

@@ -1,9 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 
 {% include head.html %}
@@ -22,7 +18,9 @@
                 <!-- Content -->
                 <section>
                 	<header class="main">
-                		<h1>{{ page.title }}</h1>
+                    {% if page.title %}
+                		<h1 align="center">{{ page.title }}</h1>
+                    {% endif %}
                 	</header>
 
                   {% if page.image %}

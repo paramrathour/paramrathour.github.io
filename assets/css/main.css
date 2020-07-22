@@ -7,7 +7,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Reset */
+/*iframe, img, html {
+      -webkit-filter: invert() hue-rotate(180deg) brightness(105%) contrast(105%);
+  }*/
+
+.inversed {
+  -webkit-filter: invert(100%) brightness(105%) contrast(105%);
+  filter: invert(100%) brightness(105%) contrast(105%);
+}
+.inversion {
+filter: invert(0%);
+}
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -2106,7 +2116,6 @@
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #f56a6a;
 		text-decoration: none;
 	}
@@ -2289,6 +2298,10 @@
 	}
 
 	header.main > :last-child {
+		margin: 0 0 1em 0;
+	}
+
+	#small header.major > :last-child {
 		margin: 0 0 1em 0;
 	}
 
@@ -4062,3 +4075,193 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+/* Slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 33%;
+  height: 1%;
+}
+
+.switch input {display:none;}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f56a6a;
+  -webkit-transition: .4s;
+  transition: .4s;
+   border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 60%;
+  width: 27%;
+  left: 6%;
+  bottom: 18%;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #f56a6a;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1 #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(106%);
+  -ms-transform: translateX(106%);
+  transform: translateX(225%);
+}
+
+/*------ ADDED CSS ---------*/
+.slider:after
+{
+ content:'Light';
+ color: white;
+ display: block;
+ position: absolute;
+ transform: translate(-10%,-50%);
+ top: 52%;
+ left: 50%;
+ font-size: 1em;
+ font-family: "Open Sans", sans-serif;
+}
+
+input:checked + .slider:after
+{  
+	content:'Dark';
+	transform: translate(-90%,-50%);
+}
+
+@media screen and (max-width: 1280px) {
+	.slider:before {
+	  position: absolute;
+	  content: "";
+	  height: 55%;
+	  width: 27%;
+	  left: 6%;
+	  bottom: 20%;
+	  background-color: white;
+	  -webkit-transition: .4s;
+	  transition: .4s;
+	  border-radius: 50%;
+	}	
+}
+/* Scroll To Top */
+#return-to-top {
+    position: fixed;
+    z-index: 10000;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(245, 106, 106);
+    background: rgba(245, 106, 106, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #ffffff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 7.5px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(245, 106, 106, 0.9);
+}
+#return-to-top:hover i {
+    color: #ffffff;
+    top: 2px;
+}
+
+@media (pointer:coarse) {
+	#return-to-top {
+	    position: fixed;
+	    z-index: 10000;
+	    bottom: 20px;
+	    right: 20px;
+	    background: rgb(245, 106, 106);
+	    background: rgba(245, 106, 106, 0.8);
+	    width: 50px;
+	    height: 50px;
+	    display: block;
+	    text-decoration: none;
+	    -webkit-border-radius: 35px;
+	    -moz-border-radius: 35px;
+	    border-radius: 35px;
+	    display: none;
+	    -webkit-transition: all 0.3s linear;
+	    -moz-transition: all 0.3s ease;
+	    -ms-transition: all 0.3s ease;
+	    -o-transition: all 0.3s ease;
+	    transition: all 0.3s ease;
+	}
+	#return-to-top i {
+	    color: #ffffff;
+	    margin: 0;
+	    position: relative;
+	    left: 16px;
+	    top: 7.5px;
+	    font-size: 19px;
+	    -webkit-transition: all 0.3s ease;
+	    -moz-transition: all 0.3s ease;
+	    -ms-transition: all 0.3s ease;
+	    -o-transition: all 0.3s ease;
+	    transition: all 0.3s ease;
+	}
+	#return-to-top:hover {
+	    background: rgba(245, 106, 106, 0.8);
+	}
+	#return-to-top:hover i {
+	    color: #ffffff;
+	    top: 7.5px;
+	}
+
+}
+/* Time Table */
+#time-table table{
+	text-align: center;
+}
+
+#time-table table tbody tr:nth-child(n) {
+	background-color: rgba(255, 255, 255);
+}
+#time-table table tbody tr:first-child {
+	background-color: rgba(230, 235, 237, 0.50);
+}			
+#time-table table tbody tr td:first-child {
+	background-color: rgba(230, 235, 237, 0.50);
+}			
+#time-table td:hover{
+	background-color: rgba(230, 235, 237, 0.50);
+	transition-duration: 0.3s;
+}						

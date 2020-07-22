@@ -1,5 +1,5 @@
 <head>
-  <title>{% if pagesmall.title %}{{ pagesmall.title }} | {{ site.author }}{% elsif page.title %}{{ page.title }} | {{ site.author }} {% elsif default.title %}{{ default.title }} | {{ site.author }} {% else %} {{ site.author }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} | {{ site.author }} {% elsif default.title %}{{ default.title }} | {{ site.author }} {% else %} {{ site.author }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <meta name="author" content="{{ site.author }}" />
 
@@ -12,4 +12,14 @@
   <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ 'assets/css/ie9.css' | relative_url }}" /><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ 'assets/css/ie8.css' | relative_url }}" /><![endif]-->
+  <!-- MathJax -->
+  <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
+  <!-- Return to Top -->
+  <a id="return-to-top"><i class="icon fa-chevron-up"></i></a>
 </head>
