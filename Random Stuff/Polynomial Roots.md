@@ -14,6 +14,7 @@ But you can see these formulas (if interested)
     src="Docs/Polynomial Roots.pdf">
 </iframe>
 
+The same PDF can be found [here](https://github.com/paramrathour/paramrathour.github.io/blob/master/Random%20Stuff/Docs/Polynomial%20Roots.pdf)
 
 ### References
 

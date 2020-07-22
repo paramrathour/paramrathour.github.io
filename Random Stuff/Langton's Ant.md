@@ -15,7 +15,7 @@ Many different types of patterns occur in the Game of Life, which are classified
 
 <table style="text-align:center;">
   <tr>
-    <td>Animation of first 200 steps of Langton's ant</td>
+    <td>Animation of first 30000 steps of Langton's ant</td>
   </tr>
   <tr>
     <td><img src="GIFs/Langton's Ant.gif"></td>
