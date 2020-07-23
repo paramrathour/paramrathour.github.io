@@ -8,15 +8,15 @@ Hello! My name is Param Rathour.
 
 I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India).
 
-I’m pursuing Bachelor of Technology in Electrical Engineering as my major.
+I’m pursuing a Bachelor of Technology in Electrical Engineering as my major.
 <h2 align="center">Education</h2>
 I have changed a lot of schools in my childhood due to transfers.
 
 I completed my education from 4th to 8th standard at Holy Cross Convent High School, Akola.
 
-I then shifted to Latur and joined Podar International School, Latur and completed my class 10 obtaining 10 CGPA in CBSE Board Examinations in 2017.
+I then shifted to Latur and joined Podar International School, Latur, and completed my class 10, obtaining 10 CGPA in CBSE Board Examinations in 2017.
 
-I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidyalaya, Latur with 96.6% in CBSE Board Examinations in 2019.
+I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
 <h2 align="center">Interests</h2>
 I am always involved in learning new stuff and its applications.
 

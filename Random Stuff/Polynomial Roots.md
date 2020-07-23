@@ -5,8 +5,8 @@ layout: page
 This is just me practicing `\LaTeX` by typing long complicated formulas also testing my speed :P
 
 But you can see these formulas (if interested)
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
+<iframe id="IFrame"
+    title="Polynomial Roots"
     width="1050"
     height="615"
     allow="fullscreen"

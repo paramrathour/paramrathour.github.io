@@ -1,8 +1,16 @@
 ---
-layout: pagesmall
+layout: page
 title: Courses
-image: assets/images/iitbtp.png
 ---
+<section id="banner">
+    <div class="content">
+      <header>
+        <h2>IIT Bombay <img src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:125px;height:105px;" align="right" /><br />
+        </h2>
+        <p>List of Courses undertaken:</p>
+      </header>
+    </div>
+  </section>
 ### Department of Electrical Engineering
 * [EE 113 - Introduction to Electrical Engineering](http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20113)
 * [EE 114 - Power Engineering - I](http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20114)

@@ -14,7 +14,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 Many different types of patterns occur in the Game of Life, which are classified according to their behaviour. Common pattern types include: **still lifes**, which do not change from one generation to the next; **oscillators**, which return to their initial state after a finite number of generations; and **spaceships**, which translate themselves across the grid.
 <h2 align="center">Still Lifes</h2>
 
-<table style="text-align:center;">
+<table class="table-wrapper" style="text-align:center;">
   <tr>
     <td>Block</td>
      <td>Beehive</td>
@@ -23,17 +23,17 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Tub</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Block.gif" width="100"></td>
-    <td><img src="GIFs/Beehive.gif" width="120"></td>
-    <td><img src="GIFs/Loaf.gif" width="100"></td>
-    <td><img src="GIFs/Boat.gif" width="100"></td>
-    <td><img src="GIFs/Tub.gif" width="100"></td>
+    <td><span class="image fit"><img src="GIFs/Block.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Beehive.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Loaf.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Boat.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Tub.gif"></span></td>
   </tr>
 </table>
 
 <h2 align="center">Oscillators</h2>
 
-<table style="text-align:center;">
+<table class="table-wrapper" style="text-align:center;">
   <tr>
     <td>Blinker</td>
      <td>Toad</td>
@@ -41,16 +41,16 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Pulsar</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Blinker.gif" width="100"></td>
-    <td><img src="GIFs/Toad.gif" width="100"></td>
-    <td><img src="GIFs/Beacon.gif" width="100"></td>
-    <td><img src="GIFs/Pulsar.gif" width="100"></td>
+    <td><span class="image fit"><img src="GIFs/Blinker.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Toad.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Beacon.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Pulsar.gif"></span></td>
   </tr>
 </table>
 
 <h2 align="center">Spaceships</h2>
 
-<table style="text-align:center;">
+<table class="table-wrapper" style="text-align:center;">
   <tr>
     <td>Glider</td>
      <td>Light Weight Spaceship</td>
@@ -58,21 +58,21 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Heavy Weight Spaceship</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Glider.gif" height="100"></td>
-    <td><img src="GIFs/Light Weight Spaceship.gif" height="80"></td>
-    <td><img src="GIFs/Middle Weight Spaceship.gif" height="100"></td>
-    <td><img src="GIFs/Heavy Weight Spaceship.gif" height="100"></td>
+    <td><span class="image fit"><img src="GIFs/Glider.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Light Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Middle Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="GIFs/Heavy Weight Spaceship.gif"></span></td>
   </tr>
 </table>
 
 <h2 align="center">Glider Gun</h2>
 
-<table style="text-align:center;">
+<table class="table-wrapper" style="text-align:center;">
   <tr>
     <td>Gosper Glider Gun</td>
   </tr>
   <tr>
-    <td><img src="GIFs/Gosper Glider Gun.gif" height="450"></td>
+    <td><span class="image fit"><img src="GIFs/Gosper Glider Gun.gif"></span></td>
   </tr>
 </table>
 
