@@ -4078,7 +4078,7 @@ filter: invert(0%);
   position: relative;
   display: inline-block;
   width: 33%;
-  height: 7%;
+  height: 1%;
 }
 
 .switch input {display:none;}
@@ -4141,6 +4141,21 @@ input:checked + .slider:after
 {  
   content:'Dark';
 transform: translate(-90%,-50%);
+}
+
+@media screen and (max-width: 1280px) {
+	.slider:before {
+	  position: absolute;
+	  content: "";
+	  height: 55%;
+	  width: 27%;
+	  left: 6%;
+	  bottom: 20%;
+	  background-color: white;
+	  -webkit-transition: .4s;
+	  transition: .4s;
+	  border-radius: 50%;
+	}	
 }
 /* Scroll To Top */
 #return-to-top {
