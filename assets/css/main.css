@@ -4077,8 +4077,8 @@ filter: invert(0%);
 .switch {
   position: relative;
   display: inline-block;
-  width: 90px;
-  height: 34px;
+  width: 33%;
+  height: 7%;
 }
 
 .switch input {display:none;}
@@ -4118,9 +4118,9 @@ input:focus + .slider {
 }
 
 input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(55px);
+  -webkit-transform: translateX(106%);
+  -ms-transform: translateX(106%);
+  transform: translateX(225%);
 }
 
 /*------ ADDED CSS ---------*/
