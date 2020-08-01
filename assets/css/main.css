@@ -4090,7 +4090,7 @@ filter: invert(0%);
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #000000;
+  background-color: #f56a6a;
   -webkit-transition: .4s;
   transition: .4s;
    border-radius: 34px;
@@ -4099,10 +4099,10 @@ filter: invert(0%);
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 7px;
+  height: 60%;
+  width: 27%;
+  left: 6%;
+  bottom: 18%;
   background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
@@ -4110,7 +4110,7 @@ filter: invert(0%);
 }
 
 input:checked + .slider {
-  background-color: #000000;
+  background-color: #f56a6a;
 }
 
 input:focus + .slider {
@@ -4169,7 +4169,7 @@ transform: translate(-90%,-50%);
     margin: 0;
     position: relative;
     left: 16px;
-    top: 7px;
+    top: 7.5px;
     font-size: 19px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -4212,7 +4212,7 @@ transform: translate(-90%,-50%);
 	    margin: 0;
 	    position: relative;
 	    left: 16px;
-	    top: 7px;
+	    top: 7.5px;
 	    font-size: 19px;
 	    -webkit-transition: all 0.3s ease;
 	    -moz-transition: all 0.3s ease;
@@ -4225,7 +4225,7 @@ transform: translate(-90%,-50%);
 	}
 	#return-to-top:hover i {
 	    color: #ffffff;
-	    top: 0px;
+	    top: 7.5px;
 	}
 
 }
