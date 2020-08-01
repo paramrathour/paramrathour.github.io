@@ -52,7 +52,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber   " class="image"><img src="Youtube.jpg" alt="Featured Channels" /></a>
+            <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image"><img src="Youtube.jpg" alt="Featured Channels" /></a>
             <h3>Youtube</h3>
             <p>I watch a lot of youtube, not just educational but history, business and economics, tech and random stuff.</p>
             <p>My recommendations
@@ -74,7 +74,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             <h3>Novels</h3>
             <p>I like reading novels with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again.</p>
             <h3>Music</h3>
-            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
+            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
                 <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
                 <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
@@ -93,6 +93,10 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             <a href="#" class="image"><img src="T.V. Series.jpg" alt="" /></a>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
+            <h3>Sports</h3>
+            <p>I like playing and watching cricket and badminton.
+            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new sports and will try more.</p>
+            <p>My favourite team (of course after <span style="color:rgb(34, 85, 164)">India</span>) - <b style="color:rgb(249,205,5);">CSK</b></p>
             <p>Phew! Lot of things to do whensoever.</p>
         </article>
     </div>
