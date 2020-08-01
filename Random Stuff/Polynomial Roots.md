@@ -10,7 +10,7 @@ But you can see these formulas (if interested)
     width="1050"
     height="615"
     allow="fullscreen"
-    class="noinversion"
+    class="inversion"
     src="Docs/Polynomial Roots.pdf">
 </iframe>
 

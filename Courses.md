@@ -5,7 +5,7 @@ title: Courses
 <section id="banner">
     <div class="content">
       <header>
-        <h2>IIT Bombay <img src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:125px;height:105px;" align="right" /><br />
+        <h2>IIT Bombay <img class="inversion" src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right" /><br />
         </h2>
         <p>List of Courses undertaken:</p>
       </header>
