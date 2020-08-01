@@ -4220,4 +4220,11 @@ transform: translate(-90%,-50%);
 	    -o-transition: all 0.3s ease;
 	    transition: all 0.3s ease;
 	}
+	#return-to-top:hover {
+	    background: rgba(245, 106, 106, 0.8);
+	}
+	#return-to-top:hover i {
+	    color: #ffffff;
+	}
+
 }
