@@ -33,7 +33,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <a href="#" class="image"><img src="Mathematics.jpg" alt="" /></a>
+            <a class="image"><img src="Mathematics.jpg" alt="" /></a>
             <h3>Mathematics  ε></h3>
             <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books (favourite books recommend above). My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject. I recently started learning Discrete Mathematics.</p>
         </article>
@@ -70,7 +70,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
-            <a href="#" class="image"><img src="Novels.jpg" alt="Novels" /></a>
+            <a class="image"><img src="Novels.jpg" alt="Novels" /></a>
             <h3>Novels</h3>
             <p>I like reading novels with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again.</p>
             <h3>Music</h3>
@@ -85,18 +85,18 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
-            <a href="#" class="image"><img src="Anime.jpg" alt="" /></a>
+            <a class="image"><img src="Anime.jpg" alt="Anime" /></a>
             <h3>Anime</h3>
             <p>I started watching 'anime'  quite recently (in 11th standard), and I was hooked to it instantly. Adventure, Sci-fi, Psychological, Tragedy, Shounen, Supernatural are some of the genres I have watched, though the list will continue to grow.</p>
         </article>
         <article>
-            <a href="#" class="image"><img src="T.V. Series.jpg" alt="" /></a>
+            <a class="image"><img src="T.V. Series.jpg" alt="T.V. Series" /></a>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new sports and will try more.</p>
-            <p>My favourite team (of course after <span style="color:rgb(34, 85, 164)">India</span>) - <b style="color:rgb(249,205,5);">CSK</b></p>
+            <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b style="color:rgb(249,205,5);">CSK</b></p>
             <p>Phew! Lot of things to do whensoever.</p>
         </article>
     </div>

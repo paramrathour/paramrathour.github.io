@@ -10,7 +10,7 @@ title: Courses
         <p>List of Courses undertaken:</p>
       </header>
     </div>
-  </section>
+</section>
 ### Department of Electrical Engineering
 * [EE 113 - Introduction to Electrical Engineering](http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20113)
 * [EE 114 - Power Engineering - I](http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20114)
