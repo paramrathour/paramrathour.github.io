@@ -96,7 +96,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new sports and will try more.</p>
-            <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b style="color:rgb(249,205,5);">CSK</b></p>
+            <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
             <p>Phew! Lot of things to do whensoever.</p>
         </article>
     </div>
@@ -164,28 +164,28 @@ Below are some of my interestes (Consider thumbnails as recommendations).
     </header>
     <div class="features">
         <article>
-            <span class="icon fa-book"></span>
+            <a href="/Courses"><span class="icon fa-book"></span></a>
             <div class="content">
                 <h3>Courses</h3>
                 <p>List of <a href="/Courses">Courses</a> that I have taken and am taking.</p>
             </div>
         </article>
         <article>
-            <span class="icon fa-user"></span>
+            <a href="/Blog"><span class="icon fa-user"></span></a>
             <div class="content">
                 <h3>Blog</h3>
                 <p>My <a href="/Blog">Blog</a>.</p>
             </div>
         </article>
         <article>
-            <span class="icon fa-code"></span>
+            <a href="/Projects"><span class="icon fa-code"></span></a>
             <div class="content">
                 <h3>Projects</h3>
                 <p>List of some of my <a href="/Projects">Projects</a>.</p>
             </div>
         </article>
         <article>
-            <span class="icon fa-random"></span>
+            <a href="/Random Stuff"><span class="icon fa-random"></span></a>
             <div class="content">
                 <h3>Random Stuff</h3>
                 <p><a href="/Random Stuff">Random Things</a>.</p>
