@@ -109,6 +109,13 @@ Below are some of my interestes (Consider thumbnails as recommendations).
     </header>
     <div class="features">
         <article>
+            <a href="/Time Table"><span class="icon fa-calendar"></span></a>
+            <div class="content">
+                <h3>Time Table</h3>
+                <p>My academic<a href="/Time Table"> Time Table</a>.</p>
+            </div>
+        </article>
+        <article>
             <a href="/Courses"><span class="icon fa-book"></span></a>
             <div class="content">
                 <h3>Courses</h3>
