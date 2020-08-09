@@ -10,7 +10,7 @@ I am currently an undergraduate student at the Department of Electrical Engineer
 
 I’m pursuing a Bachelor of Technology in Electrical Engineering as my major.
 
-<h2 align="center">Education</h2>
+<h2 align="center" id="Education">Education</h2>
 
 I have changed a lot of schools in my childhood due to transfers.
 
@@ -20,7 +20,7 @@ I then shifted to Latur and joined Podar International School, Latur, and comple
 
 I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
 
-<h2 align="center">Interests</h2>
+<h2 align="center" id="Interests">Interests</h2>
 
 I am always involved in learning new stuff and its applications.
 
@@ -85,7 +85,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
-            <a class="image"><img src="Anime.jpg" alt="Anime" /></a>
+            <a href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image"><img src="Anime.jpg" alt="Anime" /></a>
             <h3>Anime</h3>
             <p>I started watching 'anime'  quite recently (in 11th standard), and I was hooked to it instantly. Adventure, Sci-fi, Psychological, Tragedy, Shounen, Supernatural are some of the genres I have watched, though the list will continue to grow.</p>
         </article>
@@ -102,61 +102,6 @@ Below are some of my interestes (Consider thumbnails as recommendations).
     </div>
 </section>
 
-<!-- div class="row">
-    <div class="(medium)">
-        <h3 style="text-align:center">Academics</h3>
-
-        <ul>
-            <li>Mathematics ε></li>
-
-            <li>Nonlinear Dynamics</li>
-
-            <li>Control Systems</li>
-
-            <li>Algorithms</li>
-
-            <li>Coding Theory</li>
-        </ul>
-    
-    </div>
-    <div class="(medium)">
-        <h3 style="text-align:center">Sports</h3>
-        <ul>
-            <li>Cricket</li>
-            <li>Badminton</li>
-            <li>Football</li>
-        </ul>
-    </div>
-    <div class="(medium)">
-        <h3 style="text-align:center">Entertainment</h3>
-        <div class="row">
-            <div class="(medium)">
-                <h4 style="text-align:center">Youtube</h4>
-                Check out featured channels <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber">here</a>.
-            </div>
-            <div class="(medium)">
-                <h4 style="text-align:center">Books</h4>
-                <ul>
-                    <li>Harry Potter</li>
-                    <li>The Alchemist</li>
-                </ul>
-            </div>
-            <div class="(medium)">
-                <h4 style="text-align:center">TV Series</h4>
-                <ul><li>Breaking Bad</li>
-                <li>Sherlock</li>
-                <li>Dark</li></ul>
-            </div>
-            <div class="(medium)">
-                <h4 style="text-align:center">Anime</h4>
-                <ul><li>Fullmetal Alchemist Brotherhood</li>
-                <li>Hunter × Hunter</li>
-                <li>Steins;Gate</li>
-                <li>Fate/Zero</li></ul>
-            </div>
-        </div>
-    </div>
-</div-->
 <!-- Section -->
 <section>
     <header class="major">

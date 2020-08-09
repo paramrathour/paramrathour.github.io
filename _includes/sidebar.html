@@ -19,16 +19,17 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>         
-            <li><a href="{{ 'About Me' | absolute_url }}">About Me</a></li>         
+            <li><a href="{{ '/About Me'}}">About Me</a></li>         
             <li>
               <span class="opener">Academics</span>
               <ul>
-              <li><a href="{{ 'Courses' | absolute_url }}">Courses</a></li>
-              <li><a href="{{ '/Projects' | absolute_url }}">Projects</a></li>
+              <li><a href="{{ '/Courses'}}">Courses</a></li>
+              <li><a href="{{ '/Projects'}}">Projects</a></li>
+              <li><a href="{{ '/Time Table' }}">Time Table</a></li>
               </ul>
             </li>
-              <li><a href="{{ '/Blog' | absolute_url }}">Blog</a></li>
-              <li><a href="{{ '/Random Stuff' | absolute_url }}">Random Stuff</a></li>
+              <li><a href="{{ '/Blog'}}">Blog</a></li>
+              <li><a href="{{ '/Random Stuff'}}">Random Stuff</a></li>
           </ul>
         </nav>
 
@@ -51,15 +52,15 @@
           <header class="major">
             <h2>Anonymous Contact</h2>
           </header>
-        <!-- Form -->
-        <form method="post" action="https://formspree.io/xwkraljv">
+        <!-- Anonymous Form -->
+        <form method="post" action="https://formspree.io/xwkraljv" target="_blank">
             <div class="row uniform">
                 <div class="12u$">
-                    <input type="text" name="Pseudonym" id="Pseudonym" value="" placeholder="Pseudonym" />
+                    <input type="text" name="Pseudonym" id="Pseudonym" value="" placeholder="Pseudonym" required/>
                 </div>
                 <!-- Break -->
                 <div class="12u$">
-                    <textarea name="Message" id="Message" placeholder="Enter your message" rows="4"></textarea>
+                    <textarea name="Message" id="Message" placeholder="Enter your message" rows="4" required></textarea>
                 </div>
                 <!-- Break -->
                 <div class="12u$(small)">

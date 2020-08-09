@@ -149,7 +149,10 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						$sidebar.removeClass('inactive');
+						if (window.location.href == 'http://localhost:4000/' || window.location.href == 'https://paramrathour.github.io/') 
+							$sidebar.addClass('inactive');
+						else
+							$sidebar.removeClass('inactive');
 					});
 
 			// Hack: Workaround for Chrome/Android scrollbar position bug.

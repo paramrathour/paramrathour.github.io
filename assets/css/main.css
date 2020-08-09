@@ -2301,6 +2301,10 @@ filter: invert(0%);
 		margin: 0 0 1em 0;
 	}
 
+	#small header.major > :last-child {
+		margin: 0 0 1em 0;
+	}
+
 /* Form */
 
 	form {
@@ -4243,3 +4247,21 @@ input:checked + .slider:after
 	}
 
 }
+/* Time Table */
+#time-table table{
+	text-align: center;
+}
+
+#time-table table tbody tr:nth-child(n) {
+	background-color: rgba(255, 255, 255);
+}
+#time-table table tbody tr:first-child {
+	background-color: rgba(230, 235, 237, 0.50);
+}			
+#time-table table tbody tr td:first-child {
+	background-color: rgba(230, 235, 237, 0.50);
+}			
+#time-table td:hover{
+	background-color: rgba(230, 235, 237, 0.50);
+	transition-duration: 0.3s;
+}						
