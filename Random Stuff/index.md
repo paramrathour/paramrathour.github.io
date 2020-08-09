@@ -32,9 +32,8 @@ title: Random Stuff
     </header>
     <div class="posts">
         <article>
-            <a href="Polynomial Roots" class="image"><iframe id="IFrame" title="Polynomial Roots" class="inversion" src="Docs/Polynomial Roots.pdf" width="480" height="320"></iframe></a>
             <h3>Polynomial Roots</h3>
-            <p>The roots (sometimes called zeroes or solutions) of a polynomial are the values of variable for which the polynomial is zero</p>
+            <p>The roots (sometimes called zeroes or solutions) of a polynomial are the values of variable for which the polynomial is zero.</p>
             <ul class="actions">
                 <li><a href="Polynomial Roots" class="button">More</a></li>
             </ul>

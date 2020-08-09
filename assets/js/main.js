@@ -61,6 +61,10 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
        links[i].target = '_blank';
    } 
 }
+
+$("#small_math").css("font-size","90%");
+$("#very_small_math").css("font-size","60%");
+
 (function($) {
 
 	skel.breakpoints({
