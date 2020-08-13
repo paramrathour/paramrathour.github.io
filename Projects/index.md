@@ -13,7 +13,7 @@ title: Projects
             <h3>Distributed Deep Learning | ITSP</h3>
             <p>Conducted by <a href="https://www.tech-iitb.org/">Institute Technical Council, IIT Bombay</a></p>
             <p>Team Members: Sumit Jain, Aditya Bhaskar, Ritik Mandal and me</p>
-            <p>Deep learning models are now extensively used in various domains ranging from medical imaging to automobile industry. Yet, till date deep learning models fail when it comes to play around with high-resolution data. Our model uses a hierarchy-based model to achieve synchronous parallel computations distributed to multiple machines.</p>
+            <p>Deep learning models are now extensively used in various domains ranging from medical imaging to the automobile industry. Yet, to date, deep learning models fail when it comes to playing around with high-resolution data. Our model uses a hierarchy-based model to achieve synchronous parallel computations distributed to multiple machines.</p>
             <!--ul class="actions">
                 <li><a href="Distributed Deep Learning" class="button">More</a></li>
             </ul-->
@@ -39,7 +39,7 @@ title: Projects
             <h3>Remote Control Plane</h3>
             <p>Conducted by <a href="https://www.tech-iitb.org/aeroclub/">Aeromodelling Club, IIT Bombay</a></p>
             <p>Team Members: Sumit Jain, Veda Pranav, Rajesh Dasari and me</p>
-            <p>Made a Radio Controlled Trainer Plane powered by BLDC Motor.</p>
+            <p>Made a Radio Controlled Trainer Plane powered by BLDC Motor</p>
             <!--ul class="actions">
                 <li><a href="Remote Control Plane" class="button">More</a></li>
             </ul-->
