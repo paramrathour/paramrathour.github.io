@@ -1,5 +1,5 @@
 ---
-image: Projects/ThumbnailNLDtp.png
+image: Projects/Thumbnails/NLDtp.png
 layout: page
 title: Nonlinear Dynamics
 ---
