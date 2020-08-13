@@ -1,13 +1,7 @@
 ---
 title: Quartic Roots
 ---
-<script>
-MathJax = {
-tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
-};
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+Solution of $x^4+ax^3+bx^2+cx+d$ is:
 <p>
 \begin{align}
     r_1&=-\frac{a}{4}

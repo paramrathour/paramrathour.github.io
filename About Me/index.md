@@ -8,7 +8,7 @@ Hello! My name is Param Rathour.
 
 I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India).
 
-I’m pursuing a Bachelor of Technology in Electrical Engineering as my major.
+I'm pursuing a Bachelor of Technology in Electrical Engineering as my major.
 
 <h2 align="center" id="Education">Education</h2>
 
@@ -24,7 +24,7 @@ I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidy
 
 I am always involved in learning new stuff and its applications.
 
-Below are some of my interestes (Consider thumbnails as recommendations).
+Below are some of my interests (Consider thumbnails as recommendations).
 
 <!-- Section -->
 <section>
@@ -54,15 +54,16 @@ Below are some of my interestes (Consider thumbnails as recommendations).
         <article>
             <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image"><img src="Youtube.jpg" alt="Featured Channels" /></a>
             <h3>Youtube</h3>
-            <p>I watch a lot of youtube, not just educational but history, business and economics, tech and random stuff.</p>
+            <p>I watch a lot of youtube, not just educational but history, business and economics, engineering, tech and random stuff.</p>
             <p>My recommendations
             <ul>
                 <li><a href="https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A">Oversimplified</a></li>
+                <li><a href="https://www.youtube.com/user/Top10Memes">LEMMiNO</a></li>
                 <li><a href="https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ">Epic History TV</a></li>
                 <li><a href="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg">Polymatter</a></li>
                 <li><a href="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ">Wendover Productions</a></li>
                 <li><a href="https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw">Half as Interesting</a></li>
-                <li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li>
+                <!--li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li-->
             </ul></p>
             <p>Below link includes <b>educational</b> channels too.</p>
             <ul class="actions">
@@ -72,7 +73,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
         <article>
             <a class="image"><img src="Novels.jpg" alt="Novels" /></a>
             <h3>Novels</h3>
-            <p>I like reading novels with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again.</p>
+            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again.</p>
             <h3>Music</h3>
             <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
@@ -95,7 +96,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             <p>This one is even recent. First watched during this 'corona' time.</p>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
-            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new sports and will try more.</p>
+            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>
             <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
             <p>Phew! Lot of things to do whensoever.</p>
         </article>
@@ -112,7 +113,7 @@ Below are some of my interestes (Consider thumbnails as recommendations).
             <a href="/Time Table"><span class="icon fa-calendar"></span></a>
             <div class="content">
                 <h3>Time Table</h3>
-                <p>My academic<a href="/Time Table"> Time Table</a>.</p>
+                <p>My academic <a href="/Time Table">Time Table</a>.</p>
             </div>
         </article>
         <article>
@@ -122,13 +123,13 @@ Below are some of my interestes (Consider thumbnails as recommendations).
                 <p>List of <a href="/Courses">Courses</a> that I have taken and am taking.</p>
             </div>
         </article>
-        <article>
+        <!--article>
             <a href="/Blog"><span class="icon fa-user"></span></a>
             <div class="content">
                 <h3>Blog</h3>
                 <p>My <a href="/Blog">Blog</a>.</p>
             </div>
-        </article>
+        </article-->
         <article>
             <a href="/Projects"><span class="icon fa-code"></span></a>
             <div class="content">
