@@ -122,13 +122,13 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <p>List of <a href="/Courses">Courses</a> that I have taken and am taking.</p>
             </div>
         </article>
-        <article>
+        <!--article>
             <a href="/Blog"><span class="icon fa-user"></span></a>
             <div class="content">
                 <h3>Blog</h3>
                 <p>My <a href="/Blog">Blog</a>.</p>
             </div>
-        </article>
+        </article-->
         <article>
             <a href="/Projects"><span class="icon fa-code"></span></a>
             <div class="content">

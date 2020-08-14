@@ -28,13 +28,13 @@ title: Time Table
         <td title="Signal Processing – I&#010;Prof: Animesh Kumar">EE229</td>
         <td title="Economics&#010;Prof: Narayanan K.">HS101</td>
         <td title="Digital Systems&#010;Prof: Virendra Singh" colspan="2">EE224</td>
-        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm">EE325</td>
+        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm&#010;Prof: Manjunath D.">EE325</td>
         <!--td></td-->
         <td title="Complex Analysis&#010;Prof: Sudarshan Gurjar">MA205</td>
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm">EE325</td>
+        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm&#010;Prof: Manjunath D.">EE325</td>
         <td title="Signal Processing – I&#010;Prof: Animesh Kumar">EE229</td>
         <td title="Economics&#010;Prof: Narayanan K." colspan="2">HS101</td>
         <td title="Digital Systems&#010;Prof: Virendra Singh">EE224</td>
@@ -52,7 +52,7 @@ title: Time Table
     <tr>
         <td>Thursday</td>
         <td title="Digital Systems&#010;Prof: Virendra Singh">EE224</td>
-        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm">EE325</td>
+        <td title="Probability and Random Processes&#010;Prof: Manoj Gopalkrishnanm&#010;Prof: Manjunath D.">EE325</td>
         <td title="Signal Processing – I&#010;Prof: Animesh Kumar" colspan="2">EE229</td>
         <td title="Economics&#010;Prof: Narayanan K.">HS101</td>
         <!--td></td-->
