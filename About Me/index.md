@@ -54,15 +54,16 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image"><img src="Youtube.jpg" alt="Featured Channels" /></a>
             <h3>Youtube</h3>
-            <p>I watch a lot of youtube, not just educational but history, business and economics, tech and random stuff.</p>
+            <p>I watch a lot of youtube, not just educational but history, business and economics, engineering, tech and random stuff.</p>
             <p>My recommendations
             <ul>
                 <li><a href="https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A">Oversimplified</a></li>
+                <li><a href="https://www.youtube.com/user/Top10Memes">LEMMiNO</a></li>
                 <li><a href="https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ">Epic History TV</a></li>
                 <li><a href="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg">Polymatter</a></li>
                 <li><a href="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ">Wendover Productions</a></li>
                 <li><a href="https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw">Half as Interesting</a></li>
-                <li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li>
+                <!--li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li-->
             </ul></p>
             <p>Below link includes <b>educational</b> channels too.</p>
             <ul class="actions">
