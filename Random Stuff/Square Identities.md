@@ -92,7 +92,7 @@ Where,
 \end{aligned}    
 </div>
 
-The PDF for same can be found [here](https://github.com/paramrathour/Random-Stuff/blob/master/Square%20Identities/Square%20Identities.pdf)
+The PDF for same can be found [here](https://paramrathour.github.io/Random-Stuff/Square%20Identities/Square%20Identities.pdf)
 
 ### References
 + [Sums of n squares](https://sites.google.com/site/tpiezas/005b)

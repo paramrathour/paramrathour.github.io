@@ -44,7 +44,7 @@ The last one is way too long to fit in page. Check [here](Quartic)!
     src="Docs/Polynomial Roots.pdf">
 </iframe-->
 
-The PDF for same can be found [here](https://github.com/paramrathour/paramrathour.github.io/blob/master/Random%20Stuff/Docs/Polynomial%20Roots.pdf)
+The PDF for same can be found [here](https://paramrathour.github.io/Random-Stuff/Polynomial%20Roots/Polynomial%20Roots.pdf)
 
 ### References
 
