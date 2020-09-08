@@ -38,5 +38,12 @@ title: Random Stuff
                 <li><a href="Polynomial Roots" class="button">More</a></li>
             </ul>
         </article>
+        <article>
+            <h3>Square Identities</h3>
+            <p>The product of $2$ numbers, each of which is a sum of $2^n$ squares, is itself a sum of $2^n$ squares.</p>
+            <ul class="actions">
+                <li><a href="Square Identities" class="button">More</a></li>
+            </ul>
+        </article>
     </div>
 </section>

@@ -33,7 +33,7 @@ Solution of $ax^3+bx^2+cx+d$ is:
 </div>
 Solution of $x^4+ax^3+bx^2+cx+d$ is:
 
-The last one is way too long to fit in page. Check [here](Quartic){:target="_blank"}!
+The last one is way too long to fit in page. Check [here](Quartic)!
 
 <!--iframe id="IFrame"
     title="Polynomial Roots"
@@ -48,8 +48,7 @@ The PDF for same can be found [here](https://github.com/paramrathour/paramrathou
 
 ### References
 
-- Wikipedia
-    + [Linear Function](https://en.wikipedia.org/wiki/Linear_function)
-    + [Quadratic Function](https://en.wikipedia.org/wiki/Quadratic_function)
-    + [Cubic Function](https://en.wikipedia.org/wiki/Cubic_function)
-    + [Quartic Function](https://en.wikipedia.org/wiki/Quartic_function)
++ [Linear Function](https://en.wikipedia.org/wiki/Linear_function)
++ [Quadratic Function](https://en.wikipedia.org/wiki/Quadratic_function)
++ [Cubic Function](https://en.wikipedia.org/wiki/Cubic_function)
++ [Quartic Function](https://en.wikipedia.org/wiki/Quartic_function)
