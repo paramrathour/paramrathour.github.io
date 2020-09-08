@@ -6,7 +6,7 @@ These identities say that the product of $2$ numbers, each of which is a sum of 
 
 But, this is not limited to only 'numbers', and this has many applications :)
 
-Here are formulas of roots square identities:
+Here are formulas of square identities:
 
 <h3 style="color: rgb(232, 210, 29);">Brahmagupta–Fibonacci identity / Diophantus identity</h3>
 
