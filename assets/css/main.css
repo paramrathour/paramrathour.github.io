@@ -3778,7 +3778,7 @@ filter: invert(0%);
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: #000000;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;

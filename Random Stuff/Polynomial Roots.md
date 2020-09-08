@@ -35,21 +35,11 @@ Solution of $x^4+ax^3+bx^2+cx+d$ is:
 
 The last one is way too long to fit in page. Check [here](Quartic){:target="_blank"}!
 
-<!--iframe id="IFrame"
-    title="Polynomial Roots"
-    width="100%"
-    height="615"
-    allow="fullscreen"
-    class="inversion"
-    src="Docs/Polynomial Roots.pdf">
-</iframe-->
-
-The PDF for same can be found [here](https://github.com/paramrathour/paramrathour.github.io/blob/master/Random%20Stuff/Docs/Polynomial%20Roots.pdf)
+The PDF for same can be found [here](https://paramrathour.github.io/Random-Stuff/Polynomial%20Roots/Polynomial%20Roots.pdf)
 
 ### References
 
-- Wikipedia
-    + [Linear Function](https://en.wikipedia.org/wiki/Linear_function)
-    + [Quadratic Function](https://en.wikipedia.org/wiki/Quadratic_function)
-    + [Cubic Function](https://en.wikipedia.org/wiki/Cubic_function)
-    + [Quartic Function](https://en.wikipedia.org/wiki/Quartic_function)
++ [Linear Function](https://en.wikipedia.org/wiki/Linear_function)
++ [Quadratic Function](https://en.wikipedia.org/wiki/Quadratic_function)
++ [Cubic Function](https://en.wikipedia.org/wiki/Cubic_function)
++ [Quartic Function](https://en.wikipedia.org/wiki/Quartic_function)

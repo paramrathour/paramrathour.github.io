@@ -19,7 +19,7 @@ title: Projects
             </ul-->
         </article>
         <article>
-            <a href="Nonlinear Dynamics" class="image"><img src="Thumbnails/NLDtp.png" alt="" /></a>
+            <a href="Nonlinear Dynamics" class="image"><img src="Thumbnails/NLDstp.png" alt="" /></a>
             <h3>Nonlinear Dynamics | SoS</h3>
             <p>Conducted by <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Nonlinear Dynamics and Chaos is a blend of applied mathematics and physical modelling, spreading across scientific disciplines like a spider's intricate web. Here, we study the mathematics behind this topic and explore its application in various fields.</p>
