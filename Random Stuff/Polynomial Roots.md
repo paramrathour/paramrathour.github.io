@@ -33,16 +33,7 @@ Solution of $ax^3+bx^2+cx+d$ is:
 </div>
 Solution of $x^4+ax^3+bx^2+cx+d$ is:
 
-The last one is way too long to fit in page. Check [here](Quartic)!
-
-<!--iframe id="IFrame"
-    title="Polynomial Roots"
-    width="100%"
-    height="615"
-    allow="fullscreen"
-    class="inversion"
-    src="Docs/Polynomial Roots.pdf">
-</iframe-->
+The last one is way too long to fit in page. Check [here](Quartic){:target="_blank"}!
 
 The PDF for same can be found [here](https://paramrathour.github.io/Random-Stuff/Polynomial%20Roots/Polynomial%20Roots.pdf)
 
