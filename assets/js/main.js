@@ -155,6 +155,9 @@ $("#very_small_math").css("font-size","60%");
 					.on('-large !large', function() {
 						if (window.location.href == 'http://localhost:4000/' || window.location.href == 'https://paramrathour.github.io/') 
 							$sidebar.addClass('inactive');
+						else if (window.location.href == 'http://localhost:4000/CS101' || window.location.href == 'https://paramrathour.github.io/CS101') 
+							$sidebar.addClass('inactive');
+						
 						else
 							$sidebar.removeClass('inactive');
 					});

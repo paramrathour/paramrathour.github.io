@@ -14,9 +14,9 @@ title: Projects
             <p>Conducted by <a href="https://www.tech-iitb.org/">Institute Technical Council, IIT Bombay</a></p>
             <p>Team Members: Sumit Jain, Aditya Bhaskar, Ritik Mandal and me</p>
             <p>Deep learning models are now extensively used in various domains ranging from medical imaging to the automobile industry. Yet, to date, deep learning models fail when it comes to playing around with high-resolution data. Our model uses a hierarchy-based model to achieve synchronous parallel computations distributed to multiple machines.</p>
-            <!--ul class="actions">
+            <ul class="actions">
                 <li><a href="Distributed Deep Learning" class="button">More</a></li>
-            </ul-->
+            </ul>
         </article>
         <article>
             <a href="Nonlinear Dynamics" class="image"><img src="Thumbnails/NLDstp.png" alt="" /></a>
