@@ -19,12 +19,33 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20113">EE 113 - Introduction to Electrical Engineering</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20114">EE 114 - Power Engineering - I</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20204">EE 204 - Analog Circuits</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20207">EE 207 - Electronic Devices and Circuits</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20224">EE 224 - Digital Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20229">EE 229 - Signal Processing – I</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20238">EE 238 - Power Engineering - II</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20302">EE 302 - Control Systems</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20309">EE 309 - Microprocessors</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20325">EE 325 - Probability and Random Processes</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20636">EE 636 - Matrix Computations</a></li>
+                </ul>
+            <header class="major">
+                <h4>Lab Courses</h4>
+            </header>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20214">EE 214 - Digital Circuits Lab</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20240">EE 240 - Power Engineering Lab</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20337">EE 337 - Microprocessors Laboratory</a></li>
                 </ul>
         </article>
         <article>
+            <header class="major">
+                <h3>Department of Computer Science and Engineering</h3>
+            </header>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20101">CS 101 - Computer Programming and Utilization</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20228">CS 228 - Logic for Computer Science</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=DS%20303">DS 303 - Introduction to Machine Learning</a></li>
+                </ul>
             <header class="major">
                 <h3>Department of Mathematics</h3>
             </header>
@@ -35,26 +56,6 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=MA%20205">MA 205 - Complex Analysis</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=MA%20207">MA 207 - Differential Equations II</a></li>
                 </ul>
-        </article>
-        <article>
-            <header class="major">
-                <h3>Department of Computer Science and Engineering</h3>
-            </header>
-                <ul>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20101">CS 101 - Computer Programming and Utilization</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20228">CS 228 - Logic for Computer Science</a></li>
-                </ul>
-        </article>
-        <article>
-            <header class="major">
-                <h3>Department of Mechanical Engineering</h3>
-            </header>
-                <ul>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20113">ME 113 - Workshop Practice</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20119">ME 119 - Engineering Graphics and Drawing</a></li>
-                </ul>
-        </article>
-        <article>
             <header class="major">
                 <h3>Department of Physics</h3>
             </header>
@@ -66,13 +67,18 @@ title: Courses
         </article>
         <article>
             <header class="major">
-                <h3>Department of Chemistry</h3>
+                <h3>Humanities and Social Sciences</h3>
             </header>
                 <ul>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20105">CH 105 - Organic and Inorganic Chemistry</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20107">CH 107 - Physical Chemistry</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20117">CH 117 - Chemistry Lab</a></li>
-                </ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20101">HS 101 - Economics</a></li>
+                </ul>            
+            <header class="major">
+                <h3>Department of Mechanical Engineering</h3>
+            </header>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20113">ME 113 - Workshop Practice</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20119">ME 119 - Engineering Graphics and Drawing</a></li>
+                </ul>                
         </article>
         <article>
             <header class="major">
@@ -80,15 +86,15 @@ title: Courses
             </header>
                 <ul>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=BB%20101">BB 101 - Biology</a></li>
-                </ul>
-        </article>
-        <article>
+                </ul>                
             <header class="major">
-                <h3>Humanities and Social Sciences</h3>
+                <h3>Department of Chemistry</h3>
             </header>
                 <ul>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20101">HS 101 - Economics</a></li>
-                </ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20105">CH 105 - Organic and Inorganic Chemistry</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20107">CH 107 - Physical Chemistry</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CH%20117">CH 117 - Chemistry Lab</a></li>
+                </ul>        
         </article>
     </div>
 </section>
