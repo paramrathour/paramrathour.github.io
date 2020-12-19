@@ -78,11 +78,13 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
                 <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
-                <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
-                <li><a href="https://youtu.be/VqrCeNjxC-c">Deeply Fast</a></li>
-                <li><a href="https://youtu.be/l2kwie-gs2o">Trisha's Lullaby</a></li>
-                <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Lif</a></li>
                 <li><a href="https://youtu.be/qR6dzwQahOM">L's Theme</a></li>
+                <li><a href="https://youtu.be/l2kwie-gs2o">Trisha's Lullaby</a></li>
+                <li><a href="https://youtu.be/xc74Bm__cP8">Only I am missing</a></li>
+                <li><a href="https://youtu.be/9Pf3hkYR9T0">Someday (Believe me) by Abo Takeshi</a></li>
+                <li><a href="https://youtu.be/VqrCeNjxC-c">Deeply Fast</a></li>
+                <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li>
+                <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
             </ul>
         </article>
         <article>

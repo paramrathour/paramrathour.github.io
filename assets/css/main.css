@@ -2489,22 +2489,22 @@ filter: invert(0%);
 	}
 
 	::-webkit-input-placeholder {
-		color: #9fa3a6 !important;
+		color: #808080 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #9fa3a6 !important;
+		color: #808080 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #9fa3a6 !important;
+		color: #808080 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #9fa3a6 !important;
+		color: #808080 !important;
 		opacity: 1.0;
 	}
 
