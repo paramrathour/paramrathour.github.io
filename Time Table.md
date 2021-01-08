@@ -30,7 +30,7 @@ title: Time Table
         <td title="Free?"></td>
         <td title="Control Systems&#010;Prof: Dwaipayan Mukherjee" colspan="2">EE302</td>
         <td title="Electronic Devices and Circuits&#010;Prof: M. B. Patil">EE207</td>
-        <td title="Free?"></td>
+        <td title="Microprocessors Laboratory&#010;Prof: V Raj Babu&#010;Prof:S. Vijayakumaran&#010;Prof: Patkar Sachin">EE337</td>
         <td title="Matrix Computations&#010;Prof: Debasattam Pal ">EE636</td>
     </tr>
     <tr>
@@ -46,8 +46,8 @@ title: Time Table
         <td>Wednesday</td>
         <td title="Free?"></td>
         <td title="Introducing to Machine Learning&#010;Prof: Biplab Banerjee&#010;Prof: Sunita Sarawagi" colspan="2">DS303</td>
-        <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore" colspan="2">EE238</td>
-        <td title="Microprocessors Laboratory&#010;Prof: V Raj Babu&#010;Prof:S. Vijayakumaran&#010;Prof: Patkar Sachin">EE337</td>
+        <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore&#010;Prof: Anshuman Shukla" colspan="2">EE238</td>
+        <td title="Digital Circuits Lab&#010;Prof: M.Shojaei Baghini">EE214</td>
         <td title="Free?"></td>
     </tr>    
     <tr>
@@ -56,14 +56,14 @@ title: Time Table
         <td title="Electronic Devices and Circuits&#010;Prof: M. B. Patil">EE207</td>
         <td title="Microprocessors&#010;Prof: Sharma Dinesh" colspan="2">EE309</td>
         <td title="Free?"></td>
-        <td title="Digital Circuits Lab&#010;Prof: M.Shojaei Baghini">EE214</td>
+        <td title="Free?"></td>
         <td title="Matrix Computations&#010;Prof: Debasattam Pal ">EE636</td>
     </tr>    
     <tr>
         <td>Friday</td>
         <td title="Free?"></td>
         <td title="Introducing to Machine Learning&#010;Prof: Biplab Banerjee&#010;Prof: Sunita Sarawagi" colspan="2">DS303</td>
-        <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore" colspan="2">EE238</td>
+        <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore&#010;Prof: Anshuman Shukla" colspan="2">EE238</td>
         <td title="CS101: Computer Programming and Utilization&#010;Prof: Bhaskaran Raman?"></td>
         <td title="Free?"></td>
     </tr>    
