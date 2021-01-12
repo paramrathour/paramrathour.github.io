@@ -37,7 +37,7 @@ title: Time Table
         <td>Tuesday</td>
         <td title="Electronic Devices and Circuits&#010;Prof: M. B. Patil">EE207</td>
         <td title="Microprocessors&#010;Prof: Sharma Dinesh">EE309</td>
-        <td title="Economics&#010;Prof: Narayanan K." colspan="2">HS101</td>
+        <td title="Free?"></td>
         <td title="Control Systems&#010;Prof: Dwaipayan Mukherjee">EE302</td>
         <td title="Power Engineering Lab&#010;Prof: Prashant Navalkar&#010;Prof: Chatterjee Kishore">EE240</td>
         <td title="Free?"></td>
