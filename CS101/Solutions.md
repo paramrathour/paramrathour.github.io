@@ -15,7 +15,7 @@ Problems marked with * are acceptable but can be made more efficent
 - [3.2 Farey sequence by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/3.2%20Farey%20sequence%20by%20Manish.cpp)
 - [3.4 Collatz by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/3.4%20Collatz%20by%20Tirthankar.cpp)
 - [4.1 Ackermann by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.1%20Ackermann%20by%20Tirthankar.cpp)
-- [4.2* Number of Grid Paths by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.2%20Number%20of%20rid%20Paths%20by%20Manish.cpp)
+- [4.2* Number of Grid Paths by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.2%20Number%20of%20Grid%20Paths%20by%20Manish.cpp)
 - [4.3* Delannoy Numbers by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.3%20Delannoy%20Numbers%20by%20Manish.cpp)
 - [4.4a* Number of Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.4a%20Number%20of%20Partitions%20by%20Manish.cpp)
 - [4.4b* Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.4b%20Partitions%20by%20Manish.cpp)
