@@ -21,5 +21,5 @@ Problems marked with * are acceptable but can be made more efficent
 - [4.4b* Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/4.4b%20Partitions%20by%20Manish.cpp)
 
 ### Unsolved
-- 4.1 Calendar
-- 4.3 Thue-Morse Sequence
+- 3.1 Calendar
+- 3.3 Thue-Morse Sequence
