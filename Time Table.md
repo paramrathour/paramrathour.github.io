@@ -39,13 +39,13 @@ title: Time Table
         <td title="Microprocessors&#010;Prof: Sharma Dinesh">EE309</td>
         <td title="Free?" colspan="2"></td>
         <td title="Control Systems&#010;Prof: Dwaipayan Mukherjee">EE302</td>
-        <td title="Power Engineering Lab&#010;Prof: Prashant Navalkar&#010;Prof: Chatterjee Kishore">EE240</td>
+        <td title="Power Engineering Lab&#010;Prof: Fernandes B.G.&#010;Prof: Sandeep Anand&#010;Prof: Prashant Navalkar">EE240</td>
         <td title="Free?"></td>
     </tr>    
     <tr>
         <td>Wednesday</td>
         <td title="Free?"></td>
-        <td title="Introducing to Machine Learning&#010;Prof: Biplab Banerjee&#010;Prof: Sunita Sarawagi" colspan="2">DS303</td>
+        <td title="Data Structures and Algorithms&#010;Prof: Sharat Chandran" colspan="2">CS213</td>
         <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore&#010;Prof: Anshuman Shukla" colspan="2">EE238</td>
         <td title="Digital Circuits Lab&#010;Prof: M.Shojaei Baghini">EE214</td>
         <td title="Free?"></td>
@@ -62,7 +62,7 @@ title: Time Table
     <tr>
         <td>Friday</td>
         <td title="Free?"></td>
-        <td title="Introducing to Machine Learning&#010;Prof: Biplab Banerjee&#010;Prof: Sunita Sarawagi" colspan="2">DS303</td>
+        <td title="Data Structures and Algorithms&#010;Prof: Sharat Chandran" colspan="2">CS213</td>
         <td title="Power Engineering - II&#010;Prof: Chatterjee Kishore&#010;Prof: Anshuman Shukla" colspan="2">EE238</td>
         <td title="CS101: Computer Programming and Utilization&#010;Prof: Bhaskaran Raman?"></td>
         <td title="Free?"></td>

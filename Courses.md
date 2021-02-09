@@ -43,8 +43,9 @@ title: Courses
             </header>
                 <ul>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20101">CS 101 - Computer Programming and Utilization</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20213">CS 213 - Data Structures and Algortihms</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20228">CS 228 - Logic for Computer Science</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=DS%20303">DS 303 - Introduction to Machine Learning</a></li>
+                    <!--li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=DS%20303">DS 303 - Introduction to Machine Learning</a></li-->
                 </ul>
             <header class="major">
                 <h3>Department of Mathematics</h3>
