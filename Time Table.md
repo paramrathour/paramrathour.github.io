@@ -6,7 +6,7 @@ title: Time Table
   <header>
     <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
     </h2>
-    <p>Here is my timetable for Autumn Semester (2021-22).</p>
+    <p>Here is my timetable for Spring Semester (2021-22).</p>
   </header>
   <p>Hover over the cells for more information regarding the courses</p>
 </div>
@@ -22,52 +22,50 @@ title: Time Table
         <td rowspan="6" style="vertical-align : middle;">Lunch</td>
         <td colspan="3" width="20%">14:00 - 17:00</td>
         <td rowspan="6" style="vertical-align : middle;">Snacks</td>
-        <td>19:00 - 20:30</td>        
+        <td>17:30 - 18:55</td>        
     </tr>
     <tr>
         <td>Monday</td>
-        <td title="Communication Systems - I&#010;Prof: Gaurav Kasbekar&#010;Prof: Shabbir Merchant">EE341</td>
+        <td title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
+        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal">EE613</td>
+        <td colspan="2" title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Philosophy&#010;Prof: R. K. Panda">HS301</td>
-        <td title="An Introduction to Number Theory and Cryptography&#010;Prof: Virendra Sule">EE720</td>
-        <td width="10%" colspan="2" title="Free?"></td>
-        <td title="Error Correcting Codes&#010;Prof: Nikhil Karamchandani">EE605</td>
-        <td title="Foundations of Intelligent and Learning Agents&#010;Prof: Shivaram Kalyanakrishnan">CS747</td>
+        <td colspan="3" title="Electronics Design Lab&#010;Prof: J. John">EE344</td>
+        <td title="Free?"></td>
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td title="An Introduction to Number Theory and Cryptography&#010;Prof: Virendra Sule">EE720</td>
-        <td title="Communication Systems - I&#010;Prof: Gaurav Kasbekar&#010;Prof: Shabbir Merchant">EE341</td>
-        <td title="Free?" colspan="2"></td>
-        <td title="Philosophy&#010;Prof: R. K. Panda">HS301</td>
-        <td colspan="3" title="Communications Lab&#010;Prof: Jayakrishnan Nair">EE340</td>
         <td title="Free?"></td>
+        <td title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
+        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal" colspan="2">EE613</td>
+        <td title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
+        <td colspan="3" title="Free?"></td>
+        <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
     </tr>    
     <tr>
         <td>Wednesday</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Design and Analysis of Algorithms&#010;Prof: Abhiram Ranade">CS218</td>
-        <td colspan="2" title="Electromagnetic Waves&#010;Prof: Kasturi Saha&#010;Prof: R K Shevgaonkar">EE301</td>
-        <td colspan="3" title="Control Systems Lab&#010;Prof: Madhu Belur&#010;Prof: Debasattam Pal">EE324</td>
+        <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
+        <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
+        <td colspan="3" title="Electronic Devices Laboratory&#010;Prof: Udayan Ganguli&#010;Prof: Saurabh Lodha">EE236</td>
         <td title="Free?"></td>
     </tr>    
     <tr>
         <td>Thursday</td>
-        <td title="Philosophy&#010;Prof: R. K. Panda">HS301</td>
-        <td title="An Introduction to Number Theory and Cryptography&#010;Prof: Virendra Sule">EE720</td>
-        <td colspan="2" title="Communication Systems - I&#010;Prof: Gaurav Kasbekar&#010;Prof: Shabbir Merchant">EE341</td>
+        <td title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
         <td title="Free?"></td>
-        <td width="10%" colspan="2" title="Free?"></td>
-        <td title="Error Correcting Codes&#010;Prof: Nikhil Karamchandani">EE605</td>
-        <td title="Foundations of Intelligent and Learning Agents&#010;Prof: Shivaram Kalyanakrishnan">CS747</td>
+        <td colspan="2" title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
+        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal">EE613</td>
+        <td colspan="3" title="Free?"></td>
+        <td title="Free?"></td>
     </tr>    
     <tr>
         <td>Friday</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Design and Analysis of Algorithms&#010;Prof: Abhiram Ranade">CS218</td>
-        <td colspan="2" title="Electromagnetic Waves&#010;Prof: Kasturi Saha&#010;Prof: R K Shevgaonkar">EE301</td>
-        <td colspan="3" title="Analog Circuits Lab&#010;Prof: Joseph John">EE230</td>
-        <td title="Free?"></td>
+        <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
+        <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
+        <td colspan="3" title="Free?"></td>
+        <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
     </tr>    
 </table>
 </div>

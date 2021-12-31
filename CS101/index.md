@@ -10,6 +10,7 @@ title: Computer Programming and Utilization
 
 ## Course Info
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="http://bit.ly/cs101-2021">Course Info,</a></h3>
+<h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://cs101.bodhi.cse.iitb.ac.in/">BodhiTree,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://bit.ly/cs101-2021-labs">Lab Problems,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://docs.google.com/document/d/18Q-B0KUxYmcTy1kYyc6KYTbJ1B8TSdMfKZMUNu7vwKc/edit">Course Evaluation Plan,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://docs.google.com/document/d/1ol1VVWZO-dCnRyRZQIWu1nSzI0R5eyXM2aP_nTiSaJw/edit?usp=sharing">Remote Procturing Instructions,</a></h3>
