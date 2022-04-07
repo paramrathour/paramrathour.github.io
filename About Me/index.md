@@ -6,12 +6,11 @@ image: assets/images/backg.jpg
 
 Hello! My name is Param Rathour.
 
-I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India).
+I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India). I'm pursuing a Bachelor of Technology in Electrical Engineering as my major and Computer Science & Engineering as my minor.
 
-I'm pursuing a Bachelor of Technology in Electrical Engineering as my major.
-
-<h2 align="center" id="Education">Education</h2>
-
+<buttona class="accordion">Education</buttona>
+<div class="panel">
+    <p></p>
 I have changed a lot of schools in my childhood due to transfers.
 
 I completed my education from 4th to 8th standard at Holy Cross Convent High School, Akola.
@@ -19,13 +18,14 @@ I completed my education from 4th to 8th standard at Holy Cross Convent High Sch
 I then shifted to Latur and joined Podar International School, Latur, and completed my class 10, obtaining 10 CGPA in CBSE Board Examinations in 2017.
 
 I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
-
-<h2 align="center" id="Interests">Interests</h2>
-
+</div>
+<p></p>
+<buttona class="accordion">Interests</buttona>
+<div class="panel">
+    <p></p>
 I am always involved in learning new stuff and its applications.
 
 Below are some of my interests (Consider thumbnails as recommendations).
-
 <!-- Section -->
 <section>
     <header class="major">
@@ -35,7 +35,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <a class="image"><img src="Mathematics.jpg" alt="" /></a>
             <h3>Mathematics  ε></h3>
-            <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books (favourite books recommend above). My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject. I recently started learning Discrete Mathematics.</p>
+            <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books (favourite books recommend above). My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject. Over the years at IITB, my interest in pure and applied mathematics has only grown.</p>
         </article>
         <!--article>
             <a href="#" class="image"><img src=".jpg" alt="" /></a>
@@ -77,23 +77,26 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <h3>Music</h3>
             <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
-                <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
+                <!-- <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
+                <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
                 <li><a href="https://youtu.be/qR6dzwQahOM">L's Theme</a></li>
                 <li><a href="https://youtu.be/l2kwie-gs2o">Trisha's Lullaby</a></li>
                 <li><a href="https://youtu.be/xc74Bm__cP8">Only I am missing</a></li>
                 <li><a href="https://youtu.be/9Pf3hkYR9T0">Someday (Believe me) by Abo Takeshi</a></li>
                 <li><a href="https://youtu.be/VqrCeNjxC-c">Deeply Fast</a></li>
-                <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li>
-                <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
+                <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li> -->
+                <a href="https://youtube.com/playlist?list=PL_oWkLvcB4HN0Ik1-V_TrYZpnQJ9s8hK2" class="button">Cinematic Music</a>
+                <a href="https://www.youtube.com/playlist?list=PL_oWkLvcB4HP1U_mOahMiEqRRKntuRI6Z" class="button">Anime OPs and OSTs</a>
             </ul>
         </article>
         <article>
-            <a href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image"><img src="Anime.jpg" alt="Anime" /></a>
+            <a href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image"><img src="Anime.png" alt="Anime" /></a>
             <h3>Anime</h3>
-            <p>I started watching 'anime'  quite recently (in 11th standard), and I was hooked to it instantly. Adventure, Sci-fi, Psychological, Tragedy, Shounen, Supernatural are some of the genres I have watched, though the list will continue to grow.</p>
+            <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Supernatural, Thriller or Tragedy I have watched them all :D</p>
+            <a href="Anime" class="button">More info</a>
         </article>
         <article>
-            <a class="image"><img src="T.V. Series.jpg" alt="T.V. Series" /></a>
+            <a class="image"><img src="T.V. Series.png" alt="T.V. Series" /></a>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
             <h3>Sports</h3>
@@ -104,7 +107,11 @@ Below are some of my interests (Consider thumbnails as recommendations).
         </article>
     </div>
 </section>
-
+</div>
+<p></p>
+<buttona class="accordion">Miscellaneous</buttona>
+<div class="panel">
+    <p></p>
 <!-- Section -->
 <section>
     <header class="major">
@@ -148,3 +155,4 @@ Below are some of my interests (Consider thumbnails as recommendations).
         </article>
     </div>
 </section>
+</div>

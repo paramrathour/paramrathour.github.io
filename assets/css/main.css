@@ -40,7 +40,7 @@ filter: invert(0%);
   color: #777;
   font-weight: bold;
   float: right;
-  margin-left: 5px;
+  /*margin-left: 5px;*/
 }
 
 .active:after {

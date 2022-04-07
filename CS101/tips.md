@@ -1,3 +1,7 @@
+---
+layout: page
+title: CS101 Tips
+---
 <!-- **Table of Content**
 * auto-gen TOC:
 {:toc} -->
@@ -16,7 +20,7 @@
 		<li> Carefully go through the problem statement</li>
 		<li> Check your understanding of problem using solved examples and practice testcases</li>
 		<li> Compose the programming approach on paper</li>
-		<li> Consolidate your approach by verifying its correctness on testcases by doing <a href="#What is Dry Run?">Dry Run</a></li>
+		<li> Consolidate your approach by verifying its correctness on testcases by doing <a href="#What is Dry Run?">dry runs</a></li>
 		<li> Code it up (finally!)</li>
 	</ul>
 
@@ -31,7 +35,7 @@
 <h2 align="center" id="Debugging">Debugging</h2>
 
 <span class="image main"><img src="cartoon.png" alt="cartoon" /></span>
-<p>Pic Courtsey - <a href="https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon/84624#84624">stackoverflow</a> </p>
+<p>Pic Courtesy - <a href="https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon/84624#84624">stackoverflow</a> </p>
 
 <h3 align="center" id="What is Dry Run?">What is Dry Run?</h3>
 The most important step in debugging
@@ -41,8 +45,8 @@ The most important step in debugging
 		<li>Manually go through the code to trace the value of variables</li>
 		<li>Check if the values of variables matches with their expected values</li>
 		<ul>
-			<li>if they do not match for any variable at any time then your program is incorrect, consider debugging/rewriting it</li>
-			<li>if they match for all variables at all times, Hurray your program is correct for the current testcases!</li>
+			<li>If they do not match for any variable at any time then your program is incorrect, consider debugging/rewriting it</li>
+			<li>If they match for all variables at all times, Hurray your program is correct for the current testcases!</li>
 		</ul>
 	</ul>
 	<li>Now repeat the procedure for a different testcase :)</li>
@@ -52,8 +56,8 @@ The most important step in debugging
 
 <h4 align="center" id="Program does not compile">Program does not compile</h4>
 <ul>
-	<li>Get comfortable with common syntactical errors - <a href="https://help.mimir.io/en/articles2761300-cpp-common-compiler-errors-with-explanations">Common errors</a></li>
-	<li>Missing ; ) }</li>
+	<li>Get comfortable with common syntactical errors - <a href="https://help.mimir.io/en/articles/2761300-cpp-common-compiler-errors-with-explanations">Common errors</a></li>
+	<li>Missing semicolons, curly braces, multiplication symbol</li>
 	<li>variables out of scope</li>
 	<li>ab instead of a*b</li>
 </ul>
@@ -91,7 +95,7 @@ The most important step in debugging
 		<li>previous week's lab optional problems</li>
 		<li><a href="https://paramrathour.github.io/CS-101/Problems.pdf">practice problems</a></li>
 		<li>book exercises</li>
-		<li>Regulary go through previous labs solution, understand their approach, follow the good programming practices and _tricks_ used</li>
+		<li>Regularly go through previous labs solution, understand their approach, follow the good programming practices and <i>tricks</i> used</li>
 	</ul>
 </div>
 <p></p>
@@ -103,7 +107,7 @@ The most important step in debugging
 	<li><a href="https://cs101.has.coffee/safe-quiz-guidelines">SAFE Quiz Guidelines</a></li>
 	<li>Notify the TA immediately for any issue you face during the quiz</li>
 	<li>If submission is pending - keep retrying/restarting SAFE until it submits (NEVER LOGOUT during such issues)</li>
-	<li>Setup environment properly, look only at mobile screen, show the successful submission screen to the TA</li>
+	<li>Set up environment properly, look only at mobile screen, show the successful submission screen to the TA</li>
 </ul>
 
 <h2 align="center" id="Labs">Labs</h2>
@@ -122,7 +126,7 @@ The most important step in debugging
 	</ul>
 </ul>
 
-Courtsey - Prof Parag Chaudhari
+Courtesy - Prof Parag Chaudhari
 
 <h3 align="center" id="Plagiarism">Plagiarism</h3>
 <ul>
@@ -164,7 +168,7 @@ Courtsey - Prof Parag Chaudhari
 
 <h2 align="center" id="Video Tutorials">Video Tutorials</h2>
 <ul>
-	<li><a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb), Courtsey - Tirthankar Mazumde">C++ by The Cherno</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ by The Cherno</a>, Courtesy - Tirthankar Mazumder</li>
 	<li><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ">C++ Full Course by Apna College</a></li>
 </ul>
 
