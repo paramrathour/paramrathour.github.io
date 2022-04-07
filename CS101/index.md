@@ -17,13 +17,15 @@ title: Computer Programming and Utilization
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://www.cse.iitb.ac.in/~cs101/offerings.html">Previous Offerings</a></h3>
 
 ## Additional Resources
-<h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://en.cppreference.com/">C++ Documentation,</a></h3>
+<!-- <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://en.cppreference.com/">C++ Documentation,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ by The Cherno*,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://www.learncpp.com/">Learn C++,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://www.geeksforgeeks.org/">GeeksforGeeks,</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://cp-algorithms.com/">Competitive Programming Algorithms</a></h3>
 
-\* - suggested by Tirthankar
+\* - suggested by Tirthankar -->
+
+<h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="tips">General Tips</a></h3>
 
 <!-- ## Practice Programming
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://cses.fi/problemset/">CSES Problem Set,</a></h3>
