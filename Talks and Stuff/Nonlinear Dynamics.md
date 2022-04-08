@@ -1,5 +1,5 @@
 ---
-image: Projects/Thumbnails/NLDtp.png
+image: /Thumbnails/mandelbrot-set.jpg
 layout: page
 title: Nonlinear Dynamics
 ---

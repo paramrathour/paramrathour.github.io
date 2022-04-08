@@ -1,5 +1,5 @@
 ---
-image: Projects/Thumbnails/DDLtp.png
+image: /Thumbnails/distributed-deep-learning.png
 layout: page
 title: Distributed Deep Learning
 ---

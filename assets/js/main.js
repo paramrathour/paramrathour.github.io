@@ -22,7 +22,7 @@ var i;
 
 for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
+    this.classList.toggle("activea");
     var panel = this.nextElementSibling;
     if (panel.style.maxHeight) {
       panel.style.maxHeight = null;
@@ -30,7 +30,8 @@ for (i = 0; i < acc.length; i++) {
       panel.style.maxHeight = panel.scrollHeight + "px";
     } 
   });
-}        
+}    
+// Light/Dark Mode Toggle
 if(window.localStorage.getItem("mode")=="dark"){
     darkmode();
      $('#mode').each(function () { this.checked = !this.checked; });

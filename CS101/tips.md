@@ -238,7 +238,7 @@ You are free to choose your route, but in case you did not know, here are someth
 
 <h2 align="center" id="IITB">IITB</h2>
 <ul>
-	<li>Projects under professors</li>
+	<li>ITSP, <a href="https://wncc-iitb.org/soc/">SoC</a>, projects under professors, self project</li>
 	<li>CS/DS Minor, IDDDP (Interdisciplinary Dual Degree Programme) (for non-CS students) - Need to do 5 CSE courses to get a minor degree</li>
 	<li>Additional CSE Courses as Electives and CDEEP</li>
 	<li>Web and Coding Club, DevCom for enthusiasts</li>
@@ -265,4 +265,6 @@ You are free to choose your route, but in case you did not know, here are someth
 			<li><a href="http://cs230.stanford.edu/">CS230: Deep Learning</a></li>
 		</ul>
 	</ul>
+	<li><a href="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/">Open Source</a></li>
+	<li><a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a></li>
 </ul>	
