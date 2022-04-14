@@ -3,7 +3,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
 /* Dark Mode Toggle*/
 function darkmode(){
 	$("html").addClass("inversed");
@@ -76,7 +75,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    } 
 }
 
-$("#small_math").css("font-size","90%");
+$("#small_math").css("font-size","80%");
 $("#very_small_math").css("font-size","60%");
 
 (function($) {

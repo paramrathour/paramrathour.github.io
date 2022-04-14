@@ -17,11 +17,11 @@ title: Talks and Stuff
             </ul>
         </article>
         <article>
-            <span class="inversion"><a href="Coded Computing" class="image"><img src="/Thumbnails/coded-computing.svg" alt="" /></a></span>
+            <a href="Coded Computing" class="image"><img src="/Thumbnails/coded-computing.svg" alt="" /></a>
             <h3>Coded Computing for Straggler Mitigation, Security and Privacy</h3>
             <p>EE605 Error Correcting Codes</p>
             <p>Co-speaker - Anupam Nayak</p>
-            <p>The massive size of modern datasets necessitates computational tasks to be performed in a distributed fashion, where the data is dispersed among many servers that operate in parallel. As we “scale out” computations across many servers, however, several fundamental challenges arise. This is resolved using Coded Computing techniques.</p>
+            <p>The massive size of modern datasets necessitates computational tasks to be performed in a distributed fashion, where the data is dispersed among many servers that operate in parallel. As we “scale out” computations across many servers, however, several fundamental challenges arise.</p>
             <ul class="actions">
                 <li><a href="Coded Computing" class="button">More</a></li>
             </ul>

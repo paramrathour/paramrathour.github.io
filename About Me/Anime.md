@@ -16,7 +16,7 @@ title: Anime
 <buttona class="accordion">Tier List</buttona>
 <div class="panel">
     <p></p>
-    <a href="https://tiermaker.com/list/anime-and-manga/anime-1587667/2082692" class="image main"><img src="Tier List.png" alt="Anime Tier List" /></a>
+    <a href="https://tiermaker.com/create/anime-1587667 " class="image main"><img src="Tier List.png" alt="Anime Tier List" /></a>
 </div>
 <p></p> 
 <p></p>

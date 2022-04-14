@@ -7,3 +7,16 @@ This repository contains all the files used for making [this](https://paramratho
 Design: [HTML5 UP](https://html5up.net/). Jekyll integration: [Andrew Banchich](https://andrewbanchi.ch/).
 
 Hosted by GitHub Pages.
+
+
+## Features Added
+
+- Dark Mode Toggle
+- [Return to Top](https://codepen.io/rdallaire/pen/neMvbX)
+- [Accordian](https://www.w3schools.com/howto/howto_js_accordion.asp)
+- 404 Page
+- [LaTeX support using MathJax](https://www.mathjax.org/)
+- Open links other than the host in a new tab
+- Custom Title of each webpage in the format `page.title | site.author`, inspired from [Aryaman](https://aryamanmaithani.github.io/)
+- Logo in Title Bar, inspired from [Aryaman](https://aryamanmaithani.github.io/)
+- Time Table, inspired from [Rwitaban](https://www.cse.iitb.ac.in/~rwitaban/#section2)
