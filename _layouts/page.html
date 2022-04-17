@@ -24,7 +24,11 @@
                 	</header>
 
                   {% if page.image %}
-                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                    {% if page.url %}
+                        <a href="{{ page.url | absolute_url }}" class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></a>
+                    {% else %}
+                        <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                    {% endif %}
                   {% endif %}
 
                 {{ content }}

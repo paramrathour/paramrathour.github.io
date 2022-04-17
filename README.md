@@ -17,6 +17,7 @@ Hosted by GitHub Pages.
 - 404 Page
 - [LaTeX support using MathJax](https://www.mathjax.org/)
 - Open links other than the host in a new tab
+- Option to add hyperlinks to main images of a page
 - Custom Title of each webpage in the format `page.title | site.author`, inspired from [Aryaman](https://aryamanmaithani.github.io/)
 - Logo in Title Bar, inspired from [Aryaman](https://aryamanmaithani.github.io/)
 - Time Table, inspired from [Rwitaban](https://www.cse.iitb.ac.in/~rwitaban/#section2)
