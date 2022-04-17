@@ -20,7 +20,7 @@ Problems marked with * are acceptable but can be made more efficent using taught
 - [4.6b* Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Partitions b by Manish.cpp)
 - [5.2 Remove Duplicates by Anushka](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Remove Duplicates by Anushka.cpp)
 
-### Solutions by me (no student solution/improvement/alternate approach)
+<!-- ### Solutions by me (no student solution/improvement/alternate approach)
 - [0.1 Hilbert Curve by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Param.cpp)
 - [1.1 Harshad number by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Harshad number by Param.cpp)
 - [1.2 Palindromic Number by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Palindromic Number by Param.cpp)
@@ -44,7 +44,7 @@ Problems marked with * are acceptable but can be made more efficent using taught
 - [6.2 Egyptian Fraction by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Egyptian Fraction by Param.cpp)
 - [6.3 QuickSort by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/QuickSort by Param.cpp)
 - [6.4 Currency Sums by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Currency Sums by Param.cpp)
-- [6.5 Dyck Words by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Dyck Words by Param.cpp)
+- [6.5 Dyck Words by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Dyck Words by Param.cpp) -->
 
 ### Unsolved
 - 3.5 Calendar
