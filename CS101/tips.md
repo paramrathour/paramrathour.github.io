@@ -7,12 +7,6 @@ title: CS101 Tips
 {:toc} -->
 <!-- # Table of Content -->
 
-<!-- + Carefully go through the problem statement
-+ Check your understanding of problem using solved examples and practice testcases
-+ Compose the programming approach on paper
-+ Consolidate your approach by verifying its correctness on testcases by doing [*Dry Run*](#what-is-dry-run)
-+ Code it up (finally!) -->
-
 <buttona class="accordion">How to write a program? (5Cs)</buttona>
 <div class="panel">
 	<p></p>
@@ -64,8 +58,9 @@ The most important step in debugging
 
 <h4 align="center" id="Program compiles but gives no output">Program compiles but gives no output</h4>
 <ul>
-	<li>Infinite Loop?</li>
 	<li>Uninitialized variables</li>
+	<li>Division by zero</li>
+	<li>Infinite Loop?</li>
 	<li>Accessing out-of-range indexes</li>
 </ul>
 
@@ -205,6 +200,7 @@ Courtesy - Prof Parag Chaudhari
 <ul>
 	<li><a href="https://www.youtube.com/c/Reducible">Reducible</a></li>
 	<li><a href="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA">Computerphile</a></li>
+	<li><a href="https://www.youtube.com/c/TheCodingTrain">The Coding Train</a></li>
 	<li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a></li>
 	<li><a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg">Mathologer</a></li>
 	<li><a href="https://www.youtube.com/user/standupmaths">Stand-up Maths</a></li>

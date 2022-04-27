@@ -64,7 +64,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <li><a href="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg">Polymatter</a></li>
                 <li><a href="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ">Wendover Productions</a></li>
                 <li><a href="https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw">Half as Interesting</a></li>
-                <!--li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li-->
+                <li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li>
             </ul></p>
             <p>Below link includes <b>educational</b> channels too.</p>
             <ul class="actions">
@@ -74,7 +74,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <a class="image"><img src="Novels.jpg" alt="Novels" /></a>
             <h3>Novels</h3>
-            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again.</p>
+            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
             <h3>Music</h3>
             <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
@@ -100,14 +100,16 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <a class="image"><img src="T.V. Series.png" alt="T.V. Series" /></a>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
+            <a href="https://www.serializd.com/user/wrath" class="button">More info</a>
+            <p></p>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>
             <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
-            <p>Phew! Lot of things to do whensoever.</p>
         </article>
     </div>
 </section>
+<p>Phew! Lot of things to do whensoever.</p>
 </div>
 <p></p>
 <buttona class="accordion">Miscellaneous</buttona>

@@ -4,7 +4,7 @@ layout: page
 ---
 These identities say that the product of $2$ numbers, each of which is a sum of $2^n$ squares, is itself a sum of $2^n$ squares.
 
-But, this is not limited to only 'numbers', and this has many applications :)
+But, this is not limited to only 'numbers', and this has many applications :). Check out <a href="https://en.wikipedia.org/wiki/Hypercomplex_number">Hypercomplex numbers</a>
 
 Here are formulas of square identities:
 

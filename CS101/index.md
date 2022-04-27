@@ -6,7 +6,7 @@ title: Computer Programming and Utilization
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://github.com/paramrathour/CS-101/blob/main/Problems.pdf">In-GitHub PDF Link (For Mobile)	|</a></h3>
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://paramrathour.github.io/CS-101/Problems.pdf">In-Browser PDF Link (For Desktop)</a></h3>
 
-<!-- <h3 style="color: rgb(245,106,106,0.9);"><a href="{{ 'Solutions'}}">Student Solutions</a></h3> -->
+<h3 style="color: rgb(245,106,106,0.9);"><a href="{{ 'Solutions'}}">Student Solutions</a></h3>
 
 ## Course Info
 <h3 style="color: rgb(245,106,106,0.9); display: inline-block"><a href="https://cs101.has.coffee/home">Master Doc,</a></h3>

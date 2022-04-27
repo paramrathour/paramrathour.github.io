@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anime
-# image: assets/images/backg.jpg
+image: About Me/3x3.png
 ---
 
 <buttona class="accordion">My Anime List</buttona>

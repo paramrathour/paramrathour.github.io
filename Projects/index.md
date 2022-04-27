@@ -90,7 +90,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="https://paramrathour.github.io/Team-Rocket/" class="image"><img src="alu.svg" alt="Arithmetic Logic Unit" /></a>
+            <a href="https://paramrathour.github.io/Team-Rocket/" class="image"><img src="/Thumbnails/alu.svg" alt="Arithmetic Logic Unit" /></a>
             <h3>Arithmetic Logic Unit</h3>
             <p>EE224 Digital Systems</p>
             <p>Team Members: Param Rathour,  Darin Jeff, Aanal Sonara, Madhav Vadlamani</p>

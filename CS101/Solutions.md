@@ -11,7 +11,6 @@ Problems marked with * are acceptable but can be made more efficent using taught
 - [2.3 Simpson by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Simpson by Tirthankar.cpp)
 - [3.1a Collatz by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz a by Tirthankar.cpp)
 - [3.1b Collatz by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz b by Tirthankar.cpp)
-- [3.3 Euler's Totient Function Naive Method by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Euler's Totient Function Naive Method by Param.cpp)
 - [3.4* Farey sequence by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Farey sequence by Manish.cpp)
 - [4.1 Ackermann by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Ackermann by Tirthankar.cpp)
 - [4.3* Number of Grid Paths by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Number of Grid Paths by Manish.cpp)
