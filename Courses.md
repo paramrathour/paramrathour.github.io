@@ -29,10 +29,15 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20325">EE 325 - Probability and Random Processes</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20341">EE 341 - Communication Systems - I</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20350">EE 350 - Technical Communication</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20451">EE 451  - Supervised Research Exposition </a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20605">EE 605 - Error Correcting Codes</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20613">EE 613 - Nonlinear Dynamical Systems</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20635">EE 635 - Applied Linear Algebra </a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20636">EE 636 - Matrix Computations</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20640">EE 640 - Multivariable Control Systems </a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20659">EE 659 - A First Course in Optimization </a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20708">EE 708 - Information Theory and Coding</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20714">EE 714 - Behavioral Theory of Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20720">EE 720 - An Introduction to Number Theory and Cryptography</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20739">EE 739 - Processor Design</a></li>
                 </ul>
@@ -58,8 +63,11 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20101">CS 101 - Computer Programming and Utilization</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20213">CS 213 - Data Structures and Algorithms</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20218">CS 218 - Design and Analysis of Algorithms</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20224">CS 224 - Computer Networks</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20228">CS 228 - Logic for Computer Science</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20347">CS 347 - Operating Systems</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20490">CS 490  - RnD Project</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%206001">CS 6001  - Game Theory and Algorithmic Mechanism Design</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20747">CS 747 - Foundations of Intelligent and Learning Agents</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20781">CS 781 - Formal Methods in Machine Learning</a></li>
                     <!--li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=DS%20303">DS 303 - Introduction to Machine Learning</a></li-->
@@ -102,6 +110,7 @@ title: Courses
             </header>
                 <ul>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20101">HS 101 - Economics</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20200">HS 200 - Environment Studies</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20301">HS 301 - Philosophy</a></li>
                 </ul>
         </article>

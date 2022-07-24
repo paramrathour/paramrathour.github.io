@@ -6,11 +6,11 @@ title: Time Table
   <header>
     <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
     </h2>
-    <p>Here is my timetable for Spring Semester (2021-22).</p>
+    <p>Here is my timetable for Autumn Semester (2022-23).</p>
   </header>
   <p>Hover over the cells for more information regarding the courses</p>
 </div>
-<!------------------------ Autumn Semester 21-22 ------------------------>
+<!------------------------ Autumn Semester 22-23 ------------------------>
 <div class="table-wrapper" id="time-table">
 <table class="alt">
     <tr>
@@ -20,52 +20,52 @@ title: Time Table
         <td colspan="2">10:35 - 11:30</td>
         <td>11:35 - 12:30</td>
         <td rowspan="6" style="vertical-align : middle;">Lunch</td>
-        <td colspan="3" width="20%">14:00 - 17:00</td>
+        <td colspan="3">15:30 - 16:55</td>
         <td rowspan="6" style="vertical-align : middle;">Snacks</td>
         <td>17:30 - 18:55</td>        
     </tr>
     <tr>
         <td>Monday</td>
-        <td title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
-        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal">EE613</td>
-        <td colspan="2" title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
+        <td title="Environment Studies&#010;Prof: Swatantra Pratap Singh&#010;Prof: Virendra Sethi&#010;Prof: Srinidhi Balasubramanian&#010;Prof: Ratikanta Panda&#010;Prof: Rama Pal&#010;Prof: Mahendra Dindayal Shahare&#010;Room: LH 101">ES/HS200</td>
+        <td title="Multivariable Control Systems&#010;Prof: Harish Pillai&#010;Room: EEG-103">EE640</td>
+        <td colspan="2" title="Behavioral Theory of Systems&#010;Prof: Debasattam Pal&#010;Room: EEG-103">EE714</td>
         <td title="Free?"></td>
-        <td colspan="3" title="Electronics Design Lab&#010;Prof: J. John">EE344</td>
-        <td title="Free?"></td>
+        <td colspan="3" title="Free?"></td>
+        <td title="Applied Linear Algebra&#010;Prof: Dwaipayan Mukherjee&#010;Room: EEG-101">EE635</td>
     </tr>
     <tr>
         <td>Tuesday</td>
         <td title="Free?"></td>
-        <td title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
-        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal" colspan="2">EE613</td>
-        <td title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
-        <td colspan="3" title="Free?"></td>
-        <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
+        <td title="Environment Studies&#010;Prof: Swatantra Pratap Singh&#010;Prof: Virendra Sethi&#010;Prof: Srinidhi Balasubramanian&#010;Prof: Ratikanta Panda&#010;Prof: Rama Pal&#010;Prof: Mahendra Dindayal Shahare&#010;Room: LH 101">ES/HS200</td>
+        <td colspan="2" title="Multivariable Control Systems&#010;Prof: Harish Pillai&#010;Room: EEG-103" col40an="2">EE640</td>
+        <td title="Behavioral Theory of Systems&#010;Prof: Debasattam Pal&#010;Room: EEG-103">EE714</td>
+        <td colspan="3" title="Game Theory and Algorithmic Mechanism Design&#010;Prof: Swaprava Nath&#010;Room: CC 103">CS6001</td>
+        <td title="Free?"></td>
     </tr>    
     <tr>
         <td>Wednesday</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
-        <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
-        <td colspan="3" title="Electronic Devices Laboratory&#010;Prof: Udayan Ganguli&#010;Prof: Saurabh Lodha">EE236</td>
+        <td colspan="2" title="Computer Networks&#010;Prof: Vinay Ribeiro&#010;Room: VMCC33">CS224</td>
+        <td colspan="2" title="A First Course in Optimization&#010;Prof: Vivek Borkar&#010;Room: EEG-002">EE659</td>
+        <td colspan="3" title="Behavioral Theory of Systems&#010;Prof: Debasattam Pal&#010;Room: EEG-103">EE714</td>
         <td title="Free?"></td>
     </tr>    
     <tr>
         <td>Thursday</td>
-        <td title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
+        <td title="Behavioral Theory of Systems&#010;Prof: Debasattam Pal&#010;Room: EEG-103">EE714</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Technical Communication - I&#010;Prof: Kulkarni S V">EE350</td>
-        <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal">EE613</td>
+        <td colspan="2" title="Environment Studies&#010;Prof: Swatantra Pratap Singh&#010;Prof: Virendra Sethi&#010;Prof: Srinidhi Balasubramanian&#010;Prof: Ratikanta Panda&#010;Prof: Rama Pal&#010;Prof: Mahendra Dindayal Shahare&#010;Room: LH 101">ES/HS200</td>
+        <td title="Multivariable Control Systems&#010;Prof: Harish Pillai&#010;Room: EEG-103">EE640</td>
         <td colspan="3" title="Free?"></td>
-        <td title="Free?"></td>
+        <td title="Applied Linear Algebra&#010;Prof: Dwaipayan Mukherjee&#010;Room: EEG-101">EE635</td>
     </tr>    
     <tr>
         <td>Friday</td>
         <td title="Free?"></td>
-        <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
-        <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
-        <td colspan="3" title="Free?"></td>
-        <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
+        <td colspan="2" title="Computer Networks&#010;Prof: Vinay Ribeiro&#010;Room: VMCC33">CS224</td>
+        <td colspan="2" title="A First Course in Optimization&#010;Prof: Vivek Borkar&#010;Room: EEG-002">EE659</td>
+        <td colspan="3" title="Game Theory and Algorithmic Mechanism Design&#010;Prof: Swaprava Nath&#010;Room: CC 103">CS6001</td>
+        <td title="Free?"></td>
     </tr>    
 </table>
 </div>
