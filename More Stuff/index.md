@@ -17,7 +17,7 @@ title: Talks and Stuff
             </ul>
         </article>
         <article>
-            <a href="Coded Computing" class="image"><img src="/Thumbnails/coded-computing.svg" alt="" /></a>
+            <a href="Coded Computing" class="image"><img class="inversion" src="/Thumbnails/coded-computing.svg" alt="" /></a>
             <h3>Coded Computing for Straggler Mitigation, Security and Privacy</h3>
             <p>EE605 Error Correcting Codes</p>
             <p>Co-speaker - Anupam Nayak</p>

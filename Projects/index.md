@@ -9,7 +9,7 @@ title: Projects
     </header>
     <div class="posts">
         <article>
-            <a href="/Intelligent-and-Learning-Agents/Mountain Car/" class="image"><img src="/Thumbnails/mountain-car.gif" alt="Mountain Car" /></a>
+            <a href="/Intelligent-and-Learning-Agents/Mountain Car/" class="image"><img class="inversion" src="/Thumbnails/mountain-car.gif" alt="Mountain Car" /></a>
             <h3>Mountain Car</h3>
             <p>CS747 Intelligent and Learning Agents</p>
             <p>A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass.</p>
@@ -27,7 +27,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="/Intelligent-and-Learning-Agents/MDP Planning/" class="image"><img src="/Thumbnails/markov-decision-process.svg" alt="MDP Planning" /></a>
+            <a href="/Intelligent-and-Learning-Agents/MDP Planning/" class="image"><img class="inversion" src="/Thumbnails/markov-decision-process.svg" alt="MDP Planning" /></a>
             <h3>MDP Planning</h3>
             <p>CS747 Intelligent and Learning Agents</p>
             <p>In Reinforcement Learning problems, Markov Decision Processes (MDPs) describe the change in environment which changes its state in response to agent's actions. The state of the environment affects the immediate reward obtained by the agent, as well as the probabilities of future state transitions. The agent's objective (also called MDP Planning) is to select actions to maximize a expected long-term total reward.</p>
@@ -36,7 +36,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="/Moustique-Cipher/" class="image"><img src="/Thumbnails/stream-cipher.svg" alt="Moustique Cipher" /></a>
+            <a href="/Moustique-Cipher/" class="image"><img class="inversion" src="/Thumbnails/stream-cipher.svg" alt="Moustique Cipher" /></a>
             <h3>Moustique Cipher</h3>
             <p>EE720 An Introduction to Number Theory and Cryptography</p>
             <p>Team Members: Param Rathour and Prathamesh Dhake</p>
@@ -90,7 +90,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="https://paramrathour.github.io/Team-Rocket/" class="image"><img src="/Thumbnails/alu.svg" alt="Arithmetic Logic Unit" /></a>
+            <a href="https://paramrathour.github.io/Team-Rocket/" class="image"><img class="inversion" src="/Thumbnails/alu.svg" alt="Arithmetic Logic Unit" /></a>
             <h3>Arithmetic Logic Unit</h3>
             <p>EE224 Digital Systems</p>
             <p>Team Members: Param Rathour,  Darin Jeff, Aanal Sonara, Madhav Vadlamani</p>
