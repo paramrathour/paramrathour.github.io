@@ -47,7 +47,7 @@ title: Time Table
         <td title="Free?"></td>
         <td colspan="2" title="Computer Networks&#010;Prof: Vinay Ribeiro&#010;Room: VMCC33">CS224</td>
         <td colspan="2" title="A First Course in Optimization&#010;Prof: Vivek Borkar&#010;Room: EEG-002">EE659</td>
-        <td colspan="3" title="Behavioral Theory of Systems&#010;Prof: Debasattam Pal&#010;Room: EEG-103">EE714</td>
+        <td colspan="3" title="Free?"></td>
         <td title="Free?"></td>
     </tr>    
     <tr>

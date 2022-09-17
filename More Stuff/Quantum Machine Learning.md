@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quantum Machine Learning
+image: /Thumbnails/quantum-computing.jpg
 ---
 
 Introduction

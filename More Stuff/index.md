@@ -17,6 +17,15 @@ title: Talks and Stuff
             </ul>
         </article>
         <article>
+            <a href="Quantum Machine Learning" class="image"><img src="/Thumbnails/quantum-computing.jpg" alt="" /></a>
+            <h3>Quantum Machine Learning: Opportunities and Challenges</h3>
+            <p>EE350 Technical Communication</p>
+            <p>Nowadays, a general purpose quantum computer seems closer to reality than ever before, yet, it is so far. Can the near-term quantum technologies create an impact on ML and guide us towards quantum supremacy? Here, we focus on quantum approaches on very a promising field of unsupervised ML after getting comfortable with all the basics.</p>
+            <ul class="actions">
+                <li><a href="Quantum Machine Learning" class="button">More</a></li>
+            </ul>
+        </article>
+        <article>
             <a href="Coded Computing" class="image"><img class="inversion" src="/Thumbnails/coded-computing.svg" alt="" /></a>
             <h3>Coded Computing for Straggler Mitigation, Security and Privacy</h3>
             <p>EE605 Error Correcting Codes</p>
@@ -27,11 +36,12 @@ title: Talks and Stuff
             </ul>
         </article>
         <article>
-            <h3>Quantum Machine Learning: Opportunities and Challenges</h3>
-            <p>EE350 Technical Communication</p>
-            <p>Nowadays, a general purpose quantum computer seems closer to reality than ever before, yet, it is so far. Can the near-term quantum technologies create an impact on ML and guide us towards quantum supremacy? Here, we focus on quantum approaches on very a promising field of unsupervised ML after getting comfortable with all the basics.</p>
+            <a href="Dining Philosophers" class="image"><img class="inversion" src="/Thumbnails/dining-philosophers.svg" alt="" /></a>
+            <h3>Dining Philosophers</h3>
+            <p>CS347 Operating Systems</p>
+            <p>The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them. Here, I present my solutions (with proofs) to this problem.</p>
             <ul class="actions">
-                <li><a href="Quantum Machine Learning" class="button">More</a></li>
+                <li><a href="Dining Philosophers" class="button">More</a></li>
             </ul>
         </article>
     </div>
@@ -60,6 +70,7 @@ title: Talks and Stuff
             </ul>
         </article>
         <article>
+            <a href="Quantum Machine Learning" class="image"><img src="/Thumbnails/quantum-computing.jpg" alt="" /></a>
             <h3>Quantum Machine Learning: Opportunities and Challenges</h3>
             <p>EE350 Technical Communication</p>
             <p>Nowadays, a general purpose quantum computer seems closer to reality than ever before, yet, it is so far. Can the near-term quantum technologies create an impact on ML and guide us towards quantum supremacy? Here, we focus on quantum approaches on very a promising field of unsupervised ML after getting comfortable with all the basics.</p>
