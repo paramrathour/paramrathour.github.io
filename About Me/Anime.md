@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anime
-image: About Me/3x3.png
+image: About Me/4x4.jpg
 ---
 
 <buttona class="accordion">My Anime List</buttona>
@@ -16,7 +16,7 @@ image: About Me/3x3.png
 <buttona class="accordion">Tier List</buttona>
 <div class="panel">
     <p></p>
-    <a href="https://tiermaker.com/create/anime-1587667 " class="image main"><img src="Tier List.png" alt="Anime Tier List" /></a>
+    <a href="https://tiermaker.com/create/anime-1587667 " class="image main"><img src="https://cutt.ly/animetierlist" alt="Anime Tier List" /></a>
 </div>
 <p></p> 
 <p></p>

@@ -1,49 +1,52 @@
-# Student Solutions
- 
 Format: \<Pratice Problem number\>.\<Question number\> \<Problem Name\> by \<Student Name\>
 
 Problems marked with * are acceptable but can be made more efficent using taught methods
-- [0.1 Hilbert Curve by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Manish.cpp)
-- [0.1 Hilbert Curve by Poojan](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Poojan.cpp)
-- [2.1a Pisano by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pisano a by Tirthankar.cpp)
-- [2.1b Pisano by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pisano b by Tirthankar.cpp)
-- [2.2* Pi by Anushka](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pi by Anushka.cpp)
-- [2.3 Simpson by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Simpson by Tirthankar.cpp)
-- [3.1a Collatz by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz a by Tirthankar.cpp)
-- [3.1b Collatz by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz b by Tirthankar.cpp)
-- [3.4* Farey sequence by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Farey sequence by Manish.cpp)
-- [4.1 Ackermann by Tirthankar](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Ackermann by Tirthankar.cpp)
-- [4.3* Number of Grid Paths by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Number of Grid Paths by Manish.cpp)
-- [4.4* Delannoy Numbers by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Delannoy Numbers by Manish.cpp)
-- [4.6a* Number of Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Partitions a by Manish.cpp)
-- [4.6b* Partitions by Manish](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Partitions b by Manish.cpp)
-- [5.2 Remove Duplicates by Anushka](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Remove Duplicates by Anushka.cpp)
 
-<!-- ### Solutions by me (no student solution/improvement/alternate approach)
-- [0.1 Hilbert Curve by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Param.cpp)
-- [1.1 Harshad number by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Harshad number by Param.cpp)
-- [1.2 Palindromic Number by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Palindromic Number by Param.cpp)
-- [1.3a Base Conversion by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Base Conversion a by Param.cpp)
-- [1.3b Base Conversion by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Base Conversion b by Param.cpp)
-- [2.2 Pi by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pi by Param.cpp)
-- [2.4 Special Pythagorean Triplet by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Special Pythagorean Triplet by Param.cpp)
-- [2.5a Modular Exponentiation by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Modular Exponentiation a by Param.cpp)
-- [2.5b Modular Exponentiation by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Modular Exponentiation b by Param.cpp)
-- [3.2 Horner by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Horner by Param.cpp)
-- [3.3 Euler's Totient Function Fast by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Euler's Totient Function Fast by Param.cpp)
-- [3.4 Farey sequence by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Farey sequence by Param.cpp)
-- [4.2 Hereditary Representation by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hereditary Representation by Param.cpp)
-- [4.3 Number of Grid Paths Iterative by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Number of Grid Paths by Param.cpp)
-- [4.4 Delannoy Numbers Iterative by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Delannoy Numbers by Param.cpp)
-- [4.5 Thue-Morse Sequence Recursive by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Thue-Morse Sequence Recursive by Param.cpp)
-- [4.5 Thue-Morse Sequence Fast by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Thue-Morse Sequence Fast by Param.cpp)
-- [5.4 Maximum Element by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Maximum Element by Param.cpp)
-- [6.1 Tower of Hanoi Recursive by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Tower of Hanoi Recursive by Param.cpp)
-- [6.1 Tower of Hanoi Iterative by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Tower of Hanoi Iterative by Param.cpp)
-- [6.2 Egyptian Fraction by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Egyptian Fraction by Param.cpp)
-- [6.3 QuickSort by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/QuickSort by Param.cpp)
-- [6.4 Currency Sums by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Currency Sums by Param.cpp)
-- [6.5 Dyck Words by Param](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Dyck Words by Param.cpp) -->
+Special Mention to Mann Chauhan for solving almost all problems from section 1-5. I have only included his smartest solutions
 
-### Unsolved
-- 3.5 Calendar
+| Problem Number | Problem Name                               | Student             | Program                                                                                                                          |
+| -------------- | ------------                               | -------             | -------                                                                                                                          |
+| 1.1            | Star Spiral                                | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Star Spiral by Mann Chauhan.cpp)                     |
+| 1.4            | Alphabetical Floyd's Triangle              | Shrey Aggarwal      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Alphabetical Floyd's Triangle by Shrey Aggarwal.cpp) |
+| 1.5            | Bernoulli's Triangle                       | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Bernoulli's Triangle by Mann Chauhan.cpp)            |
+| 2.2            | Wallis Product                             | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Wallis Product by Mann Chauhan.cpp)                  |
+| 2.7            | Viete's Pi Formula                         | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Viete's Pi Formula by Mann Chauhan.cpp)              |
+| 2.10           | Simpson                                    | Tirthankar Mazumder | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Simpson's Rule by Tirthankar.cpp)                    |
+| 3.4            | ISBN                                       | Uttara Nandanwar    | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/ISBN by Uttara Nandanwar.cpp)                        |
+| 3.5            | Doomsday Algorithm                         | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Doomsday Algorithm by Mann Chauhan.cpp)              |
+| 4.1            | Pisano                                     | Tirthankar Mazumder | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pisano a by Tirthankar.cpp)                          |
+| 4.5a           | Base Conversion                            | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Base Conversion a by Mann Chauhan.cpp)               |
+| 4.5b           | Base Conversion                            | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Base Conversion b by Mann Chauhan.cpp)               |
+| 5.1            | Collatz                                    | Tirthankar Mazumder | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz b by Tirthankar.cpp)                         |
+| 5.2            | Friendly Pair                              | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Friendly Pair by Mann Chauhan.cpp)                   |
+| 6.1            | Ackermann                                  | Tirthankar Mazumder | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Ackermann by Tirthankar.cpp)                         |
+| 6.2            | Horner's Method                            | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Horner's Method by Mann Chauhan.cpp)                 |
+| 6.4b*          | Partitions                                 | Manish Kumawat      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Partitions b by Manish.cpp)                          |
+| 7.1            | Staircase Walk                             | Mann Chauhan        | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Staircase Walk by Mann Chauhan.cpp)                  |
+| 7.3*           | Delannoy Number                            | Manish Kumawat      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Delannoy Number by Manish.cpp)                       |
+| 7.6            | Hilbert Curve                              | Manish Kumawat      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Manish.cpp)                         |
+| 7.6            | Hilbert Curve                              | Poojan Sojitra      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Hilbert Curve by Poojan.cpp)                         |
+| 8.6*           | Farey Sequence                             | Manish Kumawat      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Farey sequence by Manish.cpp)                        |
+| 9.1            | Minesweeper                                | Tanvi Pimprikar     | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Minesweeper by Tanvi Pimprikar.cpp)                  |
+
+### Defunt Problems
+
+| Problem Number | Problem Name                               | Student             | Program                                                                                                                          |
+| -------------- | ------------                               | -------             | -------                                                                                                                          |
+|                | Pi                                         | Anushka             | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Pi by Anushka.cpp)                                   |
+|                | Print Collatz Sequence                     | Tirthankar Mazumder | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Collatz a by Tirthankar.cpp)                         |
+|                | Number of Partitions using up to m objects | Manish Kumawat      | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Partitions a by Manish.cpp)                          |
+|                | Remove Duplicates from an array            | Anushka            | [Link](https://github.com/paramrathour/CS-101/blob/main/Student%20Solutions/Remove Duplicates by Anushka.cpp)                    |
+
+### Interesting Unsolved Problems to try out
+- 5.5 Regular Star Polygon
+- 6.5 Hereditary Representation
+- 7.4 Schröder Number
+- 7.5 Motzkin Number
+- 8.1 Josephus Problem
+- 8.2. Van Eck's Sequence
+- 8.3. Look-And-Say Sequence
+- 8.4. Thue-Morse Sequence
+- 8.5. Recaman's Sequence
+- 8.6. Farey Sequence
+- 11.1. Linear Feedback Shift Register

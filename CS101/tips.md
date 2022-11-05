@@ -36,7 +36,7 @@ The most important step in debugging
 <ul>
 	<li>Select a testcase</li>
 	<ul>
-		<li>Manually go through the code to trace the value of variables</li>
+		<li>Manually go through the code to trace the value of variables (or you can simply output these variable values using <code>cout</code>)</li>
 		<li>Check if the values of variables matches with their expected values</li>
 		<ul>
 			<li>If they do not match for any variable at any time then your program is incorrect, consider debugging/rewriting it</li>
@@ -85,7 +85,7 @@ The most important step in debugging
 	<p></p>
 	<p>Most important - CODE, CODE, CODE</p>
 	<ul>
-		<li>in-video, out-video quizzes</li>
+		<li>in-video, out-video quizzes (if recorded lectures are provided)</li>
 		<li>slide program exercises</li>
 		<li>previous week's lab optional problems</li>
 		<li><a href="https://paramrathour.github.io/CS-101/Problems.pdf">practice problems</a></li>
@@ -163,8 +163,9 @@ Courtesy - Prof Parag Chaudhari
 
 <h2 align="center" id="Video Tutorials">Video Tutorials</h2>
 <ul>
-	<li><a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ by The Cherno</a>, Courtesy - Tirthankar Mazumder</li>
+	<li><a href="https://youtube.com/playlist?list=PLOzRYVm0a65eklyMDXGSWObRA-7lCdkSm">An Introduction to Programming through C++ by Abhiram G. Ranade</a></li>
 	<li><a href="https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ">C++ Full Course by Apna College</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">C++ by The Cherno</a>, Courtesy - Tirthankar Mazumder</li>
 </ul>
 
 <h2 align="center" id="Practice Programming Online">Practice Programming Online</h2>
@@ -201,6 +202,7 @@ Courtesy - Prof Parag Chaudhari
 	<li><a href="https://www.youtube.com/c/Reducible">Reducible</a></li>
 	<li><a href="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA">Computerphile</a></li>
 	<li><a href="https://www.youtube.com/c/TheCodingTrain">The Coding Train</a></li>
+	<li><a href="https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw">WilliamFiset</a></li>
 	<li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a></li>
 	<li><a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg">Mathologer</a></li>
 	<li><a href="https://www.youtube.com/user/standupmaths">Stand-up Maths</a></li>
@@ -208,22 +210,36 @@ Courtesy - Prof Parag Chaudhari
 </ul>
 
 <h2 align="center" id="YouTube Videos">YouTube Videos</h2>
+For more such videos check out "Fun Video" section of my <a href="https://paramrathour.github.io/CS-101/Problems.pdf">practice problems</a>. I have mentioned select videos here.
 <ul>
-	<li><a href="https://youtu.be/PZRI1IfStY0">Floating Point numbers</a></li>
-	<li><a href="https://youtu.be/pQs_wx8eoQ8">Why computers are bad at algebra</a></li>
-	<li><a href="https://www.youtube.com/watch?v=3s7h2MHQtxc&vl=en">Hilbert’s Curve: Is infinite math useful?</a></li>
-	<li><a href="https://www.youtube.com/watch?v=b-Fa6HtvGtQ&t=4m44s">Recursive PowerPoint Presentations [Gone Fractal!]</a></li>
-	<li><a href="https://youtu.be/7eboFOkRHr4">7 Factorials You Probably Didn't Know</a></li>
-	<li><a href="https://youtu.be/0hlvhQZIOQw">Funny Fractions and Ford Circles</a></li>
-	<li><a href="https://youtu.be/z2x3SSBVGJU">The Doomsday Algorithm</a></li>
-	<li><a href="https://youtu.be/ngCos392W4w">5 Simple Steps for Solving Any Recursive Problem</a></li>
-	<li><a href="https://youtu.be/uWwUpEY4c8o">Kill the Mathematical Hydra</a></li>
-	<li><a href="https://youtu.be/oBOZ2WroiVY">How Infinity Explains the Finite</a></li>
-	<li><a href="https://youtu.be/prh72BLNjIk">The Fairest Sharing Sequence Ever</a></li>
-	<li><a href="https://youtu.be/iJ8pnCO0nTY">The hardest What comes next (Euler's pentagonal formula)</a></li>
-	<li><a href="https://youtu.be/2SUvWfNJSsM">Binary, Hanoi and Sierpinski, part 1</a></li>
-	<li><a href="https://youtu.be/bdMfjfT0lKk">Binary, Hanoi and Sierpinski, part 2</a></li>
-	<li><a href="https://youtu.be/rf6uf3jNjbo">Towers of Hanoi: A Complete Recursive Visualization</a></li>
+	<li><a href="https://youtu.be/PZRI1IfStY0">Floating Point numbers -- Computerphile</a></li>
+	<li><a href="https://youtu.be/0poh3w_Vm_A">Tetration: The operation you were (probably) never taught -- Taylor Series</a></li>
+	<li><a href="https://youtu.be/7eboFOkRHr4">7 Factorials You Probably Didn't Know -- blackpenredpen</a></li>
+	<li><a href="https://youtu.be/leFep9yt3JY">Ramanujan's infinite root and its crazy cousins -- Mathologer</a></li>
+	<li><a href="https://youtu.be/Ks1pw1X22y4">Random Numbers with LFSR (Linear Feedback Shift Register) -- Computerphile</a></li>
+	<li><a href="https://youtu.be/pQs_wx8eoQ8">Why computers are bad at algebra -- PBS Infinite Series</a></li>
+	<li><a href="https://youtu.be/2SUvWfNJSsM">Binary, Hanoi and Sierpinski, part 1  -- 3Blue1Brown</a></li>
+	<li><a href="https://youtu.be/bdMfjfT0lKk">Binary, Hanoi and Sierpinski, part 2  -- 3Blue1Brown</a></li>
+	<li><a href="https://youtu.be/3s7h2MHQtxc">Hilbert's Curve: Is infinite math useful? -- 3Blue1Brown</a></li>
+	<li><a href="https://youtu.be/rf6uf3jNjbo">Towers of Hanoi: A Complete Recursive Visualization -- Reducible</a></li>
+	<li><a href="https://youtu.be/ngCos392W4w">5 Simple Steps for Solving Any Recursive Problem -- Reducible</a></li>
+	<li><a href="https://youtu.be/b-Fa6HtvGtQ">Recursive PowerPoint Presentations [Gone Fractal!] -- Stand-up Maths</a></li>
+	<li><a href="https://youtu.be/i7sm9dzFtEI">The Most Difficult Program to Compute? -- Computerphile</a></li>
+	<li><a href="https://youtu.be/sPFWfAxIiwg">11.11.11 -- Numberphile</a></li>
+	<li><a href="https://youtu.be/z2x3SSBVGJU">The Doomsday Algorithm -- Numberphile</a></li>
+	<li><a href="https://youtu.be/cbGB__V8MNk">Square & Multiply Algorithm -- Computerphile</a></li>
+	<li><a href="https://youtu.be/uCsD3ZGzMgE">The Josephus Problem -- Numberphile</a></li>
+	<li><a href="https://youtu.be/gMlf1ELvRzc">The Discovery That Transformed Pi -- Veritasium</a></li>
+	<li><a href="https://youtu.be/J0I1NuxUcpQ">What You Don't Know About Pascal's Triangle -- Tipping Point Math</a></li>
+	<li><a href="https://youtu.be/xNx3JxRhnZE">Dungeon Numbers -- Numberphile</a></li>
+	<li><a href="https://youtu.be/FGC5TdIiT9U">The Slightly Spooky Recam´an Sequence -- Numberphile</a></li>
+	<li><a href="https://youtu.be/prh72BLNjIk">The Fairest Sharing Sequence Ever -- Stand-up Maths</a></li>
+	<li><a href="https://youtu.be/Dgcoa2yAUfw">The Harmonic Series -- Tipping Point Math</a></li>
+	<li><a href="https://youtu.be/ea7lJkEhytA">Look-and-Say Numbers (feat John Conway) -- Numberphile</a></li>
+	<li><a href="https://youtu.be/iJ8pnCO0nTY">The hardest What comes next (Euler's pentagonal formula) -- Mathologer</a></li>
+	<li><a href="https://youtu.be/0hlvhQZIOQw">Funny Fractions and Ford Circles -- Numberphile</a></li>
+	<li><a href="https://youtu.be/uWwUpEY4c8o">Kill the Mathematical Hydra -- PBS Infinite Series</a></li>
+	<li><a href="https://youtu.be/oBOZ2WroiVY">How Infinity Explains the Finite -- PBS Infinite Series</a></li>
 </ul>
 </div>
 <p></p>
@@ -234,9 +250,9 @@ You are free to choose your route, but in case you did not know, here are someth
 
 <h2 align="center" id="IITB">IITB</h2>
 <ul>
-	<li>ITSP, <a href="https://wncc-iitb.org/soc/">SoC</a>, projects under professors, self project</li>
+	<li>ITSP, <a href="https://wncc-iitb.org/soc/">SoC</a>, SURP, projects under professors, self project</li>
 	<li>CS/DS Minor, IDDDP (Interdisciplinary Dual Degree Programme) (for non-CS students) - Need to do 5 CSE courses to get a minor degree</li>
-	<li>Additional CSE Courses as Electives and CDEEP</li>
+	<li>Additional CSE Courses as Electives and CDEEP (often, other departments too offer courses intersecting with CSE)</li>
 	<li>Web and Coding Club, DevCom for enthusiasts</li>
 	<li>Technical Teams too have software subsystems with diverse fields</li>
 	<li>Web Secretary position for various departments, technical teams, clubs and many more</li>
