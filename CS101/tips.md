@@ -280,3 +280,4 @@ You are free to choose your route, but in case you did not know, here are someth
 	<li><a href="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/">Open Source</a></li>
 	<li><a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a></li>
 </ul>	
+<a href="https://www.flagcounter.me/details/dby"><img src="https://www.flagcounter.me/dby/" alt="Flag Counter"></a>
