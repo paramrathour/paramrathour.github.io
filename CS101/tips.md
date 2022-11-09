@@ -50,10 +50,14 @@ The most important step in debugging
 
 <h4 align="center" id="Program does not compile">Program does not compile</h4>
 <ul>
-	<li>Get comfortable with common syntactical errors - <a href="https://help.mimir.io/en/articles/2761300-cpp-common-compiler-errors-with-explanations">Common errors</a></li>
-	<li>Missing semicolons, curly braces, multiplication symbol</li>
+	<li>Get comfortable with common syntactical errors
+		<ul>
+			<li><a href="https://help.mimir.io/en/articles/2761300-cpp-common-compiler-errors-with-explanations">Common errors</a></li>
+			<li><a href="https://www.geeksforgeeks.org/errors-in-cc/">Types of errors</a></li>
+		</ul>
+	</li>
+	<li>Missing semicolons, curly braces, multiplication symbol (<code>ab</code> instead of <code>a*b</code>)</li>
 	<li>variables out of scope</li>
-	<li>ab instead of a*b</li>
 </ul>
 
 <h4 align="center" id="Program compiles but gives no output">Program compiles but gives no output</h4>
@@ -280,4 +284,6 @@ You are free to choose your route, but in case you did not know, here are someth
 	<li><a href="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/">Open Source</a></li>
 	<li><a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a></li>
 </ul>	
-<a href="https://www.flagcounter.me/details/dby"><img src="https://www.flagcounter.me/dby/" alt="Flag Counter"></a>
+</div>
+<p></p>
+<p><a href="https://www.flagcounter.me/details/dby"><img class="inversion" src="https://www.flagcounter.me/dby/" alt="Flag Counter"></a></p>
