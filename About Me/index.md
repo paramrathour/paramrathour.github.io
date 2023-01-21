@@ -7,7 +7,7 @@ url: https://youtu.be/lshWT0iyxds
 
 Hello! My name is Param Rathour.
 
-I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India). I'm pursuing a Bachelor of Technology in Electrical Engineering as my major and Computer Science & Engineering as my minor.
+I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India). I'm pursuing a Bachelor of Technology and Master of Technology in Electrical Engineering, with Control and Computing as my specialization. I have also completed a minor in Computer Science & Engineering.
 
 <buttona class="accordion">Education</buttona>
 <div class="panel">
@@ -30,20 +30,16 @@ Below are some of my interests (Consider thumbnails as recommendations).
 <!-- Section -->
 <section>
     <header class="major">
-        <h2>Academics</h2>
+        <p></p>
+        <h2>Mathematics</h2>
     </header>
-    <div class="posts">
-        <article>
-            <a class="image"><img src="Mathematics.jpg" alt="" /></a>
-            <h3>Mathematics  ε></h3>
-            <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books (favourite books recommend above). My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject. Over the years at IITB, my interest in pure and applied mathematics has only grown.</p>
-        </article>
-        <!--article>
-            <a href="#" class="image"><img src=".jpg" alt="" /></a>
-            <h3>Other Interests</h3>
-            <p></p>
-        </article-->
-    </div>
+        <h3>Recreational Mathematics  ε></h3>
+            <span class="image main"><img src="Mathematics For Fun.png" alt="Mathematics For Fun" /></span>
+            <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
+        <hr class="major" />
+        <h3>Applied Mathematics</h3>
+            <span class="image main"><img src="Applied Mathematics.png" alt="Applied Mathematics" /></span>
+            <p>Over the years at IITB, my interest in pure and applied mathematics has only grown which led me to get invested in Theoretical Computer Science and Control Theory as well. Some of my favourite books which I have delved into are given above.</p>
 </section>
 
 <!-- Section -->
@@ -53,10 +49,10 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image"><img src="Youtube.jpg" alt="Featured Channels" /></a>
+            <span href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image main"><img src="Youtube.jpg" alt="Featured Channels" /></span>
             <h3>Youtube</h3>
             <p>I watch a lot of youtube, not just educational but history, business and economics, engineering, tech and random stuff.</p>
-            <p>My recommendations
+<!--             <p>My recommendations
             <ul>
                 <li><a href="https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A">Oversimplified</a></li>
                 <li><a href="https://www.youtube.com/user/Top10Memes">LEMMiNO</a></li>
@@ -66,17 +62,15 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <li><a href="https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw">Half as Interesting</a></li>
                 <li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li>
             </ul></p>
-            <p>Below link includes <b>educational</b> channels too.</p>
+            <p>Below link includes <b>educational</b> channels too.</p> -->
             <ul class="actions">
                 <li><a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="button">Featured Channels</a></li>
             </ul>
         </article>
         <article>
-            <a class="image"><img src="Novels.jpg" alt="Novels" /></a>
-            <h3>Novels</h3>
-            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
+            <span class="image main"><img src="Music.png" alt="Music" /></span>
             <h3>Music</h3>
-            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
+            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
                 <!-- <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
                 <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
@@ -87,21 +81,32 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <li><a href="https://youtu.be/VqrCeNjxC-c">Deeply Fast</a></li>
                 <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li> -->
                 <a href="https://youtube.com/playlist?list=PL_oWkLvcB4HN0Ik1-V_TrYZpnQJ9s8hK2" class="button">Cinematic Music</a>
-                <a href="https://www.youtube.com/playlist?list=PL_oWkLvcB4HP1U_mOahMiEqRRKntuRI6Z" class="button">Anime OPs and OSTs</a>
+                <a href="https://youtube.com/playlist?list=PL_oWkLvcB4HOoLRN3uzNSLOXSTqanH3x7" class="button">Western Songs</a>
+                <p></p>
+                <a href="https://youtube.com/playlist?list=PL_oWkLvcB4HOdCAn_Xgu4_0lC9KwJzaTJ" class="button">Anime OSTs</a>
+                <a href="https://youtube.com/playlist?list=PL_oWkLvcB4HPWO9x3au0BXFI-crB2GRPg" class="button">Anime Songs</a>
             </ul>
         </article>
         <article>
-            <a href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image"><img src="Anime.png" alt="Anime" /></a>
+            <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="Anime.png" alt="Anime" /></span>
             <h3>Anime</h3>
-            <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Supernatural, Thriller or Tragedy I have watched them all :D</p>
-            <a href="Anime" class="button">More info</a>
+            <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D</p>
+            <a href="Anime" class="button">My Anime page</a>
         </article>
         <article>
-            <a class="image"><img src="T.V. Series.png" alt="T.V. Series" /></a>
+            <span class="image main"><img src="T.V. Series.png" alt="T.V. Series" /></span>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
-            <a href="https://www.serializd.com/user/wrath" class="button">More info</a>
+            <a href="https://www.serializd.com/user/wrath" class="button">My T.V. Series page</a>
             <p></p>
+        </article>
+        <article>
+            <span class="image main"><img src="Novels.jpg" alt="Novels" /></span>
+            <h3>Novels</h3>
+            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
+        </article>
+        <article>
+            <a class="image"><img src="Sports.png" alt="Sports" /></a>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>
