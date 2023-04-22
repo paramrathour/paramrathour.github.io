@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/backg.jpg
+image: assets/images/TSC.png
 url: https://youtu.be/lshWT0iyxds
 ---
 
