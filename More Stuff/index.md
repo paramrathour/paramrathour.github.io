@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks and Stuff
-image: TSC.png
+image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.png
 ---
 <section>
     <header class="major">

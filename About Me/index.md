@@ -91,7 +91,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/anime.png" alt="Anime" /></span>
             <h3>Anime</h3>
             <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D</p>
-            <a href="Anime" class="button">My Anime page</a>
+            <a href="/Anime" class="button">My Anime page</a>
         </article>
         <article>
             <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/tv-series.png" alt="T.V. Series" /></span>
