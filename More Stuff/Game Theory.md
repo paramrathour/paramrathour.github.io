@@ -1,5 +1,5 @@
 ---
-image: /Thumbnails/game-theory.svg
+image: https://raw.githubusercontent.com/paramrathour/Game-Theory/master/Game%20Theory.svg
 layout: page
 title: Game Theory
 ---

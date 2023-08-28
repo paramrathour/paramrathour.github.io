@@ -4,7 +4,7 @@ title: Courses
 ---
 <div class="content">
   <header>
-    <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="assets/images/iitbtp.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
+    <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/master/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
     </h2>
     <p>List of Courses undertaken:</p>
   </header>
@@ -37,7 +37,6 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20636">EE 636 - Matrix Computations</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20640">EE 640 - Multivariable Control Systems </a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20659">EE 659 - A First Course in Optimization </a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20691">EE 691 - R & D Project</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20708">EE 708 - Information Theory and Coding</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20710">EE 710 - Large Sparse Matrix Computations</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20714">EE 714 - Behavioral Theory of Systems</a></li>
@@ -75,6 +74,8 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20347">CS 347 - Operating Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20490">CS 490  - RnD Project</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%206001">CS 6001  - Game Theory and Algorithmic Mechanism Design</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20663">CS 663 - Foundations of Digital Image Processing</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20683">CS 683 - Advanced Computer Architechture</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20747">CS 747 - Foundations of Intelligent and Learning Agents</a></li>
                     <!-- <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20779">CS 779 - Extremal Combinatorics</a></li> -->
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20781">CS 781 - Formal Methods in Machine Learning</a></li>
@@ -133,3 +134,9 @@ title: Courses
         </article>
     </div>
 </section>
+<p>
+Also, here is a tier list of courses that I have done, just for fun.
+<span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/iitb-courses-tier-list.png" alt="Anime Tier List" /></span> 
+The tiermaker <a href="https://tiermaker.com/create/iit-bombay-electrical-engineering-courses-1587667">template</a> used.
+
+</p>

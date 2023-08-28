@@ -1,5 +1,5 @@
 ---
-image: /Thumbnails/coded-computing.svg
+image: https://raw.githubusercontent.com/paramrathour/Coded-Computing/master/coded-computing.svg
 layout: page
 title: Coded Computing for Straggler Mitigation, Security and Privacy
 ---

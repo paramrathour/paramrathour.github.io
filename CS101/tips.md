@@ -28,7 +28,7 @@ title: CS101 Tips
 
 <h2 align="center" id="Debugging">Debugging</h2>
 
-<span class="image main"><img src="cartoon.png" alt="cartoon" /></span>
+<span class="image main"><img src="https://i.stack.imgur.com/NFwZj.png" alt="programming cartoon" /></span>
 <p>Pic Courtesy - <a href="https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon/84624#84624">stackoverflow</a> </p>
 
 <h3 align="center" id="What is Dry Run?">What is Dry Run?</h3>
@@ -189,7 +189,7 @@ Courtesy - Prof Parag Chaudhari
 <div class="panel">
 	<p></p>
 <h2 align="center" id="Interesting Books">Interesting Books</h2>
-<span class="image main"><img src="books.png" alt="Interesting CS Books" /></span>
+<span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/computer-science-for-fun.png" alt="Interesting CS Books" /></span>
 <ul>
 	<li>A Brief History Of Computing by Gerard O'Regan</li>
 	<li>Code The Hidden Language of Computer Hardware and Software by Charles Petzold</li>

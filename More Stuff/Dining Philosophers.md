@@ -1,4 +1,5 @@
 ---
+image: https://raw.githubusercontent.com/paramrathour/Dining-Philosophers/master/Dining%20Philosophers.svg
 layout: page
 title: Dining Philosophers
 ---
@@ -11,6 +12,8 @@ The dining philosophers problem is an example problem often used in concurrent a
 **The slides with pauses can be viewed** [here](/Dining-Philosophers/DP%20with%20pauses.pdf).
 
 **The slides without pauses can be viewed** [here](/Dining-Philosophers/DP%20without%20pauses.pdf).
+
+**The C implementation can be viewed** [here](/Dining-Philosophers/implementation).
 
 TeX-nical Details
 -----------------

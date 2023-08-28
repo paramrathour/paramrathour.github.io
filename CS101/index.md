@@ -10,7 +10,7 @@ title: Computer Programming and Utilization
 <h4 style="color: rgb(245,106,106,0.9);"><a href="{{ 'Solutions'}}">Student Solutions</a></h4>
 
 ## Course Info
-<h4 style="color: rgb(245,106,106,0.9);"><a href="https://www.cse.iitb.ac.in/~ajitvr/CS101_Fall2022/">Course Webpage</a></h4>
+<!-- <h4 style="color: rgb(245,106,106,0.9);"><a href="https://www.cse.iitb.ac.in/~ajitvr/CS101_Fall2022/">Course Webpage</a></h4> -->
 <h4 style="color: rgb(245,106,106,0.9);"><a href="https://cs101.bodhi.cse.iitb.ac.in/">BodhiTree</a></h4>
 <h4 style="color: rgb(245,106,106,0.9);"><a href="https://www.cse.iitb.ac.in/~cs101/offerings.html">Previous Offerings</a></h4>
 <!--Spring 2022-->

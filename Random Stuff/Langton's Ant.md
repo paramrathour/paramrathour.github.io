@@ -15,7 +15,7 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
     <td>Animation of first 30000 steps of Langton's ant</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="GIFs/Langton's Ant Full.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Langton's%20Ant/Langton's%20Ant.gif"></span></td>
     </tr>
 </table>
 

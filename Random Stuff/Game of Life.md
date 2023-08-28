@@ -23,11 +23,11 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Tub</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="GIFs/Block.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Beehive.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Loaf.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Boat.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Tub.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Block.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Beehive.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Loaf.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Boat.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Tub.gif"></span></td>
   </tr>
 </table>
 
@@ -41,10 +41,10 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Pulsar</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="GIFs/Blinker.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Toad.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Beacon.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Pulsar.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Blinker.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Toad.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Beacon.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Pulsar.gif"></span></td>
   </tr>
 </table>
 
@@ -58,10 +58,10 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Heavy Weight Spaceship</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="GIFs/Glider.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Light Weight Spaceship.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Middle Weight Spaceship.gif"></span></td>
-    <td><span class="image fit"><img src="GIFs/Heavy Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Glider.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Light Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Middle Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Heavy Weight Spaceship.gif"></span></td>
   </tr>
 </table>
 
@@ -72,7 +72,7 @@ Many different types of patterns occur in the Game of Life, which are classified
     <td>Gosper Glider Gun</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="GIFs/Gosper Glider Gun.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Gosper Glider Gun.gif"></span></td>
   </tr>
 </table>
 
