@@ -74,7 +74,7 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20347">CS 347 - Operating Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20490">CS 490  - RnD Project</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%206001">CS 6001  - Game Theory and Algorithmic Mechanism Design</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20663">CS 663 - Foundations of Digital Image Processing</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20663">CS 663 - Fundamentals of Digital Image Processing</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20683">CS 683 - Advanced Computer Architechture</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20747">CS 747 - Foundations of Intelligent and Learning Agents</a></li>
                     <!-- <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20779">CS 779 - Extremal Combinatorics</a></li> -->

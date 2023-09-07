@@ -15,8 +15,8 @@ title: Time Table
     <table class="alt">
         <tr>
             <td>Day | Time</td>
-            <td>05:30 - 06:55</td>
-            <td>07:00 - 08:55</td>
+            <td>17:30 - 18:55</td>
+            <td>19:00 - 20:55</td>
         </tr>
         <tr>
             <td>Monday</td>
