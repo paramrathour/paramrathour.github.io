@@ -1,5 +1,5 @@
 ---
-image: https://raw.githubusercontent.com/paramrathour/website-assets/master/mandelbrot-set.jpg
+image: https://raw.githubusercontent.com/paramrathour/website-assets/main/mandelbrot-set.jpg
 layout: page
 title: Nonlinear Dynamics
 ---
@@ -28,6 +28,6 @@ TeX-nical Details
 
 The TeX code can be found in [this](https://github.com/paramrathour/Nonlinear-Dynamics) repository.
 
-[This](https://github.com/paramrathour/Nonlinear-Dynamics/blob/master/Nonlinear%20Dynamics.tex) is the primary TeX file which is to be compiled to get the report.
+[This](https://github.com/paramrathour/Nonlinear-Dynamics/blob/main/Nonlinear%20Dynamics.tex) is the primary TeX file which is to be compiled to get the report.
 
-[This](https://github.com/paramrathour/Nonlinear-Dynamics/blob/master/References.bib) is the BibTeX file containing the references used by me.
+[This](https://github.com/paramrathour/Nonlinear-Dynamics/blob/main/References.bib) is the BibTeX file containing the references used by me.

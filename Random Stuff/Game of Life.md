@@ -23,11 +23,11 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Tub</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Block.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Beehive.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Loaf.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Boat.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Tub.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Block.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Beehive.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Loaf.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Boat.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Tub.gif"></span></td>
   </tr>
 </table>
 
@@ -41,10 +41,10 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Pulsar</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Blinker.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Toad.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Beacon.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Pulsar.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Blinker.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Toad.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Beacon.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Pulsar.gif"></span></td>
   </tr>
 </table>
 
@@ -58,10 +58,10 @@ Many different types of patterns occur in the Game of Life, which are classified
      <td>Heavy Weight Spaceship</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Glider.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Light Weight Spaceship.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Middle Weight Spaceship.gif"></span></td>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Heavy Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Glider.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Light Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Middle Weight Spaceship.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Heavy Weight Spaceship.gif"></span></td>
   </tr>
 </table>
 
@@ -72,7 +72,7 @@ Many different types of patterns occur in the Game of Life, which are classified
     <td>Gosper Glider Gun</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Game%20of%20Life/GIFs/Gosper Glider Gun.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Gosper Glider Gun.gif"></span></td>
   </tr>
 </table>
 
@@ -80,5 +80,5 @@ Many different types of patterns occur in the Game of Life, which are classified
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - [Scholarpedia](http://www.scholarpedia.org/article/Game_of_Life)
-- Code of above patterns are available in this [repository](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life). You can try simulating by changing values but [this](https://bitstorm.org/gameoflife/) may be better.
+- Code of above patterns are available in this [repository](https://github.com/paramrathour/Scientific-Computing/tree/main/Cellular%20Automaton/Game%20of%20Life). You can try simulating by changing values but [this](https://bitstorm.org/gameoflife/) may be better.
 - **Game of Life** simulated by **Game of Life**, Watch [here](https://youtu.be/D6aP9S9rEQk)

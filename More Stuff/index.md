@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks and Stuff
-image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.png
+image: https://raw.githubusercontent.com/paramrathour/website-assets/main/TSC.png
 ---
 <section>
     <header class="major">
@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
     </header>
     <div class="posts">
         <article>
-            <a href="Game Theory" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Game-Theory/master/Braess Paradox.png" alt="" /></a>
+            <a href="Game Theory" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Game-Theory/main/Braess Paradox.png" alt="" /></a>
             <h3>Braess's Paradox</h3>
             <p>Summer of Science <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Braess's Paradox is a Veridical Paradox which shows that creating new roads can actually slow down traffic!</p>
@@ -27,7 +27,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
             </ul>
         </article>
         <article>
-            <a href="Coded Computing" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/Coded-Computing/master/coded-computing.svg" alt="" /></a>
+            <a href="Coded Computing" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/Coded-Computing/main/coded-computing.svg" alt="" /></a>
             <h3>Coded Computing for Straggler Mitigation, Security and Privacy</h3>
             <p>EE605 Error Correcting Codes</p>
             <p>Co-speaker - Anupam Nayak</p>
@@ -46,7 +46,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
             </ul>
         </article>
         <article>
-            <a href="Dining Philosophers/" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/Dining-Philosophers/master/Dining%20Philosophers.svg" alt="" /></a>
+            <a href="Dining Philosophers/" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/Dining-Philosophers/main/Dining%20Philosophers.svg" alt="" /></a>
             <h3>Dining Philosophers</h3>
             <p>CS347 Operating Systems</p>
             <p>The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them. Here, I present my solutions (with proofs) and C implementation of this problem.</p>
@@ -62,7 +62,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
     </header>
     <div class="posts">
         <article>
-            <a href="Nonlinear Dynamics" class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/mandelbrot-set.jpg" alt="" /></a>
+            <a href="Nonlinear Dynamics" class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/mandelbrot-set.jpg" alt="" /></a>
             <h3>Nonlinear Dynamics</h3>
             <p>Summer of Science <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Nonlinear Dynamics and Chaos is a blend of applied mathematics and physical modelling, spreading across scientific disciplines like a spider's intricate web. This study can be viewed as the realisation of hundreds of years of mathematical modelling, originating with the classical mechanics of Newton and Leibniz. The report covers the mathematics behind this topic and explores its application in various fields.</p>
@@ -71,7 +71,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
             </ul>
         </article>
         <article>
-            <a href="https://paramrathour.github.io/website-assets/data-driven-dynamical-systems.pdf" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/master/data-driven-dynamical-systems.svg" alt="" /></a>
+            <a href="https://paramrathour.github.io/website-assets/data-driven-dynamical-systems.pdf" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/main/data-driven-dynamical-systems.svg" alt="" /></a>
             <h3>Data-Driven Dynamical Systems</h3>
             <p>EE736 Introduction to Stochastic Optimization</p>
             <p>Dynamical systems provide a mathematical framework to describe the world around us, they model the rich interactions between ever evolving quantities. Currently, analytical and first-principles models are giving way to data-driven approaches in Modern dynamical systems. This paradigm shift in the study of dynamical systems is result of the convergence of big data and machine learning. This report summarises the concept of Dynamic Mode Decomposition and Sparse Identification of Nonlinear Dynamical Systems.</p>
@@ -80,7 +80,7 @@ image: https://raw.githubusercontent.com/paramrathour/website-assets/master/TSC.
             </ul>
         </article>
         <article>
-            <a href="Game Theory" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Game-Theory/master/Game%20Theory.svg" alt="" /></a>
+            <a href="Game Theory" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Game-Theory/main/Game%20Theory.svg" alt="" /></a>
             <h3>Game Theory</h3>
             <p>Summer of Science <a href="http://mnp-club.github.igo/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Game Theory is the science of strategy. It attempts to determine mathematically and logically the actions that players should take to secure the best outcomes for themselves in a wide array of games. Here, we study the rigorous mathematics behind this topic and explore its application in various fields.</p>

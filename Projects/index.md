@@ -18,7 +18,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="/Intelligent-and-Learning-Agents/Multi Armed Bandits/" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Intelligent-and-Learning-Agents/master/Multi%20Armed%20Bandits/multi-armed-bandit.gif" alt="Multi Armed Bandits" /></a>
+            <a href="/Intelligent-and-Learning-Agents/Multi Armed Bandits/" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Intelligent-and-Learning-Agents/main/Multi%20Armed%20Bandits/multi-armed-bandit.gif" alt="Multi Armed Bandits" /></a>
             <h3>Multi Armed Bandits</h3>
             <p>CS747 Intelligent and Learning Agents</p>
             <p>In a bandit instance, each arm provides a random reward from a probability distribution specific to that arm, this distribution is not known a-priori and it may even change. The objective of the gambler is to maximize the sum of rewards earned through the arms which is same as minimising the 'regret'.</p>
@@ -80,7 +80,7 @@ title: Projects
     </header>
     <div class="posts">
         <article>
-            <a href="Distributed Deep Learning" class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/distributed-deep-learning.jpg" alt="Distributed Deep Learning" /></a>
+            <a href="Distributed Deep Learning" class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/distributed-deep-learning.jpg" alt="Distributed Deep Learning" /></a>
             <h3>Distributed Deep Learning</h3>
             <p>Institute Technical Summer Project <a href="https://www.tech-iitb.org/">Institute Technical Council, IIT Bombay</a></p>
             <p>Team Members: Param Rathour, Sumit Jain, Aditya Bhaskar, Ritik Mandal</p>
@@ -90,7 +90,7 @@ title: Projects
             </ul>
         </article>
         <article>
-            <a href="/Team-Rocket/" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/master/alu.svg" alt="Arithmetic Logic Unit" /></a>
+            <a href="/Team-Rocket/" class="image"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/main/alu.svg" alt="Arithmetic Logic Unit" /></a>
             <h3>Arithmetic Logic Unit</h3>
             <p>EE224 Digital Systems</p>
             <p>Team Members: Param Rathour,  Darin Jeff, Aanal Sonara, Madhav Vadlamani</p>
@@ -107,7 +107,7 @@ title: Projects
     </header>
     <div class="posts">
         <article>
-            <a class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/rc-plane.png" alt="" /></a>
+            <a class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/rc-plane.png" alt="" /></a>
             <h3>Remote Control Plane</h3>
             <p>RC Plane Competition <a href="https://www.tech-iitb.org/aeroclub/">Aeromodelling Club, IIT Bombay</a></p>
             <p>Team Members: Param Rathour, Sumit Jain, Veda Pranav, Rajesh Dasari</p>
@@ -117,7 +117,7 @@ title: Projects
             </ul-->
         </article>
         <article>
-            <a class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/master/rc-bot.png" alt="" /></a>
+            <a class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/rc-bot.png" alt="" /></a>
             <h3>Remote Control Bot</h3>
             <p>XLR8 <a href="https://www.tech-iitb.org/erc/">Electronics and Robotics Club, IIT Bombay</a></p>
             <p>Team Members: Param Rathour, Vineet Gala, Abhinav Kumar</p>

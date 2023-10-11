@@ -1,5 +1,5 @@
 ---
-image: https://raw.githubusercontent.com/paramrathour/website-assets/master/distributed-deep-learning.jpg
+image: https://raw.githubusercontent.com/paramrathour/website-assets/main/distributed-deep-learning.jpg
 layout: page
 title: Distributed Deep Learning
 ---

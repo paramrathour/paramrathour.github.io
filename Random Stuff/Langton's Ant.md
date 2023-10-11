@@ -15,11 +15,11 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
     <td>Animation of first 30000 steps of Langton's ant</td>
   </tr>
   <tr>
-    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/master/Cellular%20Automaton/Langton's%20Ant/Langton's%20Ant.gif"></span></td>
+    <td><span class="image fit"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Langton's%20Ant/Langton's%20Ant.gif"></span></td>
     </tr>
 </table>
 
 ### References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Langton%27s_ant)
-- Code of above patterns are available in this [repository](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant). You can try simulating by changing values
+- Code of above patterns are available in this [repository](https://github.com/paramrathour/Scientific-Computing/tree/main/Cellular%20Automaton/Langton's%20Ant). You can try simulating by changing values
