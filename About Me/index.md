@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: https://raw.githubusercontent.com/paramrathour/website-assets/main/TSC.png
+image: https://paramrathour.github.io/website-assets/TSC.png
 url: https://youtu.be/lshWT0iyxds
 ---
 
@@ -34,11 +34,11 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <h2>Mathematics</h2>
     </header>
         <h3>Recreational Mathematics  ε></h3>
-            <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/mathematics-for-fun.png" alt="Mathematics For Fun" /></span>
+            <span class="image main"><img src="https://paramrathour.github.io/website-assets/mathematics-for-fun.png" alt="Mathematics For Fun" /></span>
             <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
         <hr class="major" />
         <h3>Applied Mathematics</h3>
-            <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/applied-mathematics.png" alt="Applied Mathematics" /></span>
+            <span class="image main"><img src="https://paramrathour.github.io/website-assets/applied-mathematics.png" alt="Applied Mathematics" /></span>
             <p>Over the years at IITB, my interest in pure and applied mathematics has only grown which led me to get invested in Theoretical Computer Science and Control Theory as well. Some of my favourite books which I have delved into are given above.</p>
 </section>
 
@@ -49,7 +49,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <span href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/youtube.jpg" alt="Featured Channels" /></span>
+            <span href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image main"><img src="https://paramrathour.github.io/website-assets/youtube.jpg" alt="Featured Channels" /></span>
             <h3>Youtube</h3>
             <p>I watch a lot of youtube, not just educational but history, business and economics, engineering, tech and random stuff.</p>
 <!--             <p>My recommendations
@@ -68,7 +68,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
-            <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/music.png" alt="Music" /></span>
+            <span class="image main"><img src="https://paramrathour.github.io/website-assets/music.png" alt="Music" /></span>
             <h3>Music</h3>
             <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
             <ul>
@@ -88,25 +88,25 @@ Below are some of my interests (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
-            <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/anime.png" alt="Anime" /></span>
+            <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="https://paramrathour.github.io/website-assets/anime.png" alt="Anime" /></span>
             <h3>Anime</h3>
             <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D</p>
             <a href="/Anime" class="button">My Anime page</a>
         </article>
         <article>
-            <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/tv-series.png" alt="T.V. Series" /></span>
+            <span class="image main"><img src="https://paramrathour.github.io/website-assets/tv-series.png" alt="T.V. Series" /></span>
             <h3>T.V. Series</h3>
             <p>This one is even recent. First watched during this 'corona' time.</p>
             <a href="https://www.serializd.com/user/wrath" class="button">My T.V. Series page</a>
             <p></p>
         </article>
         <article>
-            <span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/novels.jpg" alt="Novels" /></span>
+            <span class="image main"><img src="https://paramrathour.github.io/website-assets/novels.jpg" alt="Novels" /></span>
             <h3>Novels</h3>
             <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
         </article>
         <article>
-            <a class="image"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/sports.png" alt="Sports" /></a>
+            <a class="image"><img src="https://paramrathour.github.io/website-assets/sports.png" alt="Sports" /></a>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>

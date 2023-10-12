@@ -189,7 +189,7 @@ Courtesy - Prof Parag Chaudhari
 <div class="panel">
 	<p></p>
 <h2 align="center" id="Interesting Books">Interesting Books</h2>
-<span class="image main"><img src="https://raw.githubusercontent.com/paramrathour/website-assets/main/computer-science-for-fun.png" alt="Interesting CS Books" /></span>
+<span class="image main"><img src="https://paramrathour.github.io/website-assets/computer-science-for-fun.png" alt="Interesting CS Books" /></span>
 <ul>
 	<li>A Brief History Of Computing by Gerard O'Regan</li>
 	<li>Code The Hidden Language of Computer Hardware and Software by Charles Petzold</li>

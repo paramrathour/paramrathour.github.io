@@ -1,5 +1,5 @@
 ---
-image: https://raw.githubusercontent.com/paramrathour/Dining-Philosophers/main/Dining%20Philosophers.svg
+image: https://paramrathour.github.io/Dining-Philosophers/Dining%20Philosophers.svg
 layout: page
 title: Dining Philosophers
 ---

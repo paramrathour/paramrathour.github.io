@@ -4,7 +4,7 @@ title: Time Table
 ---
 <div class="content">
     <header>
-        <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="https://raw.githubusercontent.com/paramrathour/website-assets/main/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
+        <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="https://paramrathour.github.io/website-assets/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
         </h2>
     </header>
 </div>

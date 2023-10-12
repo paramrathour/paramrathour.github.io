@@ -9,7 +9,7 @@ title: Random Stuff
     </header>
     <div class="posts">
         <article>
-            <a href="Game of Life" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Game%20of%20Life/GIFs/Gosper Glider Gun.gif" alt="Gosper Glider Gun" /></a>
+            <a href="Game of Life" class="image"><img src="https://paramrathour.github.io/Scientific-Computing/Cellular%20Automaton/Game%20of%20Life/GIFs/Gosper Glider Gun.gif" alt="Gosper Glider Gun" /></a>
             <h3>Game of Life</h3>
             <p>The Game of Life (sometimes known simply as Life) is an example of a cellular automaton and a zero-player game. It takes place on an infinite two-dimensional grid in which cells can be 'on' (alive) or 'off' (dead), and is defined by a set of rules that jointly determine the state of a cell given the state of its neighbours.</p>
             <ul class="actions">
@@ -17,7 +17,7 @@ title: Random Stuff
             </ul>
         </article>
         <article>
-            <a href="Langton's Ant" class="image"><img src="https://raw.githubusercontent.com/paramrathour/Scientific-Computing/main/Cellular%20Automaton/Langton's%20Ant/Langton's%20Ant.gif" alt="Langton's Ant" /></a>
+            <a href="Langton's Ant" class="image"><img src="https://paramrathour.github.io/Scientific-Computing/Cellular%20Automaton/Langton's%20Ant/Langton's%20Ant.gif" alt="Langton's Ant" /></a>
             <h3>Langton's Ant</h3>
             <p>Langton's ant is a two-dimensional universal Turing machine with a very simple set of rules but complex emergent behaviour. It runs on a square lattice of black and white cells.</p>
             <ul class="actions">
