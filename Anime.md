@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anime
-image: https://paramrathour.github.io/website-assets/anime-grid.jpg
+image: https://paramrathour.github.io/website-assets/anime-grid-favourite.jpg
 ---
 The names of anime in grid are available <a href="https://cutt.ly/favouriteanimegridcaption"> here</a>. The grid was generated using <a href="https://github.com/paramrathour/Image-Grid-Generator"> this tool </a>. Feel free to make your own anime grid :).
 <p></p>
