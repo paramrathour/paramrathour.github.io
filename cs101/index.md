@@ -7,7 +7,7 @@ title: Computer Programming and Utilization
 
 ## Practice Problems
 <h4 style="color: rgb(245,106,106,0.9);"><a href="https://github.com/paramrathour/CS-101/blob/main/Problems.pdf">In-GitHub PDF Link (For Mobile) | </a><a href="https://paramrathour.github.io/CS-101/Problems.pdf">In-Browser PDF Link (For Desktop)</a></h4>
-<h4 style="color: rgb(245,106,106,0.9);"><a href="{{ 'Solutions'}}">Student Solutions</a></h4>
+<h4 style="color: rgb(245,106,106,0.9);"><a href="solutions">Student Solutions</a></h4>
 
 ## Course Info
 <!-- <h4 style="color: rgb(245,106,106,0.9);"><a href="https://www.cse.iitb.ac.in/~ajitvr/CS101_Fall2022/">Course Webpage</a></h4> -->

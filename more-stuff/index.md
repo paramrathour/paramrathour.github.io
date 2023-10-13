@@ -9,49 +9,49 @@ image: https://paramrathour.github.io/website-assets/TSC.png
     </header>
     <div class="posts">
         <article>
-            <a href="Game Theory" class="image"><img src="https://paramrathour.github.io/Game-Theory/Braess Paradox.png" alt="" /></a>
+            <a href="game-theory" class="image"><img src="https://paramrathour.github.io/Game-Theory/Braess Paradox.png" alt="" /></a>
             <h3>Braess's Paradox</h3>
             <p>Summer of Science <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Braess's Paradox is a Veridical Paradox which shows that creating new roads can actually slow down traffic!</p>
             <ul class="actions">
-                <li><a href="Game Theory" class="button">More</a></li>
+                <li><a href="game-theory" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Quantum Machine Learning" class="image"><img src="https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg" alt="" /></a>
+            <a href="quantum-machine-learning" class="image"><img src="https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg" alt="" /></a>
             <h3>Quantum Machine Learning: Opportunities and Challenges</h3>
             <p>EE350 Technical Communication</p>
             <p>Nowadays, a general purpose quantum computer seems closer to reality than ever before, yet, it is so far. Can the near-term quantum technologies create an impact on ML and guide us towards quantum supremacy? Here, we focus on quantum approaches on very a promising field of unsupervised ML after getting comfortable with all the basics.</p>
             <ul class="actions">
-                <li><a href="Quantum Machine Learning" class="button">More</a></li>
+                <li><a href="quantum-machine-learning" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Coded Computing" class="image"><img class="inversion" src="https://paramrathour.github.io/Coded-Computing/coded-computing.svg" alt="" /></a>
+            <a href="coded-computing" class="image"><img class="inversion" src="https://paramrathour.github.io/Coded-Computing/coded-computing.svg" alt="" /></a>
             <h3>Coded Computing for Straggler Mitigation, Security and Privacy</h3>
             <p>EE605 Error Correcting Codes</p>
             <p>Co-speaker - Anupam Nayak</p>
             <p>The massive size of modern datasets necessitates computational tasks to be performed in a distributed fashion, where the data is dispersed among many servers that operate in parallel. As we “scale out” computations across many servers, however, several fundamental challenges arise.</p>
             <ul class="actions">
-                <li><a href="Coded Computing" class="button">More</a></li>
+                <li><a href="coded-computing" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Computational Commutative Algebra and Geometry" class="image"><img class="inversion" src="https://paramrathour.github.io/Groebner-Basis-and-Applications/Slides/sudoku.svg" alt="" /></a>
+            <a href="computational-commutative-algebra-and-geometry" class="image"><img class="inversion" src="https://paramrathour.github.io/Groebner-Basis-and-Applications/Slides/sudoku.svg" alt="" /></a>
             <h3>Computational Commutative Algebra and Geometry</h3>
             <p>EE451 Supervised Research Exposition</p>
             <p>Gröbner has interesting properties connecting computational algebraic geometry and computational commutative algebra, and also having applications in  computer algebra. Gröbner basis is a generalization of the idea of greatest common divisors of multivariable polynomials, and the row-reduced echelon form of a system of linear equations. This talk explores the theory relating commutative algebra and algebraic geometry as well as the applications of Gröbner basis and their implementations.</p>
             <ul class="actions">
-                <li><a href="Computational Commutative Algebra and Geometry/" class="button">More</a></li>
+                <li><a href="computational-commutative-algebra-and-geometry/" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Dining Philosophers/" class="image"><img class="inversion" src="https://paramrathour.github.io/Dining-Philosophers/Dining%20Philosophers.svg" alt="" /></a>
+            <a href="dining-philosophers" class="image"><img class="inversion" src="https://paramrathour.github.io/Dining-Philosophers/Dining%20Philosophers.svg" alt="" /></a>
             <h3>Dining Philosophers</h3>
             <p>CS347 Operating Systems</p>
             <p>The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them. Here, I present my solutions (with proofs) and C implementation of this problem.</p>
             <ul class="actions">
-                <li><a href="Dining Philosophers/" class="button">More</a></li>
+                <li><a href="dining-philosophers" class="button">More</a></li>
             </ul>
         </article>
     </div>
@@ -62,12 +62,12 @@ image: https://paramrathour.github.io/website-assets/TSC.png
     </header>
     <div class="posts">
         <article>
-            <a href="Nonlinear Dynamics" class="image"><img src="https://paramrathour.github.io/website-assets/mandelbrot-set.jpg" alt="" /></a>
+            <a href="nonlinear-dynamics" class="image"><img src="https://paramrathour.github.io/website-assets/mandelbrot-set.jpg" alt="" /></a>
             <h3>Nonlinear Dynamics</h3>
             <p>Summer of Science <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Nonlinear Dynamics and Chaos is a blend of applied mathematics and physical modelling, spreading across scientific disciplines like a spider's intricate web. This study can be viewed as the realisation of hundreds of years of mathematical modelling, originating with the classical mechanics of Newton and Leibniz. The report covers the mathematics behind this topic and explores its application in various fields.</p>
             <ul class="actions">
-                <li><a href="Nonlinear Dynamics" class="button">More</a></li>
+                <li><a href="nonlinear-dynamics" class="button">More</a></li>
             </ul>
         </article>
         <article>
@@ -80,30 +80,30 @@ image: https://paramrathour.github.io/website-assets/TSC.png
             </ul>
         </article>
         <article>
-            <a href="Game Theory" class="image"><img src="https://paramrathour.github.io/Game-Theory/Game%20Theory.svg" alt="" /></a>
+            <a href="game-theory" class="image"><img src="https://paramrathour.github.io/Game-Theory/Game%20Theory.svg" alt="" /></a>
             <h3>Game Theory</h3>
             <p>Summer of Science <a href="http://mnp-club.github.igo/">Maths and Physics Club, IIT Bombay</a></p>
             <p>Game Theory is the science of strategy. It attempts to determine mathematically and logically the actions that players should take to secure the best outcomes for themselves in a wide array of games. Here, we study the rigorous mathematics behind this topic and explore its application in various fields.</p>
             <ul class="actions">
-                <li><a href="Game Theory" class="button">More</a></li>
+                <li><a href="game-theory" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Computational Commutative Algebra and Geometry" class="image"><img class="inversion" src="https://paramrathour.github.io/Groebner-Basis-and-Applications/Slides/sudoku.svg" alt="" /></a>
+            <a href="computational-commutative-algebra-and-geometry" class="image"><img class="inversion" src="https://paramrathour.github.io/Groebner-Basis-and-Applications/Slides/sudoku.svg" alt="" /></a>
             <h3>Computational Commutative Algebra and Geometry</h3>
             <p>EE451 Supervised Research Exposition</p>
             <p>Gröbner has interesting properties connecting computational algebraic geometry and computational commutative algebra, and also having applications in  computer algebra. Gröbner basis is a generalization of the idea of greatest common divisors of multivariable polynomials, and the row-reduced echelon form of a system of linear equations. This talk explores the theory relating commutative algebra and algebraic geometry as well as the applications of Gröbner basis and their implementations.</p>
             <ul class="actions">
-                <li><a href="Computational Commutative Algebra and Geometry/" class="button">More</a></li>
+                <li><a href="computational-commutative-algebra-and-geometry/" class="button">More</a></li>
             </ul>
         </article>
         <article>
-            <a href="Quantum Machine Learning" class="image"><img src="https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg" alt="" /></a>
+            <a href="quantum-machine-learning" class="image"><img src="https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg" alt="" /></a>
             <h3>Quantum Machine Learning: Opportunities and Challenges</h3>
             <p>EE350 Technical Communication</p>
             <p>Nowadays, a general purpose quantum computer seems closer to reality than ever before, yet, it is so far. Can the near-term quantum technologies create an impact on ML and guide us towards quantum supremacy? Here, we focus on quantum approaches on very a promising field of unsupervised ML after getting comfortable with all the basics.</p>
             <ul class="actions">
-                <li><a href="Quantum Machine Learning" class="button">More</a></li>
+                <li><a href="quantum-machine-learning" class="button">More</a></li>
             </ul>
         </article>
     </div>

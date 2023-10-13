@@ -1,4 +1,5 @@
 ---
+layout: page    
 title: Quartic Roots
 ---
 Solution of $x^4+ax^3+bx^2+cx+d$ is:
