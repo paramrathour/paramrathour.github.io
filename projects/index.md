@@ -80,13 +80,13 @@ title: Projects
     </header>
     <div class="posts">
         <article>
-            <a href="Distributed Deep Learning" class="image"><img src="https://paramrathour.github.io/website-assets/distributed-deep-learning.jpg" alt="Distributed Deep Learning" /></a>
+            <a href="distributed-deep-learning" class="image"><img src="https://paramrathour.github.io/website-assets/distributed-deep-learning.jpg" alt="Distributed Deep Learning" /></a>
             <h3>Distributed Deep Learning</h3>
             <p>Institute Technical Summer Project <a href="https://www.tech-iitb.org/">Institute Technical Council, IIT Bombay</a></p>
             <p>Team Members: Param Rathour, Sumit Jain, Aditya Bhaskar, Ritik Mandal</p>
             <p>Deep learning models are now extensively used in various domains ranging from medical imaging to the automobile industry. Yet, to date, deep learning models fail when it comes to playing around with high-resolution data. Our model uses a hierarchy-based model to achieve synchronous parallel computations distributed to multiple machines.</p>
             <ul class="actions">
-                <li><a href="Distributed Deep Learning" class="button">More</a></li>
+                <li><a href="distributed-deep-learning" class="button">More</a></li>
             </ul>
         </article>
         <article>

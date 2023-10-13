@@ -91,7 +91,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="https://paramrathour.github.io/website-assets/anime.png" alt="Anime" /></span>
             <h3>Anime</h3>
             <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D</p>
-            <a href="/Anime" class="button">My Anime page</a>
+            <a href="/anime" class="button">My Anime page</a>
         </article>
         <article>
             <span class="image main"><img src="https://paramrathour.github.io/website-assets/tv-series.png" alt="T.V. Series" /></span>
@@ -127,17 +127,17 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
     <div class="features">
         <article>
-            <a href="/Time Table"><span class="icon fa-calendar"></span></a>
+            <a href="/time-table"><span class="icon fa-calendar"></span></a>
             <div class="content">
                 <h3>Time Table</h3>
-                <p>My academic <a href="/Time Table">time table</a>.</p>
+                <p>My academic <a href="/time-table">time table</a>.</p>
             </div>
         </article>
         <article>
-            <a href="/Courses"><span class="icon fa-book"></span></a>
+            <a href="/courses"><span class="icon fa-book"></span></a>
             <div class="content">
                 <h3>Courses</h3>
-                <p>List of <a href="/Courses">courses</a> that I have taken and am taking.</p>
+                <p>List of <a href="/courses">courses</a> that I have taken and am taking.</p>
             </div>
         </article>
         <!--article>
@@ -148,31 +148,31 @@ Below are some of my interests (Consider thumbnails as recommendations).
             </div>
         </article-->
         <article>
-            <a href="/Projects"><span class="icon fa-code"></span></a>
+            <a href="/projects"><span class="icon fa-code"></span></a>
             <div class="content">
                 <h3>Projects</h3>
-                <p>Lists some of my <a href="/Projects">Projects</a>.</p>
+                <p>Lists some of my <a href="/projects">Projects</a>.</p>
             </div>
         </article>
         <article>
-            <a href="/More Stuff"><span class="icon fa-laptop"></span></a>
+            <a href="/more-stuff"><span class="icon fa-laptop"></span></a>
             <div class="content">
                 <h3>Talks, Reports and More</h3>
-                <p>Lists my talks with <a href="/More Stuff/#slides">slides</a> and some <a href="/More Stuff/#reports">reports</a> that I have worked upon.</p>
+                <p>Lists my talks with <a href="/more-stuff/#slides">slides</a> and some <a href="/more-stuff/#reports">reports</a> that I have worked upon.</p>
             </div>
         </article>
         <article>
-            <a href="/Resume"><span class="icon fa-file"></span></a>
+            <a href="/resume"><span class="icon fa-file"></span></a>
             <div class="content">
                 <h3>Résumé</h3>
                 <p>My <a href="/Resumes/CV.pdf">CV</a> and <a href="/Resumes/Two Page.pdf">résumé</a>.</p>
             </div>
         </article>
         <article>
-            <a href="/Random Stuff"><span class="icon fa-random"></span></a>
+            <a href="/random-stuff"><span class="icon fa-random"></span></a>
             <div class="content">
                 <h3>Random Stuff</h3>
-                <p>Just <a href="/Random Stuff">random things</a>.</p>
+                <p>Just <a href="/random-stuff">random things</a>.</p>
             </div>
         </article>
     </div>
