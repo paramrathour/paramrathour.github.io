@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Computer Programming and Utilization
+image: "https://paramrathour.github.io/website-assets/TSC.png"
 ---
 ## General Tips
 <h4 style="color: rgb(245,106,106,0.9);"><a href="tips">Tips</a></h4>
 
 ## Practice Problems
-<h4 style="color: rgb(245,106,106,0.9);"><a href="https://github.com/paramrathour/CS-101/blob/main/Problems.pdf">In-GitHub PDF Link (For Mobile) | </a><a href="https://paramrathour.github.io/CS-101/Problems.pdf">In-Browser PDF Link (For Desktop)</a></h4>
+<h4 style="color: rgb(245,106,106,0.9);"><a href="https://github.com/paramrathour/CS-101/blob/main/Problems.pdf">In-GitHub PDF Link (For Mobile) | </a><a href="{{ site.url }}/CS-101/Problems.pdf">In-Browser PDF Link (For Desktop)</a></h4>
 <h4 style="color: rgb(245,106,106,0.9);"><a href="solutions">Student Solutions</a></h4>
 
 ## Course Info

@@ -35,7 +35,7 @@ Solution of $x^4+ax^3+bx^2+cx+d$ is:
 
 The last one is way too long to fit in page. Check [here](quartic){:target="_blank"}!
 
-The PDF for same can be found [here](https://paramrathour.github.io/Random-Stuff/Polynomial%20Roots/Polynomial%20Roots.pdf)
+The PDF for same can be found [here]({{ site.url }}/Random-Stuff/Polynomial%20Roots/Polynomial%20Roots.pdf)
 
 ### References
 

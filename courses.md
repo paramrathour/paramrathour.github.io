@@ -4,7 +4,7 @@ title: Courses
 ---
 <div class="content">
   <header>
-    <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="https://paramrathour.github.io/website-assets/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
+    <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="{{ site.url }}/website-assets/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
     </h2>
     <p>List of Courses undertaken:</p>
   </header>
@@ -136,7 +136,7 @@ title: Courses
 </section>
 <p>
 Also, here is a tier list of courses that I have done, just for fun.
-<span class="image main"><img src="https://paramrathour.github.io/website-assets/iitb-courses-tier-list.png" alt="Anime Tier List" /></span> 
+<span class="image main"><img src="{{ site.url }}/website-assets/iitb-courses-tier-list.png" alt="Anime Tier List" /></span> 
 The tiermaker <a href="https://tiermaker.com/create/iit-bombay-electrical-engineering-courses-1587667">template</a> used.
 
 </p>

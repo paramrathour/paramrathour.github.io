@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Machine Learning
-image: https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg
+image: "https://paramrathour.github.io/Quantum-Machine-Learning/quantum-computing.jpg"
 ---
 
 Introduction

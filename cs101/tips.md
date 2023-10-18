@@ -92,7 +92,7 @@ The most important step in debugging
 		<li>in-video, out-video quizzes (if recorded lectures are provided)</li>
 		<li>slide program exercises</li>
 		<li>previous week's lab optional problems</li>
-		<li><a href="https://paramrathour.github.io/CS-101/Problems.pdf">practice problems</a></li>
+		<li><a href="{{ site.url }}/CS-101/Problems.pdf">practice problems</a></li>
 		<li>book exercises</li>
 		<li>Regularly go through previous labs solution, understand their approach, follow the good programming practices and <i>tricks</i> used</li>
 	</ul>
@@ -189,7 +189,7 @@ Courtesy - Prof Parag Chaudhari
 <div class="panel">
 	<p></p>
 <h2 align="center" id="Interesting Books">Interesting Books</h2>
-<span class="image main"><img src="https://paramrathour.github.io/website-assets/computer-science-for-fun.png" alt="Interesting CS Books" /></span>
+<span class="image main"><img src="{{ site.url }}/website-assets/computer-science-for-fun.png" alt="Interesting CS Books" /></span>
 <ul>
 	<li>A Brief History Of Computing by Gerard O'Regan</li>
 	<li>Code The Hidden Language of Computer Hardware and Software by Charles Petzold</li>
@@ -214,7 +214,7 @@ Courtesy - Prof Parag Chaudhari
 </ul>
 
 <h2 align="center" id="YouTube Videos">YouTube Videos</h2>
-For more such videos check out "Fun Video" section of my <a href="https://paramrathour.github.io/CS-101/Problems.pdf">practice problems</a>. I have mentioned select videos here.
+For more such videos check out "Fun Video" section of my <a href="{{ site.url }}/CS-101/Problems.pdf">practice problems</a>. I have mentioned select videos here.
 <ul>
 	<li><a href="https://youtu.be/PZRI1IfStY0">Floating Point numbers -- Computerphile</a></li>
 	<li><a href="https://youtu.be/0poh3w_Vm_A">Tetration: The operation you were (probably) never taught -- Taylor Series</a></li>

@@ -1,6 +1,6 @@
 ---
 layout: 'redirect'
 permalink: /western-songs
-redirect_to: 'https://youtube.com/playlist?list=PL_oWkLvcB4HOoLRN3uzNSLOXSTqanH3x7&si=tiwqXsdoyrbtnQoA'
+redirect_to: 'https://youtube.com/playlist?list=PLaO_HkPtJoP0sZz_Rr5u3tjWN3-GHXDmd'
 sitemap: false
 ---

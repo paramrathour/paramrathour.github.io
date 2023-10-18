@@ -87,7 +87,7 @@ $('#return-to-top').click(function() {      // When arrow is clicked
     }, 500);
 });
 
-$("#small_math").css("font-size","80%");
+$("#small_math").css("font-size","70%");
 $("#very_small_math").css("font-size","10%");
 
 (function($) {
@@ -178,9 +178,9 @@ $("#very_small_math").css("font-size","10%");
 						$sidebar.addClass('inactive');
 					})
 					.on('-large !large', function() {
-						if (window.location.href == 'http://localhost:4000/' || window.location.href == 'https://paramrathour.github.io/') 
+						if (window.location.href == 'http://localhost:4000/' || window.location.href == '{{ site.url }}/') 
 							$sidebar.addClass('inactive');
-						else if (window.location.href == 'http://localhost:4000/CS101' || window.location.href == 'https://paramrathour.github.io/CS101') 
+						else if (window.location.href == 'http://localhost:4000/CS101' || window.location.href == '{{ site.url }}/CS101') 
 							$sidebar.addClass('inactive');
 						
 						else

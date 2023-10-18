@@ -5,7 +5,7 @@ email: paramrathour3435@gmail.com
 instiemail: paramrathour@iitb.ac.in
 description: Undergraduate at IIT Bombay
 #baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site
+url: "https://paramrathour.github.io" # the base hostname & protocol for your site
 author: Param Rathour
 street_address: IIT Bombay
 city: Mumbai

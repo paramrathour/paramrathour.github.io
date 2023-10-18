@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: https://paramrathour.github.io/website-assets/TSC.png
+image: "https://paramrathour.github.io/website-assets/TSC.png"
 url: https://youtu.be/lshWT0iyxds
 ---
 
@@ -34,11 +34,11 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <h2>Mathematics</h2>
     </header>
         <h3>Recreational Mathematics  ε></h3>
-            <span class="image main"><img src="https://paramrathour.github.io/website-assets/mathematics-for-fun.png" alt="Mathematics For Fun" /></span>
+            <span class="image main"><img src="{{ site.url }}/website-assets/mathematics-for-fun.png" alt="Mathematics For Fun" /></span>
             <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
         <hr class="major" />
         <h3>Applied Mathematics</h3>
-            <span class="image main"><img src="https://paramrathour.github.io/website-assets/applied-mathematics.png" alt="Applied Mathematics" /></span>
+            <span class="image main"><img src="{{ site.url }}/website-assets/applied-mathematics.png" alt="Applied Mathematics" /></span>
             <p>Over the years at IITB, my interest in pure and applied mathematics has only grown which led me to get invested in Theoretical Computer Science and Control Theory as well. Some of my favourite books which I have delved into are given above.</p>
 </section>
 
@@ -49,28 +49,18 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <span href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="image main"><img src="https://paramrathour.github.io/website-assets/youtube.jpg" alt="Featured Channels" /></span>
+            <span href="https://www.youtube.com/@TaxiDriver1729/channels" class="image main"><img src="{{ site.url }}/website-assets/youtube.jpg" alt="Featured Channels" /></span>
             <h3>Youtube</h3>
-            <p>I watch a lot of youtube, not just educational but history, business and economics, engineering, tech and random stuff.</p>
-<!--             <p>My recommendations
-            <ul>
-                <li><a href="https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A">Oversimplified</a></li>
-                <li><a href="https://www.youtube.com/user/Top10Memes">LEMMiNO</a></li>
-                <li><a href="https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ">Epic History TV</a></li>
-                <li><a href="https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg">Polymatter</a></li>
-                <li><a href="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ">Wendover Productions</a></li>
-                <li><a href="https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw">Half as Interesting</a></li>
-                <li><a href="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww">Real Life Lore</a></li>
-            </ul></p>
-            <p>Below link includes <b>educational</b> channels too.</p> -->
+            <p>I watch a lot of youtube, not just educational stuff but also history, business and economics, engineering, tech and random stuff.</p>
+            <p>Below link includes <b>educational</b> channels too.</p>
             <ul class="actions">
-                <li><a href="https://www.youtube.com/channel/UC6uZMKVYdFUhujQ4Oy6C2YQ/channels?view_as=subscriber" class="button">Featured Channels</a></li>
+                <li><a href="https://www.youtube.com/@TaxiDriver1729/channels" class="button">Featured Channels</a></li>
             </ul>
         </article>
         <article>
-            <span class="image main"><img src="https://paramrathour.github.io/website-assets/music.png" alt="Music" /></span>
+            <span class="image main"><img src="{{ site.url }}/website-assets/music.png" alt="Music" /></span>
             <h3>Music</h3>
-            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am more interested in cinematic music and soundtracks.</p>
+            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am most interested in cinematic music and soundtracks. Though <a href="https://youtu.be/2rjbtsX7twc">human voice is amazing</a>, for me, vocals are only as important as any other instrument.</p>
             <ul>
                 <!-- <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
                 <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
@@ -82,31 +72,35 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li> -->
                 <a href="/cinematic-music" class="button">Cinematic Music</a>
                 <a href="/western-songs" class="button">Western Songs</a>
+                <a href="/indian-songs" class="button">Indian Songs</a>
                 <p></p>
                 <a href="/anime-OSTs" class="button">Anime OSTs</a>
                 <a href="/anime-songs" class="button">Anime Songs</a>
             </ul>
         </article>
         <article>
-            <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="https://paramrathour.github.io/website-assets/anime.png" alt="Anime" /></span>
+            <span href="https://www.youtube.com/channel/UCUUYiPd9TKE62mUn-lJ29AQ" class="image main"><img src="{{ site.url }}/website-assets/anime.png" alt="Anime" /></span>
             <h3>Anime</h3>
-            <p>I started watching 'anime' quite recently (in 11th standard), and I was hooked to it instantly. Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D</p>
+            <p>It's been a while since I started watching 'anime' (2018). I remember starting Death Note and being very skeptical about this medium, but it didn't take me any time to get hooked.
+            <!-- Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D -->
+            Since then, I have watched quite a lot of anime with varied genres. I majorly like character dramas, though I don't mind if you sprinkle in a bit of action/adventure/fantasy elements in the show or add in suspense/psychological/mystery themes.
+            </p>
             <a href="/anime" class="button">My Anime page</a>
         </article>
         <article>
-            <span class="image main"><img src="https://paramrathour.github.io/website-assets/tv-series.png" alt="T.V. Series" /></span>
+            <span class="image main"><img src="{{ site.url }}/website-assets/tv-series.png" alt="T.V. Series" /></span>
             <h3>T.V. Series</h3>
-            <p>This one is even recent. First watched during this 'corona' time.</p>
+            <p>First watched during this 'corona' time. But I only watch these when I feel like taking break from watching fast-paced anime.</p>
             <a href="https://www.serializd.com/user/wrath" class="button">My T.V. Series page</a>
             <p></p>
         </article>
         <article>
-            <span class="image main"><img src="https://paramrathour.github.io/website-assets/novels.jpg" alt="Novels" /></span>
+            <span class="image main"><img src="{{ site.url }}/website-assets/novels.jpg" alt="Novels" /></span>
             <h3>Novels</h3>
             <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
         </article>
         <article>
-            <a class="image"><img src="https://paramrathour.github.io/website-assets/sports.png" alt="Sports" /></a>
+            <a class="image"><img src="{{ site.url }}/website-assets/sports.png" alt="Sports" /></a>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
             I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>

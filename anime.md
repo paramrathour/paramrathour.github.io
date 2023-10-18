@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anime
-image: https://paramrathour.github.io/website-assets/anime-grid-favourite.jpg
+image: "https://paramrathour.github.io/website-assets/anime-grid-favourite.jpg"
 ---
 The names of anime in grid are available <a href="https://cutt.ly/favouriteanimegridcaption"> here</a>. The grid was generated using <a href="https://github.com/paramrathour/Image-Grid-Generator"> this tool </a>. Feel free to make your own anime grid :).
 <p></p>
@@ -26,5 +26,5 @@ The names of anime in grid are available <a href="https://cutt.ly/favouriteanime
 <div class="panel">
     <p></p>
     <a href="https://tiermaker.com/create/anime-1587667">Tiermaker Template</a>
-    <span class="image main"><img src="https://paramrathour.github.io/website-assets/anime-tier-list.jpeg" alt="Anime Tier List" /></span>
+    <span class="image main"><img src="{{ site.url }}/website-assets/anime-tier-list.jpeg" alt="Anime Tier List" /></span>
 </div>
