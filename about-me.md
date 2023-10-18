@@ -74,7 +74,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <a href="/western-songs" class="button">Western Songs</a>
                 <a href="/indian-songs" class="button">Indian Songs</a>
                 <p></p>
-                <a href="/anime-OSTs" class="button">Anime OSTs</a>
+                <a href="/anime-osts" class="button">Anime OSTs</a>
                 <a href="/anime-songs" class="button">Anime Songs</a>
             </ul>
         </article>
