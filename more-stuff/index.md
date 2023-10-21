@@ -42,7 +42,7 @@ image: "https://paramrathour.github.io/website-assets/TSC.png"
             <p>EE451 Supervised Research Exposition</p>
             <p>Gröbner has interesting properties connecting computational algebraic geometry and computational commutative algebra, and also having applications in  computer algebra. Gröbner basis is a generalization of the idea of greatest common divisors of multivariable polynomials, and the row-reduced echelon form of a system of linear equations. This talk explores the theory relating commutative algebra and algebraic geometry as well as the applications of Gröbner basis and their implementations.</p>
             <ul class="actions">
-                <li><a href="computational-commutative-algebra-and-geometry/" class="button">More</a></li>
+                <li><a href="computational-commutative-algebra-and-geometry" class="button">More</a></li>
             </ul>
         </article>
         <article>
@@ -94,7 +94,7 @@ image: "https://paramrathour.github.io/website-assets/TSC.png"
             <p>EE451 Supervised Research Exposition</p>
             <p>Gröbner has interesting properties connecting computational algebraic geometry and computational commutative algebra, and also having applications in  computer algebra. Gröbner basis is a generalization of the idea of greatest common divisors of multivariable polynomials, and the row-reduced echelon form of a system of linear equations. This talk explores the theory relating commutative algebra and algebraic geometry as well as the applications of Gröbner basis and their implementations.</p>
             <ul class="actions">
-                <li><a href="computational-commutative-algebra-and-geometry/" class="button">More</a></li>
+                <li><a href="computational-commutative-algebra-and-geometry" class="button">More</a></li>
             </ul>
         </article>
         <article>
