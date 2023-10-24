@@ -3657,6 +3657,10 @@ filter: invert(0%);
 				padding: 0 0 3.5em 0;
 			}
 
+				#sidebar > .inner > *:first-child {
+					border-bottom: 0;
+				}
+
 				#sidebar > .inner > * > :last-child {
 					margin-bottom: 0;
 				}
@@ -4131,7 +4135,7 @@ filter: invert(0%);
   background-color: #f56a6a;
   -webkit-transition: .4s;
   transition: .4s;
-   border-radius: 34px;
+  border-radius: 34px;
 }
 
 .slider:before {
@@ -4144,7 +4148,7 @@ filter: invert(0%);
   background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 input:checked + .slider {
