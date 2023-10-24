@@ -18,9 +18,10 @@ Hosted by GitHub Pages.
 - [reCAPTCHA v2 support](https://developers.google.com/recaptcha/docs/display)
 - Custom favicon supported across devices from [realfavicongenerator](https://realfavicongenerator.net/)
 - 404 Page
-- Open links other than the host in a new tab
 - Option to add hyperlinks to main images of a page
 - Custom Title of each webpage in the format `page.title | site.author`, inspired from [Aryaman](https://aryamanmaithani.github.io/)
-- Logo in Title Bar, inspired from [Aryaman](https://aryamanmaithani.github.io/)
 - Time Table, inspired from [Rwitaban](https://www.cse.iitb.ac.in/~rwitaban/)
 - URL redirect feature, inspired from [Sreeman](https://iamsreeman.github.io/)
+- Jekyll Plugins added
+	- [Jekyll Target Blank](https://github.com/keithmifsud/jekyll-target-blank) - Open links other than the host in a new tab
+- [Github Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) added to run the above Jekyll Plugins
