@@ -14,4 +14,4 @@ pages:
     - public
     - "editorial_jekyll_theme-*.gem"
   only:
-  - master
+  - main
