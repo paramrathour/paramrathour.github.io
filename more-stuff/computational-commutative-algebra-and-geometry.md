@@ -1,5 +1,5 @@
 ---
-image: "https://paramrathour.github.io/Groebner-Basis-and-Applications/Slides/sudoku.svg"
+image: "{{ site.url }}/Groebner-Basis-and-Applications/Slides/sudoku.svg"
 layout: page
 title: Computational Commutative Algebra and Geometry
 ---

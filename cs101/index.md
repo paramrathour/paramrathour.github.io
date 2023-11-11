@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Programming and Utilization
-image: "https://paramrathour.github.io/website-assets/TSC.png"
+image: "{{ site.url }}/website-assets/TSC.png"
 ---
 ## General Tips
 <h4 style="color: rgb(245,106,106,0.9);"><a href="tips">Tips</a></h4>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks and Stuff
-image: "https://paramrathour.github.io/website-assets/TSC.png"
+image: "{{ site.url }}/website-assets/TSC.png"
 ---
 <section>
     <header class="major">

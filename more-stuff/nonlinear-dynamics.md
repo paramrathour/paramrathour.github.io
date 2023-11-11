@@ -1,5 +1,5 @@
 ---
-image: "https://paramrathour.github.io/website-assets/mandelbrot-set.jpg"
+image: "{{ site.url }}/website-assets/mandelbrot-set.jpg"
 layout: page
 title: Nonlinear Dynamics
 ---

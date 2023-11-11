@@ -1,5 +1,5 @@
 ---
-image: "https://paramrathour.github.io/Coded-Computing/coded-computing.svg"
+image: "{{ site.url }}/Coded-Computing/coded-computing.svg"
 layout: page
 title: Coded Computing for Straggler Mitigation, Security and Privacy
 ---

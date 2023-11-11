@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: "https://paramrathour.github.io/website-assets/TSC.png"
+image: "{{ site.url }}/website-assets/TSC.png"
 url: https://youtu.be/lshWT0iyxds
 ---
 
