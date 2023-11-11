@@ -9,11 +9,11 @@ Introduction
 
 The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them. Here, I present my solutions (with proofs) to this problem.
 
-**The slides with pauses can be viewed** [here](/Dining-Philosophers/DP%20with%20pauses.pdf).
+**The slides with pauses can be viewed** [here]({{ site.url }}/Dining-Philosophers/DP%20with%20pauses.pdf).
 
-**The slides without pauses can be viewed** [here](/Dining-Philosophers/DP%20without%20pauses.pdf).
+**The slides without pauses can be viewed** [here]({{ site.url }}/Dining-Philosophers/DP%20without%20pauses.pdf).
 
-**The C implementation can be viewed** [here](/Dining-Philosophers/implementation).
+**The C implementation can be viewed** [here](https://github.com/paramrathour/Dining-Philosophers/tree/main/implementation).
 
 TeX-nical Details
 -----------------

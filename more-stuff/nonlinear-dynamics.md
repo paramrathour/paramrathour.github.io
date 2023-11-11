@@ -21,7 +21,7 @@ On our way, we will look at corresponding Linear Systems to gain insight onto No
 Then, we explore Chaos and Fractals.
 Finally, I encourage you to look at Mathematical Models and their exciting results.
 
-**The Report can be viewed** [here](/Nonlinear-Dynamics/Nonlinear%20Dynamics.pdf).
+**The Report can be viewed** [here]({{ site.url }}/Nonlinear-Dynamics/Nonlinear%20Dynamics.pdf).
 
 TeX-nical Details
 -----------------

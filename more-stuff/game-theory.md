@@ -15,9 +15,9 @@ Introduction
 
 This report is divided into parts: Theoretical foundations of Non-Cooperative Game Theory followed by Cooperative Game Theory then Mechanism Design. Finally, I encourage you to look at different Games and their exciting results. Check out my Braess's Paradox Video [here](https://github.com/paramrathour/Game-Theory/blob/main/Braess's%20Paradox.mkv).
 
-**The Report can be viewed** [here](/Game-Theory/Game%20Theory.pdf).
+**The Report can be viewed** [here]({{ site.url }}/Game-Theory/Game%20Theory.pdf).
 
-**My presentation on Braess's Paradox can be viewed here** - [video](https://github.com/paramrathour/Game-Theory/blob/main/Braess%20Paradox.mkv), [slides](/Game-Theory/Braess%20Paradox.pdf).
+**My presentation on Braess's Paradox can be viewed here** - [video](https://github.com/paramrathour/Game-Theory/blob/main/Braess%20Paradox.mkv), [slides]({{ site.url }}/Game-Theory/Braess%20Paradox.pdf).
 
 TeX-nical Details
 -----------------

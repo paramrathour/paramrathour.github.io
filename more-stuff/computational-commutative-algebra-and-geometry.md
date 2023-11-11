@@ -11,9 +11,9 @@ Gröbner basis is a specific generating set of an algebraic structure called as 
 
 The report is divided into parts: An Introduction to Algebra and Geometry followed by An Introduction to Gröbner basis then Applications of Gröbner basis. We start with an introduction to algebraic concepts, focussing over polynomials, ideals and their algorithms. Then we study geometric concepts such as varieties and their relationship with ideals which is probed with interesting problem. One such problem of "Ideal Membership" is broken down into simpler cases and the development of Gröbner basis Theory and Computation is motivated using it. Then, we focus on select applications of Gröbner basis from countless many available in literature and also discuss SageMath implementations for some of them. I have tried to make this report interesting and also covered fundamentals. Still, this is just a glimpse of an extensive topic like Gröbner basis.
 
-**The report can be viewed** [here](/Groebner-Basis-and-Applications/Report/main.pdf).
+**The report can be viewed** [here]({{ site.url }}/Groebner-Basis-and-Applications/Report/main.pdf).
 
-**The slides can be viewed** [here](/Groebner-Basis-and-Applications/Slides/main.pdf).
+**The slides can be viewed** [here]({{ site.url }}/Groebner-Basis-and-Applications/Slides/main.pdf).
 
 Applications
 -----------------
