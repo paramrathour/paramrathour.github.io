@@ -12,7 +12,7 @@ export jekyll_env="production"
 
 ## Features Added
 
-- Added Jekyll Plugins: used [Github Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) to run these Plugins
+- Added Jekyll Plugins (used [Github Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) to run these Plugins)
 	- [Jekyll Target Blank](https://github.com/keithmifsud/jekyll-target-blank) - Open links other than the host in a new tab (suggested by [Tirthankar](https://wermos.github.io/blog/))
 - Cross-platform Favicon support using [realfavicongenerator](https://realfavicongenerator.net/) (suggested by [Tirthankar](https://wermos.github.io/blog/))
 - LaTeX support using [MathJax](https://www.mathjax.org/)
