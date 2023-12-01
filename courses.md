@@ -136,7 +136,9 @@ title: Courses
 </section>
 <p>
 Also, here is a tier list of courses that I have done, just for fun.
-<span class="image main"><img src="{{ site.url }}/website-assets/iitb-courses-tier-list.png" alt="Anime Tier List" /></span> 
+
+This tiering is subjective and highly influenced by year of offering, profs, mode of instruction but oh well...
+<span class="image main"><img src="{{ site.url }}/website-assets/iitb-courses-tier-list.png" alt="Courses Tier List" /></span>
 The tiermaker <a href="https://tiermaker.com/create/iit-bombay-electrical-engineering-courses-1587667">template</a> used.
 
 </p>
