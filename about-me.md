@@ -49,12 +49,12 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
     <div class="posts">
         <article>
-            <span href="https://www.youtube.com/@TaxiDriver1729/channels" class="image main"><img src="{{ site.url }}/website-assets/youtube.jpg" alt="Featured Channels" /></span>
+            <span href="https://www.youtube.com/@TheTaxiDriver1729/channels" class="image main"><img src="{{ site.url }}/website-assets/youtube.jpg" alt="Featured Channels" /></span>
             <h3>Youtube</h3>
             <p>I watch a lot of youtube, not just educational stuff but also history, business and economics, engineering, tech and random stuff.</p>
             <p>Below link includes <b>educational</b> channels too.</p>
             <ul class="actions">
-                <li><a href="https://www.youtube.com/@TaxiDriver1729/channels" class="button">Featured Channels</a></li>
+                <li><a href="https://www.youtube.com/@TheTaxiDriver1729/channels" class="button">Featured Channels</a></li>
             </ul>
         </article>
         <article>
