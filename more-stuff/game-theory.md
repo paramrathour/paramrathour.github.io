@@ -17,7 +17,11 @@ This report is divided into parts: Theoretical foundations of Non-Cooperative Ga
 
 **The Report can be viewed** [here]({{ site.url }}/Game-Theory/Game%20Theory.pdf).
 
-**My presentation on Braess's Paradox can be viewed here** - [video](https://github.com/paramrathour/Game-Theory/blob/main/Braess%20Paradox.mkv), [slides]({{ site.url }}/Game-Theory/Braess%20Paradox.pdf).
+**My talk on Braess's Paradox can be viewed below** 
+
+<iframe src="https://www.youtube.com/embed/NeUHpMyJG48" allowfullscreen></iframe>
+
+The slides are available [here]({{ site.url }}/Game-Theory/Braess%20Paradox.pdf).
 
 TeX-nical Details
 -----------------

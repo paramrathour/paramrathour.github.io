@@ -9,11 +9,13 @@ Introduction
 
 The massive size of modern datasets necessitates computational tasks to be performed in a distributed fashion, where the data is dispersed among many servers that operate in parallel. As we "scale out" computations across many servers, however, several fundamental challenges arise. Cheap commodity hardware tends to vary greatly in computation time, and it has been demonstrated that a small fraction of servers, referred to as stragglers, can be 5 to 8 times slower than the average, thus creating significant delays in computations. Also, as we distribute computations across many servers, massive amounts data must be moved between them to execute the computational tasks, often over many iterations of a running algorithm, and this creates a substantial bandwidth bottleneck. Distributed computing systems are also much more susceptible to adversarial servers, making security and privacy a major concern.
 
-**The slides with pauses can be viewed** [here]({{ site.url }}/Coded-Computing/Coded%20Computing%20with%20pauses.pdf).
+**Our presentation can be viewed below** 
 
-**The slides without pauses can be viewed** [here]({{ site.url }}/Coded-Computing/Coded%20Computing%20without%20pauses.pdf).
+<iframe src="https://www.youtube.com/embed/x0jxCYyXz98" allowfullscreen></iframe>
 
-**The questions and answers can be viewed** [here]({{ site.url }}/Coded-Computing/QnA.pdf).
+**The slides: [with pauses]({{ site.url }}/Coded-Computing/Coded%20Computing%20with%20pauses.pdf) and [without pauses]({{ site.url }}/Coded-Computing/Coded%20Computing%20without%20pauses.pdf).**
+
+**The QnA can be viewed [here]({{ site.url }}/Coded-Computing/QnA.pdf).**
 
 TeX-nical Details
 -----------------

@@ -11,6 +11,12 @@
       -webkit-filter: invert() hue-rotate(180deg) brightness(105%) contrast(105%);
   }*/
 
+iframe {
+  height: auto;
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+
 .inversed {
   -webkit-filter: invert(100%) brightness(105%) contrast(105%);
   filter: invert(100%) brightness(105%) contrast(105%);
