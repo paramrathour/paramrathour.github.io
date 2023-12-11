@@ -159,7 +159,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <a href="/resume"><span class="icon fa-file"></span></a>
             <div class="content">
                 <h3>Résumé</h3>
-                <p>My <a href="/Resumes/CV.pdf">CV</a> and <a href="/Resumes/Two Page.pdf">résumé</a>.</p>
+                <p>My <a href="{{ site.url }}/Resumes/CV.pdf">CV</a> and <a href="{{ site.url }}/Resumes/Two%20Page.pdf">résumé</a>.</p>
             </div>
         </article>
         <article>
