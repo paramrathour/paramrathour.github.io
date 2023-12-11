@@ -151,8 +151,8 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <a href="/more-stuff"><span class="icon fa-laptop"></span></a>
             <div class="content">
-                <h3>Talks, Reports and More</h3>
-                <p>Lists my talks with <a href="/more-stuff/#slides">slides</a> and some <a href="/more-stuff/#reports">reports</a> that I have worked upon.</p>
+                <h3>Math Expositions</h3>
+                <p>Lists my talks with <a href="/more-stuff/#presentations">slides</a> and some <a href="/more-stuff/#readings">reports</a> that I have worked upon.</p>
             </div>
         </article>
         <article>

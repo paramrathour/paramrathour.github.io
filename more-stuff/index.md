@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Talks and Stuff
+title: Math Expositions
 image: "{{ site.url }}/website-assets/TSC.png"
 ---
+This page features interesting talks and reports that arised from my reading projects. Feel free to explore :).
 <section>
     <header class="major">
-        <h2 id = "slides" >Slides</h2>
+        <h2 id = "presentations" >Presentations</h2>
     </header>
     <div class="posts">
         <article>
             <a href="game-theory" class="image"><img src="{{ site.url }}/Game-Theory/Braess Paradox.png" alt="" /></a>
             <h3>Braess's Paradox | An Introduction to Game Theory</h3>
             <p>Summer of Science <a href="http://mnp-club.github.io/">Maths and Physics Club, IIT Bombay</a></p>
-            <p>Braess's Paradox is a Veridical Paradox which shows that creating new roads can actually slow down traffic!</p>
+            <p>Braess's Paradox is a Veridical Paradox which shows that creating new roads can actually slow down traffic! Here, we dissect the paradox while buidling a strong game theoretic foundation.</p>
             <ul class="actions">
                 <li><a href="game-theory" class="button">More</a></li>
             </ul>
@@ -58,7 +59,7 @@ image: "{{ site.url }}/website-assets/TSC.png"
 </section>
 <section>
     <header class="major">
-        <h2 id = "reports" >Reports</h2>
+        <h2 id = "readings" >Readings</h2>
     </header>
     <div class="posts">
         <article>
