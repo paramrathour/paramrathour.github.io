@@ -16,16 +16,16 @@ phone: +91 (22) 2576 2617
 
 # Social settings
 500px_url:
-facebook_url: https://www.facebook.com/param3435/
+# facebook_url: https://www.facebook.com/param3435/
 github_url: https://github.com/paramrathour
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://www.instagram.com/param3435/
+# instagram_url: https://www.instagram.com/param3435/
 linkedin_url: https://www.linkedin.com/in/param3435
 pinterest_url:
 slack_url:
 stack_overflow_url: https://stackoverflow.com/users/13746066/param-rathour
-#twitter_url: https://twitter.com/andrewbanchich
+#twitter_url: https://twitter.com/param3435
 
 plugins:
   - jekyll-target-blank
