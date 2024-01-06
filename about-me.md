@@ -60,7 +60,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <span class="image main"><img src="{{ site.url }}/website-assets/music.png" alt="Music" /></span>
             <h3>Music</h3>
-            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am most interested in cinematic music and soundtracks. Though <a href="https://youtu.be/2rjbtsX7twc">human voice is amazing</a>, for me, vocals are only as important as any other instrument.</p>
+            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am most interested in cinematic music and soundtracks. Though human voice with its <a href="https://youtu.be/ws0Z9aOXf-w">range</a> and <a href="https://youtu.be/2rjbtsX7twc">variety</a> is amazing, for me, vocals are only as important as any other instrument.</p>
             <ul>
                 <!-- <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
                 <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
