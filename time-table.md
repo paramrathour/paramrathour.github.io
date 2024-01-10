@@ -9,6 +9,42 @@ title: Time Table
     </header>
 </div>
 <p>Here is my IITB timetable over the years. Hover over the cells for more information regarding the courses</p>
+<!------------------------ Spring Semester 23-24 ------------------------>
+<p>Spring Semester (2023-24)</p>
+<div class="table-wrapper" id="time-table">
+    <table class="alt">
+        <tr>
+            <td>Day | Time</td>
+            <td>09:30 - 10:25</td>
+            <td>19:00 - 20:55</td>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td title="Free?"></td>
+            <td title="Free?"></td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td title="Free?"></td>
+            <td title="Advanced Image Processing&#010;Prof: Ajit Rajwade&#010;Room: LH 102">CS754</td>
+        </tr>    
+        <tr>
+            <td>Wednesday</td>
+            <td title="Automata Theory&#010;Prof: Sivakumar G.&#010;Room: SIC 201">CS310</td>
+            <td title="Free?"></td>
+        </tr>    
+        <tr>
+            <td>Thursday</td>
+            <td title="Free?"></td>
+            <td title="Free?"></td>
+        </tr>    
+        <tr>
+            <td>Friday</td>
+            <td title="Automata Theory&#010;Prof: Sivakumar G.&#010;Room: SIC 201">CS310</td>
+            <td title="Advanced Image Processing&#010;Prof: Ajit Rajwade&#010;Room: LH 102">CS754</td>
+        </tr>    
+    </table>
+</div>
 <!------------------------ Autumn Semester 23-24 ------------------------>
 <p>Autumn Semester (2023-24)</p>
 <div class="table-wrapper" id="time-table">

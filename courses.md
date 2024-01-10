@@ -30,6 +30,8 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20341">EE 341 - Communication Systems - I</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20350">EE 350 - Technical Communication</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20451">EE 451  - Supervised Research Exposition </a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20593">EE 593  - Dual Degree Project Stage I </a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20594">EE 594  - Dual Degree Project Stage II </a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20605">EE 605 - Error Correcting Codes</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20613">EE 613 - Nonlinear Dynamical Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20622">EE 622 - Optimal Control Systems</a></li>
@@ -59,6 +61,21 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20344">EE 344 - Electronics Design Lab</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20615">EE 615 - Control and Computational Laboratory</a></li>
                 </ul>
+            <!-- <header class="major">
+                <h4>Project Courses</h4>
+            </header>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20451">EE 451  - Supervised Research Exposition </a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20593">EE 593  - Dual Degree Project Stage I </a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=EE%20594">EE 594  - Dual Degree Project Stage II </a></li>
+                </ul> -->
+            <header class="major">
+                <h3>Department of Mechanical Engineering</h3>
+            </header>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20113">ME 113 - Workshop Practice</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20119">ME 119 - Engineering Graphics and Drawing</a></li>
+                </ul>
         </article>
         <article>
             <header class="major">
@@ -71,12 +88,14 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20218">CS 218 - Design and Analysis of Algorithms</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20224">CS 224 - Computer Networks</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20228">CS 228 - Logic for Computer Science</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20310">CS 310 - Automata Theory</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20347">CS 347 - Operating Systems</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20490">CS 490  - RnD Project</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%206001">CS 6001  - Game Theory and Algorithmic Mechanism Design</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20663">CS 663 - Fundamentals of Digital Image Processing</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20683">CS 683 - Advanced Computer Architechture</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20747">CS 747 - Foundations of Intelligent and Learning Agents</a></li>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20754">CS 754 - Advanced Image Processing</a></li>
                     <!-- <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20779">CS 779 - Extremal Combinatorics</a></li> -->
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20781">CS 781 - Formal Methods in Machine Learning</a></li>
                 </ul>
@@ -109,11 +128,9 @@ title: Courses
             <header class="major">
                 <h3>Department of Biosciences and Bioengineering</h3>
             </header>
-            <ul>
-                <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=BB%20101">BB 101 - Biology</a></li>
-            </ul>
-        </article>
-        <article>
+                <ul>
+                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=BB%20101">BB 101 - Biology</a></li>
+                </ul>
             <header class="major">
                 <h3>Humanities and Social Sciences</h3>
             </header>
@@ -122,15 +139,6 @@ title: Courses
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20200">HS 200 - Environment Studies</a></li>
                     <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=HS%20301">HS 301 - Philosophy</a></li>
                 </ul>
-        </article>
-        <article>
-            <header class="major">
-                <h3>Department of Mechanical Engineering</h3>
-            </header>
-                <ul>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20113">ME 113 - Workshop Practice</a></li>
-                    <li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=ME%20119">ME 119 - Engineering Graphics and Drawing</a></li>
-                </ul>    
         </article>
     </div>
 </section>
