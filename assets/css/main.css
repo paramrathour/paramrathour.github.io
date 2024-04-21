@@ -11,6 +11,11 @@
       -webkit-filter: invert() hue-rotate(180deg) brightness(105%) contrast(105%);
   }*/
 
+.recaptcha{
+	transform: scale(0.9);
+	transform-origin: 0 0;
+}
+
 iframe {
   height: auto;
   width: 100%;

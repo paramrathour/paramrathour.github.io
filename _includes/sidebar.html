@@ -63,24 +63,25 @@
         <Anonymous Form>
         <form method="POST" action="https://formspree.io/f/xzbwyryg" target="_blank">
             <div class="row uniform">
-                <div class="12u$" style="width: 90%;">
+                <div class="12u$">
                     <input type="text" name="Pseudonym" id="Pseudonym" value="" placeholder="Pseudonym" required/>
                 </div>
-                <div class="12u$" style="width: 90%;">
+                <div class="12u$">
                     <textarea type="text" name="Message" id="Message" placeholder="Enter your message" rows="4" required></textarea>
                 </div>
-                <Break>
+                <!-- <Break> -->
                 <!-- <div class="12u$(small)">
                 <b>Bungee gum has the properties of?</b><br>
                     <input type="checkbox" id="Rubber" name="Rubber"/>
                     <label for="Rubber">Rubber</label>
                     <input type="checkbox" id="Gum" name="Gum"/>
                     <label for="Gum">Gum</label>
-                </div>
-                <Break> -->
-                <div class="12u$">
+                </div> -->
+                <!-- <Break> -->
+                <div class="12u$ recaptcha" >
+                    <div id="AnonymousContact"></div>
+                    <br>
                     <ul class="actions">
-                        <div  class="g-recaptcha" id="AnonymousContact"></div>
                         <li><input type="submit" value="Send Message" class="special" /></li>
                         <li><input type="reset" value="Reset" /></li>
                     </ul>
