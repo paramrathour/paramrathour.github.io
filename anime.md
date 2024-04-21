@@ -25,5 +25,5 @@ The names of anime in grid are available <a href="https://cutt.ly/favouriteanime
 <buttona class="accordion">Tier List</buttona>
 <div class="panel">
     <p></p>
-    <span class="image main"><img src="{{ site.url }}/website-assets/anime-tier-list.jpeg" alt="Anime Tier List" />The tiermaker <a href="https://tiermaker.com/create/anime-1587667">template</a> used.</span> 
+    <span class="image main"><img src="{{ site.url }}/website-assets/anime-tier-list.jpg" alt="Anime Tier List" />The tiermaker <a href="https://tiermaker.com/create/anime-1587667">template</a> used.</span> 
 </div>
