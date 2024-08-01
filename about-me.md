@@ -53,7 +53,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <h3>Anime</h3>
             <p>It's been a while since I started watching 'anime' (2017). I remember starting Death Note and being very skeptical about this medium, but it didn't take me any time to get hooked.
             <!-- Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D -->
-            Since then, I have watched quite a lot of anime with varied genres. I majorly like character dramas infused with action, adventure, and fantasy elements. The addition of suspense, psychological, and mystery themes is the cherry on top.</p>
+            Since then, I have watched quite a lot of anime with varied genres. I majorly like character dramas infused with action, adventure, or fantasy elements. The addition of suspense, psychological, or mystery themes is a cherry on top.</p>
             <a href="/anime" class="button">My Anime page</a>
         </article>
         <article>
