@@ -230,13 +230,13 @@ title: Time Table
             <td title="Nonlinear Dynamical Systems&#010;Prof: Debasattam Pal" colspan="2">EE613</td>
             <td title="Information Theory and Coding&#010;Prof: Sibi Raj B. Pillai">EE708</td>
             <td colspan="3" title="Free?"></td>
-            <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
+            <td title="Formal Methods in Machine Learning&#010;Prof: Supratik Chakraborty">CS 781</td>
         </tr>    
         <tr>
             <td>Wednesday</td>
             <td title="Free?"></td>
             <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
-            <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
+            <td colspan="2" title="Processor Design&#010;Prof: Virendra Singh">EE739</td>
             <td colspan="3" title="Electronic Devices Laboratory&#010;Prof: Udayan Ganguli&#010;Prof: Saurabh Lodha">EE236</td>
             <td title="Free?"></td>
         </tr>    
@@ -253,9 +253,9 @@ title: Time Table
             <td>Friday</td>
             <td title="Free?"></td>
             <td colspan="2" title="Operating Systems&#010;Prof: Mythili Vutukuru">CS347</td>
-            <td colspan="2" title="Processor Design&#010;Virendra Singh">EE739</td>
+            <td colspan="2" title="Processor Design&#010;Prof: Virendra Singh">EE739</td>
             <td colspan="3" title="Free?"></td>
-            <td title="Formal Methods in Machine Learning&#010;Supratik Chakraborty">CS 781</td>
+            <td title="Formal Methods in Machine Learning&#010;Prof: Supratik Chakraborty">CS 781</td>
         </tr>    
     </table>
 </div>
