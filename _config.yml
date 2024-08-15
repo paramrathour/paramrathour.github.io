@@ -29,6 +29,7 @@ stack_overflow_url: https://stackoverflow.com/users/13746066/param-rathour
 
 plugins:
   - jekyll-target-blank
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
