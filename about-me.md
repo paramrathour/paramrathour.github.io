@@ -54,7 +54,9 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <p>It's been a while since I started watching 'anime' (2017). I remember starting Death Note and being very skeptical about this medium, but it didn't take me any time to get hooked.
             <!-- Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D -->
             Since then, I have watched quite a lot of anime with varied genres. I majorly like character dramas infused with action, adventure, or fantasy elements. The addition of suspense, psychological, or mystery themes is a cherry on top.</p>
+            <p>Recently, I have put together a few anime blogs, feel free to check out! I talk about all sorts of things, like the <a href="/blog/anime-timeline"> anime I have watched</a>, <a href="blog/hunter-hunter-little-things">my favourite anime</a>, <a href="/blog/anime-soundtracks">favourite anime music</a>, and even deep <a href="blog/philosophy-in-anime">philosophical stuff in anime</a>.</p>
             <a href="/anime" class="button">My Anime page</a>
+            <a href="/blog/tags/anime" class="button">My Anime blogs</a>
         </article>
         <article>
             <span class="image main"><img src="{{ site.url }}/website-assets/music.jpg" alt="Music Artists" /></span>
@@ -69,13 +71,13 @@ Below are some of my interests (Consider thumbnails as recommendations).
                 <li><a href="https://youtu.be/9Pf3hkYR9T0">Someday (Believe me) by Abo Takeshi</a></li>
                 <li><a href="https://youtu.be/VqrCeNjxC-c">Deeply Fast</a></li>
                 <li><a href="https://youtu.be/Z4R42NALDy8">To Give a Marionette Life</a></li> -->
-                <a href="/cinematic-music" class="button small">Cinematic Music</a>
+                <a href="/cinematic-music" class="button">Cinematic Music</a>
                 <br><br>
-                <a href="/western-songs" class="button small">Western Songs</a>
-                <a href="/indian-songs" class="button small">Indian Songs</a>
+                <a href="/western-songs" class="button">Western Songs</a>
+                <a href="/indian-songs" class="button">Indian Songs</a>
                 <br><br>
-                <a href="/anime-osts" class="button small">Anime OSTs</a>
-                <a href="/anime-songs" class="button small">Anime Songs</a>
+                <a href="/anime-osts" class="button">Anime OSTs</a>
+                <a href="/anime-songs" class="button">Anime Songs</a>
             </ul>
         </article>
         <article>
