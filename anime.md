@@ -28,8 +28,13 @@ The names of anime in grid are available <a href="https://cutt.ly/favouriteanime
 <buttona class="accordion">My Favourite Anime Music</buttona>
 <div class="panel">
     <p></p>
+    <h4>Soundtracks (Youtube Playlists)</h4>
     <a href="/anime-osts" class="button">Anime OSTs</a>
     <a href="/anime-songs" class="button">Anime Songs</a>
+    <hr>
+    <h4>Anime Names (List)</h4>
+    <a href="https://myanimelist.net/stacks/9687" class="button">MyAnimeList</a>
+    <a href="https://anilist.co/user/wrath3435/animelist/Favourite%20Soundtracks" class="button">Anilist</a>
 </div>
 <p></p>
 <buttona class="accordion">Tier List</buttona>
