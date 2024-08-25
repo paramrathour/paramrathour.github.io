@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CS101 Tips
+sitemap: false
 ---
 <!-- **Table of Content**
 * auto-gen TOC:
