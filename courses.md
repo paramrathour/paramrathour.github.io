@@ -6,7 +6,7 @@ title: Courses
   <header>
     <h2>IIT Bombay <a href="http://www.iitb.ac.in/"><img class="inversion" src="{{ site.url }}/website-assets/iitb-logo.png" alt="IIT Bombay Logo" style="width:107.72px;height:105px;" align="right"/></a>
     </h2>
-    <p>List of Courses undertaken:</p>
+    <p>List of Courses completed:</p>
   </header>
 </div>
 <section>
