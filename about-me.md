@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 image: "{{ site.url }}/website-assets/tree.jpg"
-url: https://youtu.be/lshWT0iyxds
+image_url: https://youtu.be/lshWT0iyxds
 ---
 
 Hello! My name is Param Rathour.

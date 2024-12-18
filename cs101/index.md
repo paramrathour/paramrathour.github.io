@@ -2,6 +2,7 @@
 layout: page
 title: Computer Programming and Utilization
 image: "{{ site.url }}/website-assets/TSC.png"
+image_url: "{{ site.url }}/blog/cs101-tips"
 ---
 ## General Tips
 <h4 style="color: rgb(245,106,106,0.9);"><a href="{{ site.url }}/blog/cs101-tips">Tips, a must read for any beginner!</a></h4>
