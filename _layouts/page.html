@@ -27,7 +27,7 @@
                     {% if page.image_url %}
                         <span><a href="{{ page.image_url | flatify }}" class="image main"><img src="{{page.image | flatify }}" alt="" /></a></span>
                     {% else %}
-                        <span class="image main"><img src="{{page.image}}" alt="" /></span>
+                        <span class="image main"><img src="{{ page.image | flatify }}" alt="" /></span>
                     {% endif %}
                   {% endif %}
 
