@@ -11,14 +11,14 @@ I am currently an undergraduate student at the Department of Electrical Engineer
 
 <buttona class="accordion">Education</buttona>
 <div class="panel">
-    <p></p>
+<p></p>
 I have changed a lot of schools in my childhood due to transfers.
 
-I completed my education from 4th to 8th standard at Holy Cross Convent High School, Akola.
+I completed my education from 4<sup>th</sup> to 8<sup>th</sup> standard at Holy Cross Convent High School, Akola.
 
 I then shifted to Latur and joined Podar International School, Latur, and completed my class 10, obtaining 10 CGPA in CBSE Board Examinations in 2017.
 
-I finished my junior college (11th and 12th standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
+I finished my junior college (11<sup>th</sup> and 12<sup>th</sup> standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
 </div>
 <p></p>
 <buttona class="accordion">Interests</buttona>
@@ -35,7 +35,8 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </header>
         <h3>Recreational Mathematics ε></h3>
             <span class="image main"><img src="{{ site.url }}/website-assets/mathematics-for-fun.jpg" alt="Mathematics For Fun" /></span>
-            <p>I love mathematics. My interest developed in 10th standard after connecting with youtube channels like Numberphile, 3Blue1Brown, Mathologer and solving logic puzzles. I learnt a lot about beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
+            <p>I love mathematics. My interest developed in 10<sup>th</sup> standard after connecting with youtube channels like <a href="https://www.youtube.com/@numberphile">Numberphile</a>, <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a>, <a href="https://www.youtube.com/@Mathologer">Mathologer</a>, <a href="https://www.youtube.com/@pbsinfiniteseries">PBS Infinite Series</a> and solving <a href="https://www.youtube.com/playlist?list=PLJicmE8fK0EiFRt1Hm5a_7SJFaikIFW30">TED-Ed</a> logic puzzles. I learnt a lot about the beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
+            <a href="/blog/math-book-recommendations" class="button">Some Recreational Math Books</a>
         <hr class="major" />
         <h3>Applied Mathematics</h3>
             <span class="image main"><img src="{{ site.url }}/website-assets/applied-mathematics.jpg" alt="Applied Mathematics" /></span>
@@ -54,7 +55,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <p>It's been a while since I started watching 'anime' (2017). I remember starting Death Note and being very skeptical about this medium, but it didn't take me any time to get hooked.
             <!-- Action, Adventure, Comedy, Drama, Fantasy, Gore, Historical, Horror, Miltary, Mystery, Psychological, Romance, School, Sci-fi, Slice of Life, Sports, Supernatural, Time Travel, Thriller or Tragedy; I have watched them all :D -->
             Since then, I have watched quite a lot of anime with varied genres. I majorly like character dramas infused with action, adventure, or fantasy elements. The addition of suspense, psychological, or mystery themes is a cherry on top.</p>
-            <p>Recently, I have put together a few anime blogs, feel free to check out! I talk about all sorts of things, like the <a href="/blog/anime-timeline"> anime I have watched</a>, <a href="blog/hunter-hunter-little-things">my favourite anime</a>, <a href="/blog/anime-soundtracks">favourite anime music</a>, and even deep <a href="blog/philosophy-in-anime">philosophical stuff in anime</a>.</p>
+            <p>Recently, I have put together a few anime blogs, feel free to check out! I talk about all sorts of things, like the <a href="/blog/anime-timeline"> anime I have watched</a>, <a href="blog/hunter-hunter-little-things">my favourite anime</a>, <a href="/blog/anime-soundtracks">favourite anime music</a>, and even deep <a href="blog/philosophy-in-anime">philosophical</a>  / <a href="blog/psychology-in-anime">psychological</a> stuff in anime.</p>
             <a href="/anime" class="button">My Anime page</a>
             <a href="/blog/tags/anime" class="button">My Anime blogs</a>
         </article>
@@ -98,13 +99,15 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <article>
             <span class="image main"><img src="{{ site.url }}/website-assets/novels.jpg" alt="Novels" /></span>
             <h3>Novels</h3>
-            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. I am planning to start reading again someday, sometime :).</p>
+            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. <strike>I am planning to start reading again someday, sometime :)</strike><br>
+            And with that, my journey restarts ;)</p>
+            <a href="/blog/book-timeline/" class="button">My Book List</a>
             <hr>
             <a class="image"><img src="{{ site.url }}/website-assets/sports.png" alt="Sports" /></a>
             <h3>Sports</h3>
             <p>I like playing and watching cricket and badminton.
-            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.</p>
-            <p>My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
+            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.<br>
+            My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
         </article>
         <article>
             <span href="https://youtube.com/playlist?list=PLH2AOVeIaWFmnXrXQ_UhKVy9Zp0RtRMm5" class="image main"><img src="{{ site.url }}/website-assets/podcasts.jpg" alt="Featured Podcasts" /></span>
@@ -132,32 +135,18 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <h2>More</h2>
     </header>
     <div class="features">
-        <article>
+        <!-- <article>
             <a href="/time-table"><span class="icon fa-calendar"></span></a>
             <div class="content">
                 <h3>Time Table</h3>
                 <p>My academic <a href="/time-table">time table</a>.</p>
             </div>
-        </article>
+        </article> -->
         <article>
-            <a href="/courses"><span class="icon fa-book"></span></a>
-            <div class="content">
-                <h3>Courses</h3>
-                <p>List of <a href="/courses">courses</a> that I have taken and am taking.</p>
-            </div>
-        </article>
-        <!--article>
-            <a href="/Blog"><span class="icon fa-user"></span></a>
+            <a href="/blog"><span class="icon fa-pencil-square-o"></span></a>
             <div class="content">
                 <h3>Blog</h3>
-                <p>My <a href="/Blog">Blog</a>.</p>
-            </div>
-        </article-->
-        <article>
-            <a href="/projects"><span class="icon fa-code"></span></a>
-            <div class="content">
-                <h3>Projects</h3>
-                <p>Lists some of my <a href="/projects">Projects</a>.</p>
+                <p>My blog <a href="/blog">Somewhere Not Here</a>.</p>
             </div>
         </article>
         <article>
@@ -168,10 +157,24 @@ Below are some of my interests (Consider thumbnails as recommendations).
             </div>
         </article>
         <article>
+            <a href="/projects"><span class="icon fa-code"></span></a>
+            <div class="content">
+                <h3>Projects</h3>
+                <p>Lists some of my <a href="/projects">Projects</a>. Should I update them?</p>
+            </div>
+        </article>
+        <article>
             <a href="/resume"><span class="icon fa-file"></span></a>
             <div class="content">
                 <h3>Résumé</h3>
                 <p>My <a href="{{ site.url }}/Resumes/CV.pdf">CV</a> and <a href="{{ site.url }}/Resumes/Two%20Page.pdf">résumé</a>.</p>
+            </div>
+        </article>
+        <article>
+            <a href="/courses"><span class="icon fa-book"></span></a>
+            <div class="content">
+                <h3>Courses</h3>
+                <p>List of <a href="/courses">courses</a> that I took at college.</p>
             </div>
         </article>
         <article>

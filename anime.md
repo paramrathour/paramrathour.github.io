@@ -22,6 +22,7 @@ The names of anime in grid are available <a href="https://cutt.ly/favouriteanime
 <div class="panel">
     <p></p>
     <a href="/blog/philosophy-in-anime" class="button">Philosophy in Anime</a>
+    <a href="/blog/psychology-in-anime" class="button">Psychology in Anime</a>
     <a href="/blog/hunter-hunter-little-things" class="button">Hunter × Hunter × Little × Things</a>
     <a href="/blog/anime-soundtracks" class="button">Celebrating 25 Years of Anime Soundtracks</a>
 </div>
