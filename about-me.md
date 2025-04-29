@@ -36,7 +36,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <h3>Recreational Mathematics ε></h3>
             <span class="image main"><img src="{{ site.url }}/website-assets/mathematics-for-fun.jpg" alt="Mathematics For Fun" /></span>
             <p>I love mathematics. My interest developed in 10<sup>th</sup> standard after connecting with youtube channels like <a href="https://www.youtube.com/@numberphile">Numberphile</a>, <a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a>, <a href="https://www.youtube.com/@Mathologer">Mathologer</a>, <a href="https://www.youtube.com/@pbsinfiniteseries">PBS Infinite Series</a> and solving <a href="https://www.youtube.com/playlist?list=PLJicmE8fK0EiFRt1Hm5a_7SJFaikIFW30">TED-Ed</a> logic puzzles. I learnt a lot about the beauty, history and applications of mathematics from books. My interest expanded when I was able to correlate these with my JEE Preparation, and that's when this became my favourite subject.</p>
-            <a href="/blog/math-book-recommendations" class="button">Some Recreational Math Books</a>
+            <a href="/blog/math-book-recommendations" class="button">More Recreational Math Books</a>
         <hr class="major" />
         <h3>Applied Mathematics</h3>
             <span class="image main"><img src="{{ site.url }}/website-assets/applied-mathematics.jpg" alt="Applied Mathematics" /></span>
