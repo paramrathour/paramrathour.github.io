@@ -9,9 +9,7 @@ Hello! My name is Param Rathour.
 
 I am currently an undergraduate student at the Department of Electrical Engineering, Indian Institute of Technology Bombay (Mumbai, India). I'm pursuing a Bachelor of Technology and Master of Technology in Electrical Engineering, with Control and Computing as my specialization. I have also completed a minor in Computer Science & Engineering.
 
-<buttona class="accordion">Education</buttona>
-<div class="panel">
-<p></p>
+{% capture education_content %}
 I have changed a lot of schools in my childhood due to transfers.
 
 I completed my education from 4<sup>th</sup> to 8<sup>th</sup> standard at Holy Cross Convent High School, Akola.
@@ -19,11 +17,14 @@ I completed my education from 4<sup>th</sup> to 8<sup>th</sup> standard at Holy 
 I then shifted to Latur and joined Podar International School, Latur, and completed my class 10, obtaining 10 CGPA in CBSE Board Examinations in 2017.
 
 I finished my junior college (11<sup>th</sup> and 12<sup>th</sup> standard) at Rajarshi Shahu Mahavidyalaya, Latur, with 96.6% in CBSE Board Examinations in 2019.
-</div>
-<p></p>
-<buttona class="accordion">Interests</buttona>
-<div class="panel">
-    <p></p>
+{% endcapture %}
+{% include details-block.html
+    id="education"
+    title="Education"
+    content=education_content
+%}
+
+{% capture interests_content %}
 I am always involved in learning new stuff and its applications.
 
 Below are some of my interests (Consider thumbnails as recommendations).
@@ -124,12 +125,16 @@ Below are some of my interests (Consider thumbnails as recommendations).
     </div>
 </section>
 <p>Phew! Lot of things to do whensoever.</p>
-</div>
-<p></p>
-<buttona class="accordion">Miscellaneous</buttona>
-<div class="panel">
-    <p></p>
+{% endcapture %}
+{% include details-block.html
+    id="interests"
+    title="Interests"
+    content=interests_content
+%}
+
+{% capture miscellaneous_content %}
 <!-- Section -->
+<br>
 <section>
     <header class="major">
         <h2>More</h2>
@@ -188,4 +193,9 @@ Below are some of my interests (Consider thumbnails as recommendations).
     <p>And that's a wrap! Thanks for checking out my website. I hope you enjoyed it ε>.</p>
     <p>For further queries/feedback, you can reach me via <b><a href="mailto:{{ site.instiemail }}" >email</a></b> or the <b>Anonymous Contact</b> form accessible in the sidebar.</p>
 </section>
-</div>
+{% endcapture %}
+{% include details-block.html
+    id="miscellaneous"
+    title="Miscellaneous"
+    content=miscellaneous_content
+%}
