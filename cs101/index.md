@@ -8,7 +8,7 @@ image_url: "{{ site.url }}/blog/cs101-tips"
 <h4 style="color: rgb(245,106,106,0.9);"><a href="{{ site.url }}/blog/cs101-tips">Tips, a must read for any beginner!</a></h4>
 
 ## Practice Problems
-<h4 style="color: rgb(245,106,106,0.9);"><a href="https://github.com/paramrathour/CS-101/blob/main/Problems.pdf">In-GitHub PDF Link (For Mobile) | </a><a href="{{ site.url }}/CS-101/Problems.pdf">In-Browser PDF Link (For Desktop)</a></h4>
+<h4 style="color: rgb(245,106,106,0.9);"><a href="{{ site.url }}/CS-101/Problems.pdf">Problems PDF</a></h4>
 <h4 style="color: rgb(245,106,106,0.9);"><a href="solutions">Student Solutions</a></h4>
 
 ## Course Info
