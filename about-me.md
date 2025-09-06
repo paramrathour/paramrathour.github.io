@@ -41,7 +41,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
         <hr class="major" />
         <h3>Applied Mathematics</h3>
             <span class="image main"><img src="{{ site.url }}/website-assets/applied-mathematics.jpg" alt="Applied Mathematics" /></span>
-            <p>Over the years at IITB, my interest in pure and applied mathematics has only grown which led me to get invested in Theoretical Computer Science and Control Theory as well. Some of my favourite books which I have delved into are given above.</p>
+            <p>Over the years at IITB, my interest in pure and applied mathematics has only grown which led me to get invested in Theoretical Computer Science, Control Theory and Computer Architecture as well. Some of my favourite books which I have delved into are given above.</p>
 </section>
 
 <!-- Section -->
@@ -59,11 +59,10 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <p>Recently, I have put together a few anime blogs, feel free to check out! I talk about all sorts of things, like the <a href="/blog/anime-timeline"> anime I have watched</a>, <a href="blog/hunter-hunter-little-things">my favourite anime</a>, <a href="/blog/anime-soundtracks">favourite anime music</a>, and even deep <a href="blog/philosophy-in-anime">philosophical</a>  / <a href="blog/psychology-in-anime">psychological</a> stuff in anime.</p>
             <a href="/anime" class="button">My Anime page</a>
             <a href="/blog/tags/anime" class="button">My Anime blogs</a>
-        </article>
-        <article>
+            <hr>
             <span class="image main"><img src="{{ site.url }}/website-assets/music.jpg" alt="Music Artists" /></span>
             <h3>Music</h3>
-            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am most interested in cinematic music and soundtracks. Though human voice with its <a href="https://youtu.be/oCrVXdkBCeg">range</a> and <a href="https://youtu.be/2rjbtsX7twc">variety</a> is amazing, for me, vocals are only as important as any other instrument.</p>
+            <p>I love listening to music. I have quite diverse interest ranging from Old Hindi Songs to Contemporary English Songs to J-pop. My tastes vary a lot with my mood :P. Still, generally, I am most interested in cinematic music and soundtracks (<a href="/blog/anime-soundtracks/#introduction">more info</a>). Though human voice with its <a href="https://youtu.be/oCrVXdkBCeg">range</a> and <a href="https://youtu.be/2rjbtsX7twc">variety</a> is amazing, for me, vocals are only as important as any other instrument.</p>
             <ul>
                 <!-- <li><a href="https://youtu.be/o-ONVkhJVSA">G Minor Bach (Arr. Luo Ni)</a></li>
                 <li><a href="https://youtu.be/HEf_xrgmuRI">The Wolf And The Moon by BrunuhVille</a></li>
@@ -83,11 +82,28 @@ Below are some of my interests (Consider thumbnails as recommendations).
             </ul>
         </article>
         <article>
+            <span href="/blog" class="image main"><img src="{{ site.url }}/website-assets/better-call-saul-inflatable.gif" alt="My Blogs" /></span>
+            <h3>Blogging</h3>
+            <p>My most recent hobby. Check it out by clicking below!</p>
+                <a href="/blog" class="button">Somewhere Not Here</a>
+            <hr>
             <span class="image main"><img src="{{ site.url }}/website-assets/tv-series.jpg" alt="T.V. Series" /></span>
             <h3>T.V. Series</h3>
-            <p>First watched during this 'corona' time. But I only watch these when I feel like taking break from watching fast-paced anime.</p>
+            <p>First watched during 'corona' time. But nowadays, I only watch these when I feel like taking break from watching fast-paced anime.</p>
             <a href="https://www.serializd.com/user/wrath" class="button">My T.V. Series page</a>
             <p></p>
+            <hr>
+            <span class="image main"><img src="{{ site.url }}/website-assets/novels.jpg" alt="Novels" /></span>
+            <h3>Books (Fiction)</h3>
+            <p>I like reading fictional stories, and I remember enjoying immersing myself in the Potter-verse.<strike>However, I haven't read a lot of books lately.I am planning to start reading again someday, sometime :)</strike><br>
+            And with that, my journey restarts ;). At the moment, I am exploring different genres the medium has to offer.</p>
+            <a href="/blog/book-timeline/" class="button">My Book List</a>
+            <hr>
+            <a class="image"><img src="{{ site.url }}/website-assets/sports.png" alt="Sports" /></a>
+            <h3>Sports</h3>
+            <p>I enjoy playing badminton and watching cricket while being mildly obsessed with excessively specific <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html">stats</a>.
+            I started playing football in NCC sports sessions during my first year but have been out of touch since. I like trying out new games (and failing at them).<br>
+            My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
         </article>
         <article>
             <span href="https://www.youtube.com/@TheTaxiDriver1729/channels" class="image main"><img src="{{ site.url }}/website-assets/youtube.jpg" alt="Featured Youtube Channels" /></span>
@@ -96,19 +112,6 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <ul class="actions">
                 <li><a href="https://www.youtube.com/@TheTaxiDriver1729/channels" class="button">Featured Channels</a></li>
             </ul>
-        </article>
-        <article>
-            <span class="image main"><img src="{{ site.url }}/website-assets/novels.jpg" alt="Novels" /></span>
-            <h3>Novels</h3>
-            <p>I like reading stories with Harry Potter being my favourite. However, I haven't read a lot of books lately. <strike>I am planning to start reading again someday, sometime :)</strike><br>
-            And with that, my journey restarts ;)</p>
-            <a href="/blog/book-timeline/" class="button">My Book List</a>
-            <hr>
-            <a class="image"><img src="{{ site.url }}/website-assets/sports.png" alt="Sports" /></a>
-            <h3>Sports</h3>
-            <p>I like playing and watching cricket and badminton.
-            I started playing football in NCC sports sessions during my first year. I have enthusiasm for learning new games and will try more.<br>
-            My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
         </article>
         <article>
             <span href="https://youtube.com/playlist?list=PLH2AOVeIaWFmnXrXQ_UhKVy9Zp0RtRMm5" class="image main"><img src="{{ site.url }}/website-assets/podcasts.jpg" alt="Featured Podcasts" /></span>
@@ -151,7 +154,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <a href="/blog"><span class="icon fa-pencil-square-o"></span></a>
             <div class="content">
                 <h3>Blog</h3>
-                <p>My blog <a href="/blog">Somewhere Not Here</a>.</p>
+                <p>My blog (again:) <a href="/blog">Somewhere Not Here</a>.</p>
             </div>
         </article>
         <article>
