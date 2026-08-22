@@ -101,7 +101,7 @@ Below are some of my interests (Consider thumbnails as recommendations).
             <hr>
             <a class="image"><img src="{{ site.url }}/website-assets/sports.png" alt="Sports" /></a>
             <h3>Sports</h3>
-            <p>I enjoy playing badminton and watching cricket while being mildly obsessed with excessively specific <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html">stats</a>.
+            <p>I enjoy playing badminton, table tennis and watching cricket while being mildly obsessed with excessively specific <a href="https://stats.espncricinfo.com/ci/engine/stats/index.html">stats</a>.
             I started playing football in NCC sports sessions during my first year but have been out of touch since. I like trying out new games (and failing at them).<br>
             My favourite team (of course after <b style="color:rgb(34, 85, 164);">India</b>) - <b class="noinversion" style="color:rgb(249,205,5);">CSK</b></p>
         </article>
